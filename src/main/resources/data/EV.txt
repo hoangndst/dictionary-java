@@ -1,5954 +1,5706 @@
 abandon
-(v) bỏ, từ bỏ
+bo, tu bo
 ability
-(n) khả năng, năng lực
+kha nang, nang luc
 able
-(adj) có năng lực, có tài
+co nang luc, co tai
 about
-(adv) (prep) khoảng, về
+khoang, ve
 above
-(adv) ở trên
+o tren
 abroad
-(adv) ở, ra nước ngoài, ngoài trời
+o, ra nuoc ngoai, ngoai troi
 absence
-(n) sự vắng mặt
+su vang mat
 absent
-(adj) vắng mặt, nghỉ
+vang mat, nghi
 absolute
-(adj) tuyệt đối, hoàn toàn
+tuyet doi, hoan toan
 absolutely
-(adv) tuyệt đối, hoàn toàn
+tuyet doi, hoan toan
 absorb
-(v) thu hút, hấp thu, lôi cuốn
+thu hut, hap thu, loi cuon
 abuse
-(n) (v) lộng hành, lạm dụng
+long hanh, lam dung
 academic
-(adj) thuộc học viện, ĐH, viện hàn lâm
+thuoc hoc vien, DH, vien han lam
 accent
-(n) trọng âm, dấu trọng âm
+trong am, dau trong am
 accept
-(v) chấp nhận, chấp thuận
+chap nhan, chap thuan
 acceptable
-(adj) có thể chấp nhận, chấp thuận
+co the chap nhan, chap thuan
 access
-(n) lối, cửa, đường vào
+loi, cua, duong vao
 accident
-(n) tai nạn, rủi ro
+tai nan, rui ro
 accidental
-(adj) tình cờ, bất ngờ
+tinh co, bat ngo
 accidentally
-(adv) tình cờ, ngẫu nhiên
+tinh co, ngau nhien
 accommodation
-(n) sự thích nghi, điều tiết
+su thich nghi, dieu tiet
 accompany
-(v) đi theo, đi cùng, kèm theo
+di theo, di cung, kem theo
 account
-(n) (v) tài khoản, kế toán; tính toán
+tai khoan, ke toan; tinh toan
 accurate
-(adj) đúng đắn, chính xác, xác đáng
+dung dan, chinh xac, xac dang
 accuse
-(v) tố cáo, buộc tội, kết tội
+to cao, buoc toi, ket toi
 acid
-(n) axit
+axit
 acknowledge
-(v) công nhận, thừa nhận
+cong nhan, thua nhan
 acquire
-(v) dành được, đạt được, kiếm được
+danh duoc, dat duoc, kiem duoc
 across
-(adv) (prep) qua, ngang qua
+qua, ngang qua
 activity
-(n) sự tích cực, sự hoạt động, sự hăng hái
+su tich cuc, su hoat dong, su hang hai
 actor
-(n) diễn viên nam
+dien vien nam
 actual
-(adj) thực tế, có thật
+thuc te, co that
 actually
-(adv) hiện nay, hiện tại
+hien nay, hien tai
 actress
-(n) diễn viên nữ
+dien vien nu
 adapt
-(v) tra, lắp vào
+tra, lap vao
 add
-(v) cộng, thêm vào
+cong, them vao
 additional
-(adj) thêm vào, tăng thêm
+them vao, tang them
 address
-(n) (v) địa chỉ, đề địa chỉ
+dia chi, de dia chi
 adequate
-(adj) đầy, đầy đủ
+day, day du
 adjust
-(v) sửa lại cho đúng, điều chỉnh
+sua lai cho dung, dieu chinh
 admiration
-(n) sự khâm phục,người khâm phục, thán phục
+su kham phuc,nguoi kham phuc, than phuc
 admire
-(v) khâm phục, thán phục
+kham phuc, than phuc
 admit
-(v) nhận vào, cho vào, kết hợp
+nhan vao, cho vao, ket hop
 adopt
-(v) nhận làm con nuôi, bố mẹ nuôi
+nhan lam con nuoi, bo me nuoi
 adult
-(n) (adj) người lớn, người trưởng thành;
+nguoi lon, nguoi truong thanh;
 advance
-(n) (v) sự tiến bộ, tiến lên; đưa lên, đề xuất
+su tien bo, tien len; dua len, de xuat
 advantage
-(n) sự thuận lợi, lợi ích, lợi thế
+su thuan loi, loi ich, loi the
 adventure
-(n) sự phiêu lưu, mạo hiểm
+su phieu luu, mao hiem
 advertise
-(v) báo cho biết, báo cho biết trước
+bao cho biet, bao cho biet truoc
 advertisement
-(n) quảng cáo
+quang cao
 advice
-(n) lời khuyên, lời chỉ bảo
+loi khuyen, loi chi bao
 advise
-(v) khuyên, khuyên bảo, răn bảo
+khuyen, khuyen bao, ran bao
 affair
-(n) việc
+viec
 affect
-(v) làm ảnh hưởng, tác động đến
+lam anh huong, tac dong den
 affection
-(n) tình cảm, cảm xúc
+tinh cam, cam xuc
 afford
-(v) có thể, có đủ khả năng, điều kiện (làm gì)
-afraid
-(adj) sợ, sợ hãi, hoảng sợ
+co the, co du kha nang, dieu kien so, so hai, hoang so
 after
-(prep) (conj) sau, đằng sau, sau khi
+sau, dang sau, sau khi
 afternoon
-(n) buổi chiều
+buoi chieu
 afterwards
-(adv) sau này, về sau, rồi thì, sau đấy
+sau nay, ve sau, roi thi, sau day
 age
-(n) tuổi
+tuoi
 agency
-(n) tác dụng, lực; môi giới, trung gian
+tac dung, luc; moi gioi, trung gian
 agent
-(n) đại lý, tác nhân
+dai ly, tac nhan
 aggressive
-(adj) xâm lược, hung hăng (US: xông xáo)
-ago
-(adv) trước đây
+xam luoc, hung hang truoc day
 ahead
-(adv) trước, về phía trước
+truoc, ve phia truoc
 aim
-(n) (v) sự nhắm (bắn), mục tiêu, ý định; nhắm, tập trung, hướng vào
-air
-(n) không khí, bầu không khí, không gian
+su nham khong khi, bau khong khi, khong gian
 aircraft
-(n) máy bay, tàu bay, khí cầu
+may bay, tau bay, khi cau
 alarm
-(n) (v) báo động, báo nguy
+bao dong, bao nguy
 alcohol
-(n) rừợu cồn
+ruou con
 alive
-(adj) sống, vẫn còn sống, còn tồn tại
+song, van con song, con ton tai
 all
-(n) (adv) tất cả
+tat ca
 alone
-(adj) (adv) cô đơn, một mình
+co don, mot minh
 alongside
-(prep) (adv) sát cạnh, kế bên, dọc theo
+sat canh, ke ben, doc theo
 aloud
-(adv) lớn tiếng, to tiếng
+lon tieng, to tieng
 already
-(adv) đã, rồi, đã… rồi
+da, roi, da… roi
 also
-(adv) cũng, cũng vậy, cũng thế
+cung, cung vay, cung the
 alter
-(v) thay đổi, biến đổi, sửa đổi
+thay doi, bien doi, sua doi
 alternative
-(n) (adj) sự lựa chọn; lựa chọn
+su lua chon; lua chon
 altogether
-(adv) hoàn toàn, hầu như; nói chung
+hoan toan, hau nhu; noi chung
 always
-(adv) luôn luôn
+luon luon
 amaze
-(v) làm ngạc nhiên, làm sửng sốt
+lam ngac nhien, lam sung sot
 ambition
-(n) hoài bão, khát vọng
+hoai bao, khat vong
 ambulance
-(n) xe cứu thương, xe cấp cứu
+xe cuu thuong, xe cap cuu
 among
-(prep) giữa, ở giữa
+giua, o giua
 amount
-(n) (v) số lượng, số nhiều; lên tới (money)
-amuse
-(v) làm cho vui, thích, làm buồn cười,thích thú
+so luong, so nhieu; len toi lam cho vui, thich, lam buon cuoi,thich thu
 analysis
-(n) sự phân tích
+su phan tich
 ancient
-(adj) xưa, cổ
+xua, co
 and
-(conj) và
+va
 angry
-(adj) giận, tức giận
+gian, tuc gian
 approve
-(v) tán thành, đồng ý, chấp thuận
+tan thanh, dong y, chap thuan
 approximate
-(+to) (adj) giống với, giống hệt với
+giong voi, giong het voi
 area
-(n) diện tích, bề mặt
+dien tich, be mat
 argue
-(v) tranh luận
+tranh luan
 argument
-(n) lý lẽ
+ly le
 arise
-(v) xuất hiện, nảy ra, nảy sinh ra
+xuat hien, nay ra, nay sinh ra
 arm
-(n) (v) cánh tay; vũ trang, trang bị (vũ khí)
-army
-(n) quân đội
+canh tay; vu trang, trang bi quan doi
 around
-(adv, prep.)xung quanh, vòng quanh
-arrange
-(v) sắp xếp, sắp đặt, sửa soạn
+sap xep, sap dat, sua soan
 arrangement
-(n) sự sắp xếp, sắp đặt, sự sửa soạn
+su sap xep, sap dat, su sua soan
 arrest
-(v) (n) bắt giữ, sự bắt giữ
+bat giu, su bat giu
 arrival
-(n) sự đến, sự tới nơi
+su den, su toi noi
 arrive
-(+at, in) (v) đến, tới nơi
+den, toi noi
 arrow
-(n) tên, mũi tên
+ten, mui ten
 art
-(n) nghệ thuật, mỹ thuật
+nghe thuat, my thuat
 article
-(n) bài báo, đề mục
+bai bao, de muc
 artificial
-(adj) nhân tạo
+nhan tao
 artist
-(n) nghệ sĩ
+nghe si
 artistic
-(adj) thuộc nghệ thuật, thuộc mỹ thuật
+thuoc nghe thuat, thuoc my thuat
 as
-(prep,adv, conj.) như
+nhu
 ashamed
-(adj) ngượng, xấu hổ
+nguong, xau ho
 aside
-(adv) về một bên, sang một bên
+ve mot ben, sang mot ben
 asleep
-(adj) ngủ, đang ngủ
+ngu, dang ngu
 aspect
-(n) vẻ bề ngoài, diện mạo
+ve be ngoai, dien mao
 assist
-(v) giúp, giúp đỡ; tham dự, có mặt
+giup, giup do; tham du, co mat
 assistance
-(n) sự giúp đỡ
+su giup do
 assistant
-(n) (adj) người giúp đỡ, người phụ tá; giúp đỡ
+nguoi giup do, nguoi phu ta; giup do
 associate
-(v) kết giao, liên kết, kết hợp, cho cộng tác
+ket giao, lien ket, ket hop, cho cong tac
 assume
-(v) mang, khoác, có, lấy (cái vẻ, tính chất…)
-assure
-(v) đảm bảo, cam đoan
+mang, khoac, co, lay dam bao, cam doan
 atmosphere
-(n) khí quyển
+khi quyen
 atom
-(n) nguyên tử
+nguyen tu
 attach
-(v) gắn, dán, trói, buộc
+gan, dan, troi, buoc
 attempt
-(n) (v) sự cố gắng, sự thử; cố gắng, thử
+su co gang, su thu; co gang, thu
 attend
-(v) dự, có mặt
+du, co mat
 attention
-(n) sự chú ý
+su chu y
 attitude
-(n) thái độ, quan điểm
+thai do, quan diem
 attorney
-(n) người được ủy quyền
+nguoi duoc uy quyen
 attract
-(v) hút; thu hút, hấp dẫn
+hut; thu hut, hap dan
 attraction
-(n) sự hút, sức hút
+su hut, suc hut
 attractive
-(adj) hút, thu hút, có duyên, lôi cuốn
+hut, thu hut, co duyen, loi cuon
 audience
-(n) thính, khan giả
+thinh, khan gia
 aunt
-(n) cô, dì
+co, di
 automatic
-(adj) tự động
+tu dong
 autumn
-(n) mùa thu (US: mùa thu là fall)
-available
-(adj) có thể dùng được, có giá trị, hiệu lực
+mua thu co the dung duoc, co gia tri, hieu luc
 average
-adj., (n) trung bình, số trung bình, mức trung bình
+adj., trung binh, so trung binh, muc trung binh
 avoid
-(v) tránh, tránh xa
+tranh, tranh xa
 awake
-(adj) đánh thức, làm thức dậy
+danh thuc, lam thuc day
 award
-(n) (v) phần thưởng; tặng, thưởng
+phan thuong; tang, thuong
 aware
-(adj) biết, nhận thức, nhận thức thấy
+biet, nhan thuc, nhan thuc thay
 away
-(adv) xa, xa cách, rời xa, đi xa
+xa, xa cach, roi xa, di xa
 awful
-(adj) oai nghiêm, dễ sợ
+oai nghiem, de so
 awkward
-(adj) vụng về, lung túng
+vung ve, lung tung
 back
-(n)adj., (adv)., (v) lưng, về phía sau, trở lại
+lung, ve phia sau, tro lai
 background
-(n) phía sau; nền
+phia sau; nen
 backward
-(adj) về phía sau, lùi lại
+ve phia sau, lui lai
 bacteria
-(n) vi khuẩn
+vi khuan
 bad
-(adj) xấu, tồi
+xau, toi
 bag
-(n) bao, túi, cặp xách
+bao, tui, cap xach
 baggage
-(n) hành lý
+hanh ly
 bake
-(v) nung, nướng bằng lò
+nung, nuong bang lo
 balance
-(n) (v) cái cân; làm cho cân bằng, tương xứng
+cai can; lam cho can bang, tuong xung
 ball
-(n) quả bóng
+qua bong
 band
-(n) băng, đai, nẹp
+bang, dai, nep
 bandage
-(n) (v) dải băng; băng bó
+dai bang; bang bo
 bank
-(n) bờ (sông…) , đê
+bo , de
 bar
-(n) quán bán rượu
+quan ban ruou
 bargain
-(n) sự mặc cả, sự giao kèo mua bán
+su mac ca, su giao keo mua ban
 barrier
-(n) đặt chướng ngại vật
+dat chuong ngai vat
 base
-(n) (v) cơ sở, cơ bản, nền móng; đặt tên, đặt cơ sở trên cái gì
+co so, co ban, nen mong; dat ten, dat co so tren cai gi
 basic
-(adj) cơ bản, cơ sở
+co ban, co so
 basis
-(n) nền tảng, cơ sở
+nen tang, co so
 battery
-(n) pin, ắc quy
+pin, ac quy
 battle
-(n) trận đánh, chiến thuật
+tran danh, chien thuat
 bath
-(n) sự tắm
+su tam
 bay
-(n) gian (nhà), nhịp (cầu), chuồng (ngựa); bays: vòng nguyệt quế
-beach
-(n) bãi biển
+gian bai bien
 bear
-(v) mang, cầm, vác, đeo, ôm
+mang, cam, vac, deo, om
 beard
-(n) râu
+rau
 beat
-(n) (v) tiếng đập, sự đập; đánh đập, đấm
+tieng dap, su dap; danh dap, dam
 beautiful
-(adj) đẹp
+dep
 beauty
-(n) vẻ đẹp, cái đẹp; người đẹp
+ve dep, cai dep; nguoi dep
 because
-(conj) bởi vì, vì
+boi vi, vi
 become
-(v) trở thành, trở nên
+tro thanh, tro nen
 bed
-(n) cái giường
+cai giuong
 bedroom
-(n) phòng ngủ
+phong ngu
 beef
-(n) thịt bò
+thit bo
 beer
-(n) rượu bia
+ruou bia
 before
-prep., conj., (adv) trước, đằng trước
+prep., conj., truoc, dang truoc
 begin
-(v) bắt đầu, khởi đầu
+bat dau, khoi dau
 behalf
-(n) sự thay mặt
+su thay mat
 behave
-(v) đối xử, ăn ở, cư xử
+doi xu, an o, cu xu
 behaviour
-(n) cách đối xử, cách ăn ở,tư cách đạo đức
+cach doi xu, cach an o,tu cach dao duc
 behind
-(prep) (adv) sau, ở đằng sau
+sau, o dang sau
 believe
-(v) tin, tin tưởng
+tin, tin tuong
 bell
-(n) cái chuông, tiếng chuông
+cai chuong, tieng chuong
 belong
-(v) thuộc về, của, thuộc quyền sở hữu
+thuoc ve, cua, thuoc quyen so huu
 below
-(prep) (adv) ở dưới, dưới thấp, phía dưới
+o duoi, duoi thap, phia duoi
 belt
-(n) dây lưng, thắt lưng
+day lung, that lung
 bend
-(v) (n) chỗ rẽ, chỗ uốn; khuỷu tay; cúi xuống, uốn cong
+cho re, cho uon; khuyu tay; cui xuong, uon cong
 beneath
-(prep) (adv) ở dưới, dưới thấp
+o duoi, duoi thap
 benefit
-(n) (v) lợi, lợi ích; giúp ích, làm lợi cho
+loi, loi ich; giup ich, lam loi cho
 beside
-(prep) bên cạnh, so với
+ben canh, so voi
 bet
-(v) (n) đánh cược, cá cược; sự đánh cược
+danh cuoc, ca cuoc; su danh cuoc
 between
-(prep) (adv) giữa, ở giữa
+giua, o giua
 beyond
-(prep) (adv) ở xa, phía bên kia
+o xa, phia ben kia
 bicycle
-(n) xe đạp
+xe dap
 bid
-(v) (n) đặt giá, trả giá; sự đặt giá, sự trả giá
+dat gia, tra gia; su dat gia, su tra gia
 big
-(adj) to, lớn
+to, lon
 bill
-(n) hóa đơn, giấy bạc
+hoa don, giay bac
 bin
-(n) thùng, thùng đựng rượu
+thung, thung dung ruou
 biology
-(n) sinh vật học
+sinh vat hoc
 bird
-(n) chim
+chim
 birth
-(n) sự ra đời, sự sinh đẻ
+su ra doi, su sinh de
 birthday
-(n) ngày sinh, sinh nhật
+ngay sinh, sinh nhat
 biscuit
-(n) bánh quy
+banh quy
 bit
-(n) miếng, mảnh
+mieng, manh
 bite
-(v) (n) cắn, ngoạm; sự cắn, sự ngoạm
+can, ngoam; su can, su ngoam
 bitter
-(adj) đắng; đắng cay, chua xót
+dang; dang cay, chua xot
 black
-(adj) (n) đen; màu đen
+den; mau den
 blade
-(n) lưỡi (dao, kiếm); lá (cỏ, cây); mái (chèo); cánh (chong chóng)
-blame
-(v) (n) khiển trách, mắng trách; sự khiển trách, sự mắng trách
+luoi khien trach, mang trach; su khien trach, su mang trach
 blank
-(adj) (n) trống, để trắng; sự trống rỗng
+trong, de trang; su trong rong
 blind
-(adj) đui, mù
+dui, mu
 block
-(n) (v) khối, tảng (đá); làm ngăn cản, ngăn chặn
-blond
-(adj) vàng hoe
+khoi, tang vang hoe
 blood
-(n) máu, huyết; sự tàn sát, chém giết
+mau, huyet; su tan sat, chem giet
 blow
-(v) (n) nở hoa; sự nở hoa
+no hoa; su no hoa
 blue
-(adj) (n) xanh, màu xanh
+xanh, mau xanh
 board
-(n) (v) tấm ván; lát ván, lót ván
+tam van; lat van, lot van
 boat
-(n) tàu, thuyền
+tau, thuyen
 body
-(n) thân thể, thân xác
+than the, than xac
 boil
-(v) sôi, luộc
+soi, luoc
 bomb
-(n) (v) quả bom; đánh bom, thả bom
+qua bom; danh bom, tha bom
 bone
-(n) xương
+xuong
 book
-(n) (v) sách; ghi chép
+sach; ghi chep
 boot
-(n) khởi động
+khoi dong
 border
-(n) bờ, mép, vỉa, lề (đường)
-bore
-(n) khoan
+bo, mep, via, le khoan
 bored
-(adj) buồn chán
+buon chan
 born
-(v) sinh, đẻ
+sinh, de
 borrow
-(v) vay, mượn
+vay, muon
 boss
-(n) ông chủ, thủ trưởng
+ong chu, thu truong
 bottle
-(n) chai, lọ
+chai, lo
 bottom
-(n) (adj) phần dưới cùng, thấp nhất; cuối, cuối cùng
+phan duoi cung, thap nhat; cuoi, cuoi cung
 both
-det., pro(n) cả hai
+det., proca hai
 bother
-(v) làm phiền, quấy rầy, làm bực mình
+lam phien, quay ray, lam buc minh
 bound
-(+to) (adj) nhất định, chắc chắn
+nhat dinh, chac chan
 bowl
-(n) cái bát
+cai bat
 box
-(n) hộp, thùng
+hop, thung
 brain
-(n) óc não; đầu óc, trí não
+oc nao; dau oc, tri nao
 branch
-(n) ngành; nhành cây, nhánh song, ngả đường
+nganh; nhanh cay, nhanh song, nga duong
 brand
-(n) nhãn (hàng hóa)
-brave
-(adj) gan dạ, can đảm
+nhan gan da, can dam
 bread
-(n) bánh mỳ
+banh my
 break
-(v) (n) bẻ gãy, đập vỡ; sự gãy, sự vỡ
+be gay, dap vo; su gay, su vo
 breakfast
-(n) bữa điểm tâm, bữa sáng
+bua diem tam, bua sang
 breath
-(n) hơi thở, hơi
+hoi tho, hoi
 breathe
-(v) hít, thở
+hit, tho
 breed
-(v) (n) nuôi dưỡng, chăm sóc, giáo dục; sinh đẻ; nòi giống
+nuoi duong, cham soc, giao duc; sinh de; noi giong
 brick
-(n) gạch
+gach
 bridge
-(n) cái cầu
+cai cau
 brief
-(adj) ngắn, gọn, vắn tắt
+ngan, gon, van tat
 brilliant
-(adj) tỏa sáng, rực rỡ, chói lọi
+toa sang, ruc ro, choi loi
 bring
-(v) mang, cầm , xách lại
+mang, cam , xach lai
 broad
-(adj) rộng
+rong
 broadcast
-(v) (n) tung ra khắp nơi,truyền rộng rãi; phát thanh,quảng bá
+tung ra khap noi,truyen rong rai; phat thanh,quang ba
 brown
-(adj) (n) nâu, màu nâu
+nau, mau nau
 brush
-(n) (v) bàn chải; chải, quét
+ban chai; chai, quet
 bubble
-(n) bong bóng, bọt, tăm
+bong bong, bot, tam
 build
-(v) xây dựng
+xay dung
 bullet
-(n) đạn (súng trường, súng lục)
-bunch
-(n) búi, chùm, bó, cụm, buồng; bầy, đàn
+dan bui, chum, bo, cum, buong; bay, dan
 burn
-(v) đốt, đốt cháy, thắp, nung, thiêu
+dot, dot chay, thap, nung, thieu
 bury
-(v) chôn cất, mai táng
+chon cat, mai tang
 bush
-(n) bụi cây, bụi rậm
+bui cay, bui ram
 business
-(n) việc buôn bán, thương mại, kinh doanh
+viec buon ban, thuong mai, kinh doanh
 busy
-(adj) bận, bận rộn
+ban, ban ron
 butter
-(n) bơ
+bo
 button
-(n) cái nút, cái khuy, cúc
+cai nut, cai khuy, cuc
 buy
-(v) mua
+mua
 buyer
-(n) người mua
+nguoi mua
 by
-(prep) (adv) bởi, bằng
+boi, bang
 cabinet
-(n) tủ có nhiều ngăn đựng đồ
+tu co nhieu ngan dung do
 cable
-(n) dây cáp
+day cap
 cake
-(n) bánh ngọt
+banh ngot
 calculate
-(v) tính toán
+tinh toan
 calculation
-(n) sự tính toán
+su tinh toan
 call
-(v) (n) gọi; tiếng kêu, tiếng gọi
+goi; tieng keu, tieng goi
 calm
-(adj) (v) (n) yên lặng, làm dịu đi; sự yên lặng, sự êm ả
+yen lang, lam diu di; su yen lang, su em a
 campaign
-(n) chiến dịch, cuộc vận động
+chien dich, cuoc van dong
 can
-(v) (n) có thể; nhà tù, nhà giam, bình, ca đựng
+co the; nha tu, nha giam, binh, ca dung
 cancel
-(v) hủy bỏ, xóa bỏ
+huy bo, xoa bo
 cancer
-(n) bệnh ung thư
+benh ung thu
 candidate
-(n) người ứng cử, thí sinh, người dự thi
+nguoi ung cu, thi sinh, nguoi du thi
 candy
-(n) kẹo
+keo
 cap
-(n) mũ lưỡi trai, mũ vả
+mu luoi trai, mu va
 capacity
-(n) năng lực, khả năng tiếp thu, năng suất
+nang luc, kha nang tiep thu, nang suat
 capital
-(n) (adj) thủ đô, tiền vốn; chủ yếu, chính yếu, cơ bản
+thu do, tien von; chu yeu, chinh yeu, co ban
 captain
-(n) người cầm đầu, người chỉ huy, thủ lĩnh
+nguoi cam dau, nguoi chi huy, thu linh
 capture
-(v) (n) bắt giữ, bắt; sự bắt giữ, sự bị bắt
+bat giu, bat; su bat giu, su bi bat
 card
-(n) thẻ, thiếp
+the, thiep
 cardboard
-(n) bìa cứng, các tông
+bia cung, cac tong
 care
-(n) (v) sự chăm sóc, chăm nom; chăm sóc
+su cham soc, cham nom; cham soc
 career
-(n) nghề nghiệp, sự nghiệp
+nghe nghiep, su nghiep
 careful
-(adj) cẩn thận, cẩn trọng, biết giữ gìn
+can than, can trong, biet giu gin
 careless
-(adj) sơ suất, cầu thả
+so suat, cau tha
 carpet
-(n) tấm thảm, thảm (cỏ)
-carrot
-(n) củ cà rốt
+tam tham, tham cu ca rot
 carry
-(v) mang, vác, khuân chở
+mang, vac, khuan cho
 case
-(n) vỏ, ngăn, túi
+vo, ngan, tui
 cash
-(n) tiền, tiền mặt
+tien, tien mat
 cast
-(v) (n) quăng, ném, thả, đánh gục; sự quăng, sự ném (lưới), sự thả (neo)
-castle
-(n) thành trì, thành quách
+quang, nem, tha, danh guc; su quang, su nem thanh tri, thanh quach
 catch
-(v) bắt lấy, nắm lấy, tóm lấy, chộp lấy
+bat lay, nam lay, tom lay, chop lay
 category
-(n) hạng, loại; phạm trù
+hang, loai; pham tru
 cause
-(n) (v) nguyên nhân, nguyên do; gây ra, gây nên
+nguyen nhan, nguyen do; gay ra, gay nen
 cease
-(v) dừng, ngừng, ngớt, thôi, hết, tạnh
+dung, ngung, ngot, thoi, het, tanh
 ceiling
-(n) trần nhà
+tran nha
 celebrate
-(v) kỷ niệm, làm lễ kỷ niệm; tán dương, ca tụng
+ky niem, lam le ky niem; tan duong, ca tung
 celebration
-(n) sự kỷ niệm, lễ kỷ niệm; sự tán dương, sự ca tụng
+su ky niem, le ky niem; su tan duong, su ca tung
 cell
-(n) ô, ngăn
+o, ngan
 cent
-(n) đồng xu
+dong xu
 centimeter
-(n) xen ti met
+xen ti met
 century
-(n) thế kỷ
+the ky
 ceremony
-(n) nghi thức, nghi lễ
+nghi thuc, nghi le
 certain
-(adj),pro(n) chắc chắn
+chac chan
 certificate
-(n) giấy chứng nhận, bằng, chứng chỉ
+giay chung nhan, bang, chung chi
 cigarette
-(n) điếu thuốc lá
+dieu thuoc la
 cinema
-(n) rạp chiếu bóng
+rap chieu bong
 circle
-(n) đường tròn, hình tròn
+duong tron, hinh tron
 circumstance
-(n) hoàn cảnh, trường hợp, tình huống
+hoan canh, truong hop, tinh huong
 citizen
-(n) người thành thị
+nguoi thanh thi
 city
-(n) thành phố
+thanh pho
 civil
-(adj) (thuộc) công dân
+cong dan
 claim
-(v) (n) đòi hỏi, yêu sách; sự đòi hỏi, sự yêu sách, sự thỉnh cầu
+doi hoi, yeu sach; su doi hoi, su yeu sach, su thinh cau
 clap
-(v) (n) vỗ, vỗ tay; tiếng nổ, tiếng vỗ tay
+vo, vo tay; tieng no, tieng vo tay
 classic
-(adj) (n) cổ điển, kinh điển
+co dien, kinh dien
 clean
-(adj) (v) sạch, sạch sẽ
+sach, sach se
 clear
-(adj) (v) lau chùi, quét dọn
+lau chui, quet don
 clerk
-(n) thư ký, linh mục, mục sư
+thu ky, linh muc, muc su
 client
-(n) khách hàng
+khach hang
 climate
-(n) khí hậu, thời tiết
+khi hau, thoi tiet
 climb
-(v) leo, trèo
+leo, treo
 clock
-(n) đồng hồ
+dong ho
 close
-(v) (adj) gần (mqh), thân thiết,chặt chẽ, đóng, khép, kết thúc
-closet
-(n) buồng, phòng để đồ, phòng kho
+gan buong, phong de do, phong kho
 cloth
-(n) vải, khăn trải bàn, áo thầy tu
+vai, khan trai ban, ao thay tu
 cloud
-(n) mây, đám mây
+may, dam may
 club
-(n) câu lạc bộ; gậy, dùi cui
+cau lac bo; gay, dui cui
 coach
-(n) huấn luyện viên
+huan luyen vien
 coal
-(n) than đá
+than da
 coast
-(n) sự lao dốc; bờ biển
+su lao doc; bo bien
 coat
-(n) áo choàng
+ao choang
 code
-(n) mật mã, luật, điều lệ
+mat ma, luat, dieu le
 coin
-(n) tiền kim loại
+tien kim loai
 cold
-(adj) (n) lạnh, sự lạnh lẽo, lạnh nhạt
+lanh, su lanh leo, lanh nhat
 coldly
-(adv) lạnh nhạt, hờ hững, vô tâm
+lanh nhat, ho hung, vo tam
 collapse
-(v) (n) đổ, sụp đổ; sự đổ nát, sự sụp đổ
+do, sup do; su do nat, su sup do
 colleague
-(n) bạn đồng nghiệp
+ban dong nghiep
 collect
-(v) sưu tập, tập trung lại
+suu tap, tap trung lai
 collection
-(n) sự sưu tập, sự tụ họp
+su suu tap, su tu hop
 college
-(n) trường cao đẳng
+truong cao dang
 color
-(n) Màu sắc
+Mau sac
 column
-(n) cột , mục (báo)
-combination
-(n) sự kết hợp, sự phối hợp
+cot , muc su ket hop, su phoi hop
 combine
-(v) kết hợp, phối hợp
+ket hop, phoi hop
 comedy
-(n) hài kịch
+hai kich
 comfort
-(n) (v) sự an ủi, khuyên giải, lời động viên, sự an nhàn
+su an ui, khuyen giai, loi dong vien, su an nhan
 comfortable
-(adj) thoải mái, tiện nghi, đầy đủ
+thoai mai, tien nghi, day du
 comfortably
-(adv) dễ chịu, thoải mái, tiện nghi, ấm cúng
+de chiu, thoai mai, tien nghi, am cung
 command
-(v) (n) ra lệnh, chỉ huy; lệnh, mệnh lệnh, quyền ra lệnh, quyền chỉ huy
+ra lenh, chi huy; lenh, menh lenh, quyen ra lenh, quyen chi huy
 comment
-(n) (v) lời bình luận, lời chú giải; bình luận, phê bình, chú thích, dẫn giải
+loi binh luan, loi chu giai; binh luan, phe binh, chu thich, dan giai
 commercial
-(adj) buôn bán, thương mại
+buon ban, thuong mai
 commission
-(n) (v) hội đồng, ủy ban, sự ủy nhiệm, sự ủy thác,
+hoi dong, uy ban, su uy nhiem, su uy thac,
 commit
-(v) giao, gửi, ủy nhiệm, ủy thác; tống giam, bỏ tù
+giao, gui, uy nhiem, uy thac; tong giam, bo tu
 commitment
-(n) sự phạm tội, sự tận tụy, tận tâm
+su pham toi, su tan tuy, tan tam
 committee
-(n) ủy ban
+uy ban
 common
-(adj) công, công cộng, thông thường, phổ biến
+cong, cong cong, thong thuong, pho bien
 communicate
-(v) truyền, truyền đạt; giao thiệp, liên lạc
+truyen, truyen dat; giao thiep, lien lac
 communication
-(n) sự giao tiếp, liên lạc, sự truyền đạt, truyền tin
+su giao tiep, lien lac, su truyen dat, truyen tin
 community
-(n) dân chúng, nhân dân
+dan chung, nhan dan
 company
-(n) công ty
+cong ty
 compare
-(v) so sánh, đối chiếu
+so sanh, doi chieu
 comparison
-(n) sự so sánh
+su so sanh
 compete
-(v) đua tranh, ganh đua, cạnh tranh
+dua tranh, ganh dua, canh tranh
 competition
-(n) sự cạnh tranh, cuộc thi, cuộc thi đấu
+su canh tranh, cuoc thi, cuoc thi dau
 competitive
-(adj) cạnh tranh, đua tranh
+canh tranh, dua tranh
 complain
-(v) phàn nàn, kêu ca
+phan nan, keu ca
 complaint
-(n) lời than phiền, than thở; sự khiếu nại, đơn kiện
+loi than phien, than tho; su khieu nai, don kien
 complete
-(adj) (v) hoàn thành, xong
+hoan thanh, xong
 complex
-(adj) phức tạp, rắc rối
+phuc tap, rac roi
 complicate
-(v) làm phức tạp, rắc rối
+lam phuc tap, rac roi
 computer
-(n) máy tính
+may tinh
 concentrate
-(v) tập trung
+tap trung
 concept
-(n) khái niệm
+khai niem
 concern
-(v) (n) liên quan, dính líu tới; sự liên quan, sự dính líu tới
+lien quan, dinh liu toi; su lien quan, su dinh liu toi
 concert
-(n) buổi hòa nhạc
+buoi hoa nhac
 conclude
-(v) kết luận, kết thúc, chấm dứt (công việc)
-conclusion
-(n) sự kết thúc, sự kết luận, phần kết luận
+ket luan, ket thuc, cham dut su ket thuc, su ket luan, phan ket luan
 concrete
-adj., (n) bằng bê tông; bê tông
+adj., bang be tong; be tong
 condition
-(n) điều kiện, tình cảnh, tình thế
+dieu kien, tinh canh, tinh the
 conduct
-(v) (n) điều khiển, chỉ đạo, chỉ huy; sự điều khiển, chỉ huy
+dieu khien, chi dao, chi huy; su dieu khien, chi huy
 conference
-(n) hội nghị, sự bàn bạc
+hoi nghi, su ban bac
 confidence
-(n) lòng tin tưởng, sự tin cậy
+long tin tuong, su tin cay
 confident
-(adj) tin tưởng, tin cậy, tự tin
+tin tuong, tin cay, tu tin
 confine
-(v) giam giữ, hạn chế
+giam giu, han che
 confirm
-(v) xác nhận, chứng thực
+xac nhan, chung thuc
 conflict
-(n) (v) xung đột, va chạm; sự xung đột, sự va chạm
+xung dot, va cham; su xung dot, su va cham
 confront
-(v) đối mặt, đối diện, đối chiếu
+doi mat, doi dien, doi chieu
 confuse
-(v) làm lộn xộn, xáo trộn
+lam lon xon, xao tron
 confusion
-(n) sự lộn xộn, sự rối loạn
+su lon xon, su roi loan
 connect
-(v) kết nối, nối
+ket noi, noi
 connection
-(n) sự kết nối, sự giao kết
+su ket noi, su giao ket
 conscious
-(adj) tỉnh táo, có ý thức, biết rõ
+tinh tao, co y thuc, biet ro
 consequence
-(n) kết quả, hậu quả
+ket qua, hau qua
 conservative
-(adj) thận trọng, dè dặt, bảo thủ
+than trong, de dat, bao thu
 consider
-(v) cân nhắc, xem xét; để ý, quan tâm, lưu ý đến
+can nhac, xem xet; de y, quan tam, luu y den
 considerable
-(adj) lớn lao, to tát, đáng kể
+lon lao, to tat, dang ke
 considerably
-(adv) đáng kể, lớn lao, nhiều
+dang ke, lon lao, nhieu
 consideration
-(n) sự cân nhắc, sự xem xét, sự để ý, sự quan tâm
+su can nhac, su xem xet, su de y, su quan tam
 consist
-(v) (+of) gồm có
+gom co
 constant
-(adj) kiên trì, bền lòng
+kien tri, ben long
 constantly
-(adv) kiên định
+kien dinh
 construct
-(v) xây dựng
+xay dung
 construction
-(n) sự xây dựng, công trình
+su xay dung, cong trinh
 consult
-(v) tra cứu, tham khảo, thăm dò, hỏi ý kiến
+tra cuu, tham khao, tham do, hoi y kien
 consumer
-(n) người tiêu dùng
+nguoi tieu dung
 contact
-(n) (v) sự liên lạc, sự giao thiệp; tiếp xúc
+su lien lac, su giao thiep; tiep xuc
 contain
-(v) bao hàm, chứa đựng, bao gồm
+bao ham, chua dung, bao gom
 container
-(n) cái đựng, chứa; công te nơ
+cai dung, chua; cong te no
 contemporary
-(adj) đương thời, đương đại
+duong thoi, duong dai
 content
-(n) nội dung, sự hài lòng
+noi dung, su hai long
 contest
-(n) cuộc thi, trận đấu, cuộc tranh luận, cuộc chiến đấu,chiến tranh
+cuoc thi, tran dau, cuoc tranh luan, cuoc chien dau,chien tranh
 context
-(n) văn cảnh, khung cảnh, phạm vi
+van canh, khung canh, pham vi
 continent
-(n) lục địa, đại lục
+luc dia, dai luc
 continue
-(v) tiếp tục, làm tiếp
+tiep tuc, lam tiep
 continuous
-(adj) liên tục, liên tiếp
+lien tuc, lien tiep
 contract
-(n) (v) hợp đồng, sự ký hợp đồng; ký kết
+hop dong, su ky hop dong; ky ket
 contrast
-(n) (v) sự tương phản; làm tương phản, trái ngược
+su tuong phan; lam tuong phan, trai nguoc
 contribute
-(v) đóng góp, góp phần
+dong gop, gop phan
 contribution
-(n) sự đóng góp, sự góp phần
+su dong gop, su gop phan
 control
-(n) (v) sự điều khiển, quyền hành, quyền lực, quyền chỉ huy
+su dieu khien, quyen hanh, quyen luc, quyen chi huy
 convenient
-(adj) tiện lợi, thuận lợi, thích hợp
+tien loi, thuan loi, thich hop
 convention
-(n) hội nghị, hiệp định, quy ước
+hoi nghi, hiep dinh, quy uoc
 conventional
-(adj) quy ước
+quy uoc
 convert
-(v) đổi, biến đổi
+doi, bien doi
 convince
-(v) làm cho tin, thuyết phục; làm cho nhận thức thấy
+lam cho tin, thuyet phuc; lam cho nhan thuc thay
 cook
-(v) (n) nấu ăn, người nấu ăn
+nau an, nguoi nau an
 cookie
-(n) bánh quy
+banh quy
 cool
-(adj) (v) mát mẻ, điềm tĩnh; làm mát
+mat me, diem tinh; lam mat
 cope 
-(v + with) đối phó, đương đầu
+doi pho, duong dau
 copy
-(n) (v) bản sao, bản chép lại; sự sao chép; sao chép, bắt chước
+ban sao, ban chep lai; su sao chep; sao chep, bat chuoc
 core
-(n) nòng cốt, hạt nhân; đáy lòng
+nong cot, hat nhan; day long
 corner
-(n) góc (tường, nhà, phố...)
-correct
-(adj) (v) đúng, chính xác; sửa, sửa chữa
+goc dung, chinh xac; sua, sua chua
 cost
-(n) (v) giá, chi phí; trả giá, phải trả
+gia, chi phi; tra gia, phai tra
 cottage
-(n) nhà tranh
+nha tranh
 cotton
-(n) bông, chỉ, sợi
+bong, chi, soi
 cough
-(v) (n) ho, sự ho, tiếng hoa
+ho, su ho, tieng hoa
 council
-(n) hội đồng
+hoi dong
 count
-(v) đếm, tính
+dem, tinh
 counter
-(n) quầy hàng, quầy thu tiền, máy đếm
+quay hang, quay thu tien, may dem
 county
-(n) hạt, tỉnh
+hat, tinh
 country
-(n) nước, quốc gia, đất nước
+nuoc, quoc gia, dat nuoc
 countryside
-(n) miền quê, miền nông thôn
+mien que, mien nong thon
 couple
-(n) đôi, cặp
+doi, cap
 course
-(n) tiến trình, quá trình diễn tiến; sân chạy đua
+tien trinh, qua trinh dien tien; san chay dua
 court
-(n) sân, sân (tennis...), tòa án, quan tòa, phiên tòa
-cousin
-(n) anh em họ
+san, san anh em ho
 cover
-(v) (n) bao bọc, che phủ; vỏ, vỏ bọc
+bao boc, che phu; vo, vo boc
 cow
-(n) con bò cái
+con bo cai
 crack
-(n) (v) cừ, xuất sắc; làm nứt, làm vỡ, nứt nẻ, rạn nứt
+cu, xuat sac; lam nut, lam vo, nut ne, ran nut
 craft
-(n) nghề, nghề thủ công
+nghe, nghe thu cong
 crash
-(n) (v) vải thô; sự rơi (máy bay), sự phá sản, sụp đổ; phá tan tành
-crazy
-(adj) điên, mất trí
+vai tho; su roi dien, mat tri
 cream
-(n) kem
+kem
 create
-(v) sáng tạo, tạo nên
+sang tao, tao nen
 creature
-(n) sinh vật, loài vật
+sinh vat, loai vat
 credit
-(n) sự tin, lòng tin, danh tiếng; tiền gửi ngân hàng
+su tin, long tin, danh tieng; tien gui ngan hang
 crime
-(n) tội, tội ác, tội phạm
+toi, toi ac, toi pham
 criminal
-(adj) (n) có tội, phạm tội; kẻ phạm tội, tội phạm
+co toi, pham toi; ke pham toi, toi pham
 crisis
-(n) sự khủng hoảng, cơn khủng hoảng
+su khung hoang, con khung hoang
 crisp
-(adj) giòn
+gion
 criterion
-(n) tiêu chuẩn
+tieu chuan
 critical
-(adj) phê bình, phê phán; khó tính
+phe binh, phe phan; kho tinh
 criticism
-(n) sự phê bình, sự phê phán, lời phê bình, lời phê phán
+su phe binh, su phe phan, loi phe binh, loi phe phan
 criticize
-(v) phê bình, phê phán, chỉ trích
+phe binh, phe phan, chi trich
 crop
-(n) vụ mùa
+vu mua
 cross
-(n) (v) cây Thánh Giá, nỗi thống khổ; sự băng qua; băng qua, vượt qua
+cay Thanh Gia, noi thong kho; su bang qua; bang qua, vuot qua
 crowd
-(n) đám đông
+dam dong
 crown
-(n) vương miện, vua, ngai vàng; đỉnh cao nhất
+vuong mien, vua, ngai vang; dinh cao nhat
 crucial
-(adj) quyết định, cốt yếu, chủ yếu
+quyet dinh, cot yeu, chu yeu
 cruel
-(adj) độc ác, dữ tợn, tàn nhẫn
+doc ac, du ton, tan nhan
 crush
-(v) ép, vắt, đè nát, đè bẹp
+ep, vat, de nat, de bep
 cry
-(v) (n) khóc, kêu la; sự khóc, tiếng khóc, sự kêu la
+khoc, keu la; su khoc, tieng khoc, su keu la
 culture
-(n) văn hóa, sự mở mang, sự giáo dục
+van hoa, su mo mang, su giao duc
 cup
-(n) tách, chén
+tach, chen
 cupboard
-(n) 1 loại tủ có ngăn
+1 loai tu co ngan
 curb
-(v) kiềm chế, nén lại, hạn chế
+kiem che, nen lai, han che
 cure
-(v) (n) chữa trị, điều trị; cách chữa bệnh, cách điều trị; thuốc
+chua tri, dieu tri; cach chua benh, cach dieu tri; thuoc
 curious
-(adj) ham muốn, tò mò, lạ lùng
+ham muon, to mo, la lung
 curl
-(v) (n) quăn, xoắn, uốn quăn, làm xoắn; sự uốn quăn
+quan, xoan, uon quan, lam xoan; su uon quan
 curly
-(adj) quăn, xoắn
+quan, xoan
 custom
-(n) phong tục, tục lệ, thói quen, tập quán
+phong tuc, tuc le, thoi quen, tap quan
 cut
-(v) (n) cắt, chặt; sự cắt
+cat, chat; su cat
 cycle
-(n) (v) chu kỳ, chu trình, vòng; quay vòng theo chu kỳ, đi xe đạp
+chu ky, chu trinh, vong; quay vong theo chu ky, di xe dap
 cycling
-(n) sự đi xe đạp
+su di xe dap
 chair
-(n) ghế
+ghe
 chairman
-(n) chủ tịch, chủ tọa
+chu tich, chu toa
 challenge
-(n) (v) sự thử thách, sự thách thức; thách thức, thử thách
+su thu thach, su thach thuc; thach thuc, thu thach
 chamber
-(n) buồng, phòng, buồng ngủ
+buong, phong, buong ngu
 chance
-(n) sự may mắn
+su may man
 channel
-(n) kênh (TV, radio), eo biển
-change
-(v) (n) thay đổi, sự thay đổi, sự biến đổi
+kenh thay doi, su thay doi, su bien doi
 chapter
-(n) chương (sách)
-character
-(n) tính cách, đặc tính, nhân vật
+chuong tinh cach, dac tinh, nhan vat
 charity
-(n) lòng từ thiện, lòng nhân đức; sự bố thí
+long tu thien, long nhan duc; su bo thi
 chart
-(n) (v) đồ thị, biểu đồ; vẽ đồ thị, lập biểu đồ
+do thi, bieu do; ve do thi, lap bieu do
 chase
-(v) (n) săn bắt; sự săn bắt
+san bat; su san bat
 chat
-(v) (n) nói chuyện, tán gẫu; chuyện phiếm, chuyện gẫu
+noi chuyen, tan gau; chuyen phiem, chuyen gau
 cheap
-(adj) rẻ
+re
 cheat
-(v) (n) lừa, lừa đảo; trò lừa đảo, trò gian lận
+lua, lua dao; tro lua dao, tro gian lan
 check
-(v) (n) kiểm tra; sự kiểm tra
+kiem tra; su kiem tra
 cheek
-(n) má
+ma
 cheerful
-(adj) vui mừng, phấn khởi, hồ hởi
+vui mung, phan khoi, ho hoi
 cheese
-(n) pho mát
+pho mat
 chemical
-(adj) (n) thuộc hóa học; chất hóa học, hóa chất
+thuoc hoa hoc; chat hoa hoc, hoa chat
 chemist
-(n) nhà hóa học
+nha hoa hoc
 chemistry
-(n) hóa học, môn hóa học, ngành hóa học
+hoa hoc, mon hoa hoc, nganh hoa hoc
 cheque
-(n) séc
+sec
 chest
-(n) tủ, rương, hòm
+tu, ruong, hom
 chew
-(v) nhai, ngẫm nghĩ
+nhai, ngam nghi
 chicken
-(n) gà, gà con, thịt gà
+ga, ga con, thit ga
 chief
-(adj) (n) trọng yếu, chính yếu; thủ lĩnh, lãnh tụ, người đứng đầu, sếp
+trong yeu, chinh yeu; thu linh, lanh tu, nguoi dung dau, sep
 child
-(n) đứa bé, đứa trẻ
+dua be, dua tre
 chin
-(n) cằm
+cam
 chip
-(n) vỏ bào, mảnh vỡ, chỗ sứt, mẻ
+vo bao, manh vo, cho sut, me
 choice
-(n) sự lựa chọn
+su lua chon
 choose
-(v) chọn, lựa chọn
+chon, lua chon
 daily
-(adj) hàng ngày
+hang ngay
 damage
-(n) (v) mối hại, điều hại, sự thiệt hại; làm hư hại, làm hỏng
+moi hai, dieu hai, su thiet hai; lam hu hai, lam hong
 dance
-(n) (v) sự nhảy múa, sự khiêu vũ; nhảy múa, khiêu vũ
+su nhay mua, su khieu vu; nhay mua, khieu vu
 dancer
-(n) diễn viên múa, người nhảy múa
+dien vien mua, nguoi nhay mua
 danger
-(n) sự nguy hiểm, mối hiểm nghèo; nguy cơ, mối đe dọa
+su nguy hiem, moi hiem ngheo; nguy co, moi de doa
 dangerous
-(adj) nguy hiểm
+nguy hiem
 dare
-(v) dám, dám đương đầu với; thách
+dam, dam duong dau voi; thach
 dark
-(adj) (n) tối, tối tăm; bóng tối, ám muội
+toi, toi tam; bong toi, am muoi
 data
-(n) số liệu, dữ liệu
+so lieu, du lieu
 date
-(n) (v) ngày, kỳ, kỳ hạn, thời kỳ
+ngay, ky, ky han, thoi ky
 daughter
-(n) con gái
+con gai
 day
-(n) ngày, ban ngày
+ngay, ban ngay
 dead
-(adj) chết, tắt
+chet, tat
 deaf
-(adj) điếc, làm thinh, làm ngơ
+diec, lam thinh, lam ngo
 dear
-(adj) thân, thân yêu, thân mến; kính thưa, thưa
+than, than yeu, than men; kinh thua, thua
 death
-(n) sự chết, cái chết
+su chet, cai chet
 debt
-(n) nợ
+no
 decade
-(n) thập kỷ, bộ mười, nhóm mười
+thap ky, bo muoi, nhom muoi
 decay
-(n) (v) tình trạng suy tàn, suy sụp, tình trạng đổ nát
+tinh trang suy tan, suy sup, tinh trang do nat
 december
-(n)tháng mười hai, tháng Chạp
-decide
-(v) quyết định, giải quyết, phân xử
+quyet dinh, giai quyet, phan xu
 decision
-(n) sự quyết định, sự giải quyết, sự phân xử
+su quyet dinh, su giai quyet, su phan xu
 declare
-(v) tuyên bố, công bố
+tuyen bo, cong bo
 decorate
-(v) trang hoàng, trang trí
+trang hoang, trang tri
 decoration
-(n) sự trang hoàng, đồ trang hoàng, trang trí
+su trang hoang, do trang hoang, trang tri
 decorative
-(adj) để trang hoàng, để trang trí, để làm cảnh
+de trang hoang, de trang tri, de lam canh
 decrease
-(v) (n) giảm bớt, làm suy giảm, sự giảm đi, sự giảm sút
+giam bot, lam suy giam, su giam di, su giam sut
 deep
-(adj) (adv) sâu, khó lường, bí ẩn
+sau, kho luong, bi an
 defeat
-(v) (n) đánh bại, sự thất bại
+danh bai, su that bai
 defend
-(v) che chở, bảo vệ, bào chữa
+che cho, bao ve, bao chua
 define
-(v) định nghĩa
+dinh nghia
 definite
-(adj) xác định, định rõ, rõ ràng
+xac dinh, dinh ro, ro rang
 definition
-(n) sự định nghĩa, lời định nghĩa
+su dinh nghia, loi dinh nghia
 degree
-(n) mức độ, trình độ; bằng cấp; độ
+muc do, trinh do; bang cap; do
 delay
-(n) (v) sự chậm trễ, sự trì hoãn, sự cản trở; làm chậm trễ
+su cham tre, su tri hoan, su can tro; lam cham tre
 deliberate
-(adj) thận trọng, có tính toán, chủ tâm, có suy nghĩ cân nhắc
+than trong, co tinh toan, chu tam, co suy nghi can nhac
 delicate
-(adj) thanh nhã, thanh tú, tế nhị, khó xử
+thanh nha, thanh tu, te nhi, kho xu
 delight
-(n) (v) sự vui thích, sự vui sướng
+su vui thich, su vui suong
 deliver
-(v) cứu khỏi, thoát khỏi, bày tỏ, giãi bày
+cuu khoi, thoat khoi, bay to, giai bay
 delivery
-(n) sự phân phát, sự phân phối
+su phan phat, su phan phoi
 demand
-(n) (v) sự đòi hỏi, sự yêu cầu; đòi hỏi, yêu cầu
+su doi hoi, su yeu cau; doi hoi, yeu cau
 demonstrate
-(v) chứng minh, giải thích; bày tỏ, biểu lộ
+chung minh, giai thich; bay to, bieu lo
 dentist
-(n) nha sĩ
+nha si
 deny
-(v) từ chối, phản đối, phủ nhận
+tu choi, phan doi, phu nhan
 department
-(n) cục, sở, ty, ban, khoa; gian hàng, khu bày hàng
+cuc, so, ty, ban, khoa; gian hang, khu bay hang
 departure
-(n) sự rời khỏi, sự đi, sự khởi hành
+su roi khoi, su di, su khoi hanh
 depend
-(v) phụ thuộc, tùy thuộc; dựa vào, ỷ vào, trông mong vào
+phu thuoc, tuy thuoc; dua vao, y vao, trong mong vao
 deposit
-(n) (v) vật gửi, tiền gửi, tiền đặt cọc; gửi, đặt cọc
+vat gui, tien gui, tien dat coc; gui, dat coc
 depress
-(v) làm chán nản, làm phiền muộn; làm suy giảm
+lam chan nan, lam phien muon; lam suy giam
 depth
-(n) chiều sâu, độ dày
+chieu sau, do day
 derive
-(v) nhận được từ, lấy được từ;
+nhan duoc tu, lay duoc tu;
 description
-(n) sự mô tả, sự tả, sự miêu tả
+su mo ta, su ta, su mieu ta
 desert
-(n) sa mạc; công 
+sa mac; cong 
 deserve
-(v) đáng, xứng đáng
+dang, xung dang
 design
-(n) (v) sự thiết kế, kế hoạch, đề cương. phác thảo
+su thiet ke, ke hoach, de cuong. phac thao
 desire
-(n) (v) ước muốn; thèm muốn, ao ước
+uoc muon; them muon, ao uoc
 desk
-(n) bàn (học sinh, viết, làm việc)
-destroy
-(v) phá, phá hoại, phá huỷ, tiêu diệt, triệt phá
+ban pha, pha hoai, pha huy, tieu diet, triet pha
 destruction
-(n) sự phá hoại, sự phá hủy, sự tiêu diệt
+su pha hoai, su pha huy, su tieu diet
 detail
-(n) (v) chi tiết
+chi tiet
 determination
-(n) sự xác định, sự định rõ; sự quyết định
+su xac dinh, su dinh ro; su quyet dinh
 determine
-(v) xác định, định rõ; quyết định
+xac dinh, dinh ro; quyet dinh
 determined
-(adj) đã được xác định, đã được xác định rõ
+da duoc xac dinh, da duoc xac dinh ro
 develop
-(v) phát triển, mở rộng; trình bày, bày tỏ
+phat trien, mo rong; trinh bay, bay to
 development
-(n) sự phát triển, sự trình bày, sự bày tỏ
+su phat trien, su trinh bay, su bay to
 device
-(n) kế sách; thiết bị, dụng cụ, máy móc
+ke sach; thiet bi, dung cu, may moc
 devote
-(v) hiến dâng, dành hết cho
+hien dang, danh het cho
 diagram
-(n) biểu đồ
+bieu do
 diamond
-(n) kim cương
+kim cuong
 diary
-(n) sổ nhật ký; lịch ghi nhớ
+so nhat ky; lich ghi nho
 dictionary
-(n) từ điển
+tu dien
 die
-(v) chết, từ trần, hy sinh
+chet, tu tran, hy sinh
 diet
-(n) chế độ ăn uống, chế độ ăn kiêng
+che do an uong, che do an kieng
 difference
-(n) sự khác nhau
+su khac nhau
 different
-(adj) khác, khác biệt, khác nhau
+khac, khac biet, khac nhau
 difficult
-(adj) khó, khó khăn, gay go
+kho, kho khan, gay go
 dig
-(v) đào bới, xới
+dao boi, xoi
 dinner
-(n) bữa trưa, chiều
+bua trua, chieu
 direct
-(adj) trực tiếp, thẳng, thẳng thắn
+truc tiep, thang, thang than
 direction
-(n) sự điều khiển, sự chỉ huy
+su dieu khien, su chi huy
 director
-(n) giám đốc, người điều khiển, chỉ huy
+giam doc, nguoi dieu khien, chi huy
 dirt
-(n) đồ bẩn thỉu, đồ dơ bẩn, vật rác rưởi
+do ban thiu, do do ban, vat rac ruoi
 disadvantage
-(n) sự bất lợi, sự thiệt hại
+su bat loi, su thiet hai
 disagree
-(v) bất đồng, không đồng ý, khác, không giống; không hợp
+bat dong, khong dong y, khac, khong giong; khong hop
 disagreement
-(n) sự bất đồng, sự không đồng ý, sự khác nhau
+su bat dong, su khong dong y, su khac nhau
 disappear
-(v) biến mất, biến đi
+bien mat, bien di
 disappoint
-(v) không làm thỏa ước nguyện,
+khong lam thoa uoc nguyen,
 disappointment
-(n) sự chán ngán, sự thất vọng
+su chan ngan, su that vong
 disapprove
-(v) không tán thành, phản đối, chê
+khong tan thanh, phan doi, che
 disaster
-(n) tai họa, thảm họa
+tai hoa, tham hoa
 discipline
-(n) kỷ luật
+ky luat
 discount
-(n) sự bớt giá, sự chiết khấu, tiền bớt, chiết khấu
+su bot gia, su chiet khau, tien bot, chiet khau
 discover
-(v) khám phá, phát hiện ra, nhận ra
+kham pha, phat hien ra, nhan ra
 discovery
-(n) sự khám phá, sự tìm ra, sự phát hiện ra
+su kham pha, su tim ra, su phat hien ra
 discuss
-(v) thảo luận, tranh luận
+thao luan, tranh luan
 discussion
-(n) sự thảo luận, sự tranh luận
+su thao luan, su tranh luan
 disease
-(n) căn bệnh, bệnh tật
+can benh, benh tat
 disgust
-(v) (n) làm ghê tởm, làm kinh tởm, làm phẫn nộ
+lam ghe tom, lam kinh tom, lam phan no
 dishonest
-(adj) bất lương, không thành thật
+bat luong, khong thanh that
 disk
-(n) đĩa, đĩa hát
+dia, dia hat
 dislike
-(v) (n) sự không ưa, không thích, sự ghét
+su khong ua, khong thich, su ghet
 dismiss
-(v) giải tán (quân đội, đám đông); sa thải (người làm)
-display
-(v) (n) bày tỏ, phô trương, trưng bày; sự bày ra, phô bày,trưng bày
+giai tan bay to, pho truong, trung bay; su bay ra, pho bay,trung bay
 dissolve
-(v) tan rã, phân hủy, giải tán
+tan ra, phan huy, giai tan
 distance
-(n) khoảng cách, tầm xa
+khoang cach, tam xa
 distinguish
-(v) phân biệt, nhận ra, nghe ra
+phan biet, nhan ra, nghe ra
 disturb
-(v) làm mất yên tĩnh, làm náo động, quấy rầy
+lam mat yen tinh, lam nao dong, quay ray
 divide
-(v) chia, chia ra, phân ra
+chia, chia ra, phan ra
 division
-(n) sự chia, sự phân chia, sự phân loại
+su chia, su phan chia, su phan loai
 divorce
-(n) (v) sự ly dị
+su ly di
 doctor
-(n) bác sĩ y khoa, tiến sĩ
+bac si y khoa, tien si
 document
-(n) văn kiện, tài liệu, tư liệu
+van kien, tai lieu, tu lieu
 dollar
-(n) đô la Mỹ
+do la My
 domestic
-(adj) vật nuôi trong nhà, (thuộc) nội trợ, quốc nội
+vat nuoi trong nha, noi tro, quoc noi
 dominate
-(v) chiếm ưu thế, có ảnh hưởng, chi phối; kiềm chế
+chiem uu the, co anh huong, chi phoi; kiem che
 door
-(n) cửa, cửa ra vào
+cua, cua ra vao
 dot
-(n) chấm nhỏ, điểm; của hồi môn
+cham nho, diem; cua hoi mon
 double
-(adj) (adv) (n) (v) đôi, hai, kép; cái gấp đôi, lượng gấp đôi; làm gấp đôi
+doi, hai, kep; cai gap doi, luong gap doi; lam gap doi
 doubt
-(n) (v) sự nghi ngờ, sự ngờ vực; nghi ngờ, ngờ vực
+su nghi ngo, su ngo vuc; nghi ngo, ngo vuc
 down
-(adv) (prep) xuống
+xuong
 downstairs
-(adv) (adj) (n) ở dưới nhà, ở tầng dưới
+o duoi nha, o tang duoi
 downward
-(adj) xuống, đi xuống
+xuong, di xuong
 downwards
-(adv) xuống, đi xuống
+xuong, di xuong
 dozen
-(n)det. tá (12)
-draft
-(n) (adj) (v) bản phác thảo, sơ đồ thiết kế; phác thảo, thiết kế
+ban phac thao, so do thiet ke; phac thao, thiet ke
 drag
-(v) lôi kéo, kéo lê
+loi keo, keo le
 drama
-(n) kịch, tuồng
+kich, tuong
 dramatic
-(adj) như kịch, như đóng kịch, thích hợp với sân khấu
+nhu kich, nhu dong kich, thich hop voi san khau
 draw
-(v) vẽ, kéo
+ve, keo
 drawer
-(n) người vẽ, người kéo
+nguoi ve, nguoi keo
 dream
-(n) (v) giấc mơ, mơ
+giac mo, mo
 dress
-(n) (v) váy, quần áo, mặc (quần áo), ăn mặc
-drink
-(n) (v) đồ uống; uống
+vay, quan ao, mac do uong; uong
 drive
-(v) (n) lái , đua xe; cuộc đua xe (điều khiển)
-driver
-(n) người lái xe
+lai , dua xe; cuoc dua xe nguoi lai xe
 drop
-(v) (n) chảy nhỏ giọt, rơi, rớt; giọt (nước, máu...)
-drug
-(n) thuốc, dược phẩm; ma túy
+chay nho giot, roi, rot; giot thuoc, duoc pham; ma tuy
 drugstore
-(n) hiệu thuốc, cửa hàng dược phẩm
+hieu thuoc, cua hang duoc pham
 drum
-(n) cái trống, tiếng trống
+cai trong, tieng trong
 drunk
-(adj) say rượu
+say ruou
 dry
-(adj) (v) khô, cạn; làm khô, sấy khô
+kho, can; lam kho, say kho
 due
-(adj) đến kỳ hạn (trả nợ); xứng đáng, thích đáng
-dull
-(adj) chậm hiểu, ngu đần
+den ky han cham hieu, ngu dan
 dump
-(v) (n) đổ rác; đống rác, nơi đổ rác
+do rac; dong rac, noi do rac
 during
-(prep) trong lúc, trong thời gian
+trong luc, trong thoi gian
 dust
-(n) (v) bụi, rác; rắc (bụi, phấn), quét bụi, phủi bụi
-duty
-(n) sự tôn kính, kính trọng; bồn phận, trách nhiệm
+bui, rac; rac su ton kinh, kinh trong; bon phan, trach nhiem
 each
-pro(n) mỗi
+promoi
 each other
-pro(n) nhau, lẫn nhau
+pronhau, lan nhau
 ear
-(n) tai
+tai
 early
-(adj) (adv) sớm
+som
 earn
-(v) kiếm (tiền), giành (phần thưởng)
-earth
-(n) đất, trái đất
+kiem dat, trai dat
 ease
-(n) (v) sự thanh thản, sự thoải mái; làm thanh thản, làm yên tâm
+su thanh than, su thoai mai; lam thanh than, lam yen tam
 east
-(n) (adj) (adv) hướng đông, phía đông, (thuộc) đông, ở phía đông
+huong dong, phia dong, dong, o phia dong
 eastern
-(adj) đông
+dong
 easy
-(adj) dễ dàng, dễ tính, ung dung
+de dang, de tinh, ung dung
 easily
-(adv) dễ dàng
+de dang
 eat
-(v) ăn
+an
 economic
-(adj) (thuộc) Kinh tế
+Kinh te
 economy
-(n) sự tiết kiệm, sự quản lý kinh tế
+su tiet kiem, su quan ly kinh te
 edge
-(n) lưỡi, cạnh sắc (dao)
-edition
-(n) nhà xuất bản, sự xuất bản
+luoi, canh sac nha xuat ban, su xuat ban
 editor
-(n) người thu thập và xuất bản, chủ bút
+nguoi thu thap va xuat ban, chu but
 educate
-(v) giáo dục, cho ăn học; rèn luyện
+giao duc, cho an hoc; ren luyen
 educated
-(adj) được giáo dục, được đào tạo
+duoc giao duc, duoc dao tao
 education
-(n) sự giáo dục, sự rèn luyện (kỹ năng)
-effect
-(n) hiệu ứng, hiệu quả, kết quả
+su giao duc, su ren luyen hieu ung, hieu qua, ket qua
 effective
-(adj) có kết quả, có hiệu lực
+co ket qua, co hieu luc
 effectively
-(adv) có kết quả, có hiệu lực
+co ket qua, co hieu luc
 efficient
-(adj) có hiệu lực, có hiệu quả
+co hieu luc, co hieu qua
 efficiently
-(adv) có hiệu quả, hiệu nghiệm
+co hieu qua, hieu nghiem
 effort
-(n) sự cố gắng, sự nỗ lực
+su co gang, su no luc
 egg
-(n) trứng
+trung
 either
-(adv) mỗi, một; cũng phải thế
+moi, mot; cung phai the
 elbow
-(n) khuỷu tay
+khuyu tay
 elderly
-(adj) có tuổi, cao tuổi
+co tuoi, cao tuoi
 elect
-(v) bầu, quyết định
+bau, quyet dinh
 election
-(n) sự bầu cử, cuộc tuyển cử
+su bau cu, cuoc tuyen cu
 electric
-(adj) (thuộc) điện, có điện, phát điện
+dien, co dien, phat dien
 electrical
-(adj) (thuộc) điện
+dien
 electricity
-(n) điện, điện lực; điện lực học
+dien, dien luc; dien luc hoc
 electronic
-(adj) (thuộc) điện tử
+dien tu
 elegant
-(adj) thanh lịch, tao nhã
+thanh lich, tao nha
 element
-(n) yếu tố, nguyên tố
+yeu to, nguyen to
 elevator
-(n) máy nâng, thang máy
+may nang, thang may
 else
-khác, nữa; nếu không
+khac, nua; neu khong
 elsewhere
-(adv) ở một nơi nào khác
+o mot noi nao khac
 embarrass
-(v) lúng túng, làm ngượng nghịu; làm rắc rối, gây khó khăn
+lung tung, lam nguong nghiu; lam rac roi, gay kho khan
 embarrassing
-(adj) làm lúng túng, ngăn trở
+lam lung tung, ngan tro
 embarrassed
-(adj) lúng túng, bối rối, ngượng; mang nợ
+lung tung, boi roi, nguong; mang no
 embarrassment
-(n) sự lúng túng, sự bối rối
+su lung tung, su boi roi
 emerge
-(v) nổi lên, hiện ra; nổi bật lên
+noi len, hien ra; noi bat len
 emergency
-(n) tình trạng khẩn cấp
+tinh trang khan cap
 emotion
-(n) sự xúc động, sự cảm động, mối xúc cảm
+su xuc dong, su cam dong, moi xuc cam
 emotional
-(adj) cảm động, xúc động, xúc cảm; dễ cảm động, dễ xúc cảm
+cam dong, xuc dong, xuc cam; de cam dong, de xuc cam
 emotionally
-(adv) xúc động
+xuc dong
 emphasis
-(n) sự nhấn mạnh, tầm quan trọng
+su nhan manh, tam quan trong
 emphasize
-(v) nhấn mạnh, làm nổi bật
+nhan manh, lam noi bat
 empire
-(n) đế chế, đế quốc
+de che, de quoc
 employ
-(v) dùng, thuê ai làm gì
+dung, thue ai lam gi
 unemployed
-(adj) thất nghiệp; không dùng, không sử dụng được
+that nghiep; khong dung, khong su dung duoc
 employee
-(n) người lao động, người làm công
+nguoi lao dong, nguoi lam cong
 employer
-(n) chủ, người sử dụng lao động
+chu, nguoi su dung lao dong
 employment
-(n) sự thuê mướn
+su thue muon
 employment
-(n) sự thuê mướn
+su thue muon
 unemployment
-(n) sự thất nghiệp, nạn thất nghiệp
+su that nghiep, nan that nghiep
 empty
-(adj) (v) trống, rỗng; đổ, dốc; uống, làm cạn
+trong, rong; do, doc; uong, lam can
 enable
-(v) làm cho có thể, có khả năng; cho phép ai làm gì
+lam cho co the, co kha nang; cho phep ai lam gi
 encounter
-(v) (n) chạm chán, bắt gặp; sự chạm trán, sự bắt gặp
+cham chan, bat gap; su cham tran, su bat gap
 encourage
-(v) động viên, ủng hộ, giúp đỡ, làm can đảm, mạnh dạn
+dong vien, ung ho, giup do, lam can dam, manh dan
 encouragement
-(n) niềm cổ vũ, động viên, khuyến khích, sự làm can đảm
+niem co vu, dong vien, khuyen khich, su lam can dam
 end
-(n) (v) giới hạn, sự kết thúc; kết thúc, chấm dứt
+gioi han, su ket thuc; ket thuc, cham dut
 in the end
-cuối cùng, về sau
+cuoi cung, ve sau
 ending
-(n) sự kết thúc, sự chấm dứt; phần cuối, kết cục
+su ket thuc, su cham dut; phan cuoi, ket cuc
 enemy
-(n) kẻ thù, quân địch
+ke thu, quan dich
 energy
-(n) năng lượng, nghị lực, sinh lực
+nang luong, nghi luc, sinh luc
 engage
-(v) hứa hẹn, cam kết, đính ước
+hua hen, cam ket, dinh uoc
 engaged
-(adj) đã đính ước, đã hứa hôn
+da dinh uoc, da hua hon
 engine
-(n) máy, động cơ
+may, dong co
 engineer
-(n) kỹ sư
+ky su
 engineering
-(n) nghề kỹ sư, công việc của kỹ sư
+nghe ky su, cong viec cua ky su
 enjoy
-(v) thưởng thức, thích thú cái gì, được hưởng, có được
+thuong thuc, thich thu cai gi, duoc huong, co duoc
 enjoyable
-(adj) thú vị, thích thú
+thu vi, thich thu
 enjoyment
-(n) sự thích thú, sự có được, được hưởng
+su thich thu, su co duoc, duoc huong
 enormous
-(adj) to lớn, khổng lồ
+to lon, khong lo
 enough
-pro (n) (adv) đủ
+pro du
 enquiry
-(n) sự điều tra, sự thẩm vấn
+su dieu tra, su tham van
 ensure
-(v) bảo đảm, chắc chắn
+bao dam, chac chan
 enter
-(v) đi vào, gia nhập
+di vao, gia nhap
 entertain
-(v) giải trí, tiếp đón, chiêu đãi
+giai tri, tiep don, chieu dai
 entertaining
-(adj) giải trí
+giai tri
 entertainer
-(n) người quản trò, người tiếp đãi, chiêu đãi
+nguoi quan tro, nguoi tiep dai, chieu dai
 entertainment
-(n) sự giải trí, sự tiếp đãi, chiêu đãi
+su giai tri, su tiep dai, chieu dai
 enthusiasm
-(n) sự hăng hái, sự nhiệt tình
+su hang hai, su nhiet tinh
 enthusiastic
-(adj) hăng hái, say mê, nhiệt tình
+hang hai, say me, nhiet tinh
 entire
-(adj) toàn thể, toàn bộ
+toan the, toan bo
 entirely
-(adv) toàn vẹn, trọn vẹn, toàn bộ
+toan ven, tron ven, toan bo
 entitle
-(v) cho tiêu đề, cho tên (sách); cho quyền làm gì
-entrance
-(n) sự đi vào, sự nhậm chức
+cho tieu de, cho ten su di vao, su nham chuc
 entry
-(n) sự ghi vào sổ sách, sự đi vào, sự tiếp nhận (pháp lý)
-envelope
-(n) phong bì
+su ghi vao so sach, su di vao, su tiep nhan phong bi
 environment
-(n) môi trường, hoàn cảnh xung quanh
+moi truong, hoan canh xung quanh
 environmental
-(adj) thuộc về môi trường
+thuoc ve moi truong
 equal
-(n) (v) ngang, bằng; người ngang hàng, ngang tài,sức
+ngang, bang; nguoi ngang hang, ngang tai,suc
 equally
-(adv) bằng nhau, ngang bằng
+bang nhau, ngang bang
 equipment
-(n) trang, thiết bị
+trang, thiet bi
 equivalent
-(adj) (n) tương đương; từ, vật tương đương
+tuong duong; tu, vat tuong duong
 error
-(n) lỗi, sự sai sót, sai lầm
+loi, su sai sot, sai lam
 escape
-(v) (n) trốn thoát, thoát khỏi; sự trốn thoát, lỗi thoát
+tron thoat, thoat khoi; su tron thoat, loi thoat
 especially
-(adv) đặc biệt là, nhất là
+dac biet la, nhat la
 essay
-(n) bài tiểu luận
+bai tieu luan
 essential
-(adj) (n) bản chất, thực chất, cốt yếu; yếu tố cần thiết
+ban chat, thuc chat, cot yeu; yeu to can thiet
 essentially
-(adv) về bản chất, về cơ bản
+ve ban chat, ve co ban
 establish
-(v) lập, thành lập
+lap, thanh lap
 estate
-(n) tài sản, di sản, bất động sản
+tai san, di san, bat dong san
 estimate
-(n) (v) sự ước lượng, đánh giá; ước lượng, đánh giá
+su uoc luong, danh gia; uoc luong, danh gia
 even
-(adv) (adj) ngay cả, ngay, lại còn; bằng phẳng, điềm đạm,ngang bằng
+ngay ca, ngay, lai con; bang phang, diem dam,ngang bang
 evening
-(n) buổi chiều, tối
+buoi chieu, toi
 event
-(n) sự việc, sự kiện
+su viec, su kien
 eventually
-(adv) cuối cùng
+cuoi cung
 ever
-(adv) từng, từ trước tới giờ
+tung, tu truoc toi gio
 every
-(det) mỗi, mọi
+moi, moi
 evidence
-(n) điều hiển nhiên, điều rõ ràng
+dieu hien nhien, dieu ro rang
 evil
-(adj) (n) xấu, ác; điều xấu, điều ác, điều tai hại
+xau, ac; dieu xau, dieu ac, dieu tai hai
 exact
-(adj) chính xác, đúng
+chinh xac, dung
 exactly
-(adv) chính xác, đúng đắn
+chinh xac, dung dan
 exaggerate
-(v) cường điệu, phóng đại
+cuong dieu, phong dai
 exaggerated
-(adj) cường điệu, phòng đại
+cuong dieu, phong dai
 exam
-(n) viết tắt của Examination
+viet tat cua Examination
 examination
-(n) sự thi cử, kỳ thi
+su thi cu, ky thi
 examine
-(v) thẩm tra, khám xét, hỏi han (thí sinh)
-example
-(n) thí dụ, ví dụ
+tham tra, kham xet, hoi han thi du, vi du
 excellent
-(adj) xuất sắc, xuất chúng
+xuat sac, xuat chung
 except
-(prep) (conj) trừ ra, không kể; trừ phi
+tru ra, khong ke; tru phi
 exception
-(n) sự trừ ra, sự loại ra
+su tru ra, su loai ra
 exchange
-(v) (n) trao đổi; sự trao đổi
+trao doi; su trao doi
 in exchange for
-trong việc trao đổi về
+trong viec trao doi ve
 excite
-(v) kích thích, kích động
+kich thich, kich dong
 exciting
-(adj) hứng thú, thú vị
+hung thu, thu vi
 excited
-(adj) bị kích thích, bị kích động
+bi kich thich, bi kich dong
 excitement
-(n) sự kích thích, sự kích động
+su kich thich, su kich dong
 exclude
-(v) ngăn chạn, loại trừ
+ngan chan, loai tru
 excluding
-(prep) ngoài ra, trừ ra
+ngoai ra, tru ra
 excuse
-(n) (v) lời xin lỗi, bào chữa; xin lỗi, tha thứ, tha lỗi
+loi xin loi, bao chua; xin loi, tha thu, tha loi
 executive
-(n) (adj) sự thi hành, chấp hành; (thuộc) sự thi hành,chấp hành
+su thi hanh, chap hanh; su thi hanh,chap hanh
 exercise
-(n) (v) bài tập, sự thi hành, sự thực hiện; làm, thi hành, thực hiện
+bai tap, su thi hanh, su thuc hien; lam, thi hanh, thuc hien
 exhibit
-(v) (n) trưng bày, triển lãm; vật trưng bày, vật triển lãm
+trung bay, trien lam; vat trung bay, vat trien lam
 exhibition
-(n) cuộc triển lãm, trưng bày
+cuoc trien lam, trung bay
 exist
-(v) tồn tại, sống
+ton tai, song
 existence
-(n) sự tồn tại, sự sống
+su ton tai, su song
 exit
-(n) lỗi ra, sự đi ra, thoát ra
+loi ra, su di ra, thoat ra
 expand
-(v) mở rộng, phát triển, nở, giãn ra
+mo rong, phat trien, no, gian ra
 expect
-(v) chờ đợi, mong ngóng; liệu trước
+cho doi, mong ngong; lieu truoc
 expected
-(adj) được chờ đợi, được hy vọng
+duoc cho doi, duoc hy vong
 unexpected
-(adj) bất ngờ, đột ngột, gây ngạc nhiên
+bat ngo, dot ngot, gay ngac nhien
 unexpectedly
-(adv) bất ngờ, đột ngột, gây ngạc nhiên
+bat ngo, dot ngot, gay ngac nhien
 expectation
-(n) sự mong chờ, sự chờ đợi
+su mong cho, su cho doi
 expense
-(n) chi phí
+chi phi
 expensive
-(adj) đắt
+dat
 experience
-(n) (v) kinh nghiệm; trải qua, nếm mùi
+kinh nghiem; trai qua, nem mui
 experienced
-(adj) có kinh nghiệm, từng trải, giàu kinh nghiệm
+co kinh nghiem, tung trai, giau kinh nghiem
 experiment
-(n) (v) cuộc thí nghiệm, thí nghiệm
+cuoc thi nghiem, thi nghiem
 expert
-(n) (adj) chuyên gia; chuyên môn, thành thạo
+chuyen gia; chuyen mon, thanh thao
 explain
-(v) giải nghĩa, giải thích
+giai nghia, giai thich
 explanation
-(n) sự giải nghĩa, giải thích
+su giai nghia, giai thich
 explode
-(v) đập tan (hy vọng...), làm nổ, nổ
-explore
-(v) thăm dò, thám hiểm
+dap tan tham do, tham hiem
 explosion
-(n) sự nổ, sự phát triển ồ ạt
+su no, su phat trien o at
 export
-(v) (n) xuất khẩu; hàng xuất khẩu, sự xuất khẩu
+xuat khau; hang xuat khau, su xuat khau
 expose
-(v) trưng bày, phơi bày
+trung bay, phoi bay
 express
-(v) (adj) diễn tả, biểu lộ, bày tỏ; nhanh, tốc hành
+dien ta, bieu lo, bay to; nhanh, toc hanh
 expression
-(n) sự diễn tả, sự bày tỏ, biểu lộ, sự diễn đạt
+su dien ta, su bay to, bieu lo, su dien dat
 extend
-(v) giơ, duỗi ra (tay, chân); kéo dài (thời gian),dành cho, gửi lời
-extension
-(n) sự giơ, duỗi; sự kéo dài, sự dành cho, gửi lời
+gio, duoi ra su gio, duoi; su keo dai, su danh cho, gui loi
 extensive
-(adj) rộng rãi, bao quát
+rong rai, bao quat
 extent
-(n) (v) quy mô, phạm vi
+quy mo, pham vi
 extra
-(adj) (n) (adv) thêm, phụ, ngoại; thứ thêm, phụ
+them, phu, ngoai; thu them, phu
 extraordinary
-(adj) đặc biệt, lạ thường, khác thường
+dac biet, la thuong, khac thuong
 extreme
-(adj) (n) vô cùng, khắc nghiệt, quá khích, cực đoan; sự quá khích
+vo cung, khac nghiet, qua khich, cuc doan; su qua khich
 extremely
-(adv) vô cùng, cực độ
+vo cung, cuc do
 face
-(n) (v) mặt, thể diện; đương đầu, đối phó, đối mặt
+mat, the dien; duong dau, doi pho, doi mat
 facility
-(n) điều kiện dễ dàng, sự dễ dàng, thuận lợi
+dieu kien de dang, su de dang, thuan loi
 fact
-(n) việc, sự việc, sự kiện
+viec, su viec, su kien
 factor
-(n) nhân tố
+nhan to
 factory
-(n) nhà máy, xí nghiệp, xưởng
+nha may, xi nghiep, xuong
 fail
-(v) sai, thất bại
+sai, that bai
 failure
-(n) sự thất bại, người thất bại
+su that bai, nguoi that bai
 faint
-(adj) nhút nhát, yếu ớt
+nhut nhat, yeu ot
 faintly
-(adv) nhút nhát, yếu ớt
+nhut nhat, yeu ot
 fair
-(adj) hợp lý, công bằng; thuận lợi
+hop ly, cong bang; thuan loi
 fairly
-(adv) hợp lý, công bằng
+hop ly, cong bang
 unfair
-(adj) gian lận, không công bằng; bất lợi
+gian lan, khong cong bang; bat loi
 unfairly
-(adv) gian lận, không công bằng; bất lợi
+gian lan, khong cong bang; bat loi
 faith
-(n) sự tin tưởng, tin cậy; niềm tin, vật đảm bảo
+su tin tuong, tin cay; niem tin, vat dam bao
 faithful
-(adj) trung thành, chung thủy, trung thực
+trung thanh, chung thuy, trung thuc
 faithfully
-(adv) trung thành, chung thủy, trung thực
+trung thanh, chung thuy, trung thuc
 yours faithfully
-bạn chân thành
+ban chan thanh
 fall
-(v) (n) rơi, ngã, sự rơi, ngã
+roi, nga, su roi, nga
 fall over
-ngã lộn nhào, bị đổ
+nga lon nhao, bi do
 false
-(adj) sai, nhầm, giả dối
+sai, nham, gia doi
 fame
-(n) tên tuổi, danh tiếng
+ten tuoi, danh tieng
 familiar
-(adj) thân thiết, quen thuộc
+than thiet, quen thuoc
 family
-(n) (adj) gia đình, thuộc gia đình
+gia dinh, thuoc gia dinh
 famous
-(adj) nổi tiếng
+noi tieng
 fancy
-(v) (adj) tưởng tượng, cho, nghĩ rằng; tưởng tượng
+tuong tuong, cho, nghi rang; tuong tuong
 far
-(adv) (adj) xa
+xa
 further
-(adj) xa hơn nữa; thêm nữa
+xa hon nua; them nua
 farm
-(n) trang trại
+trang trai
 farming
-(n) công việc trồng trọt, đồng áng
+cong viec trong trot, dong ang
 farmer
-(n) nông dân, người chủ trại
+nong dan, nguoi chu trai
 fashion
-(n) mốt, thời trang
+mot, thoi trang
 fashionable
-(adj) đúng mốt, hợp thời trang
+dung mot, hop thoi trang
 fast
-(adj) (adv) nhanh
+nhanh
 fasten
-(v) buộc, trói
+buoc, troi
 fat
-(adj) (n) béo, béo bở; mỡ, chất béo
+beo, beo bo; mo, chat beo
 faucet
-(n) vòi (ở thùng rượu....)
-fault
-(n) sự thiết sót, sai sót
+voi su thiet sot, sai sot
 favour
-(n) thiện ý, sự quý mến; sự đồng ý; sự chiếu cố
+thien y, su quy men; su dong y; su chieu co
 in favour of
-ủng hộ cái gì
+ung ho cai gi
 favourite
-(adj) (n) được ưa thích; người (vật) được ưa thích
+duoc ua thich; nguoi duoc ua thich
 fear
-(n) (v) sự sợ hãi, e sợ; sợ, lo ngại
+su so hai, e so; so, lo ngai
 feather
-(n) lông chim
+long chim
 feature
-(n) (v) nét đặt biệt, điểm đặc trưng; mô tả nét đặc biệt,đặc trưng của...
+net dat biet, diem dac trung; mo ta net dac biet,dac trung cua...
 February
-tháng 2
+thang 2
 federal
-(adj) liên bang
+lien bang
 fee
-(n) tiền thù lao, học phí
+tien thu lao, hoc phi
 feed
-(v) cho ăn, nuôi
+cho an, nuoi
 feel
-(v) cảm thấy
+cam thay
 feeling
-(n) sự cảm thấy, cảm giác
+su cam thay, cam giac
 fellow
-(n) anh chàng (đang yêu), đồng chí
-female
-(adj) (n) thuộc giống cái; giống cái
+anh chang thuoc giong cai; giong cai
 fence
-(n) hàng rào
+hang rao
 festival
-(n) lễ hội, đại hội liên hoan
+le hoi, dai hoi lien hoan
 fetch
-(v) tìm về, đem về; làm bực mình; làm say mê, quyến rũ
+tim ve, dem ve; lam buc minh; lam say me, quyen ru
 fever
-(n) cơn sốt, bệnh sốt
+con sot, benh sot
 few
-(adj) pro(n) ít,vài; một ít, một vài
+proit,vai; mot it, mot vai
 a few
-một ít, một vài
+mot it, mot vai
 field
-(n) cánh đồng, bãi chiến trường
+canh dong, bai chien truong
 fight
-(v) (n) đấu tranh, chiến đấu; sự đấu tranh, cuộc chiến đấu
+dau tranh, chien dau; su dau tranh, cuoc chien dau
 fighting
-(n) sự chiến đấu, sự đấu tranh
+su chien dau, su dau tranh
 figure
-(n) (v) hình dáng, nhân vật; hình dung, miêu tả
+hinh dang, nhan vat; hinh dung, mieu ta
 file
-(n) hồ sơ, tài liệu
+ho so, tai lieu
 fill
-(v) làm đấy, lấp kín
+lam day, lap kin
 film
-(n) (v) phim, được dựng thành phim
+phim, duoc dung thanh phim
 final
-(adj) (n) cuối cùng, cuộc đấu chung kết
+cuoi cung, cuoc dau chung ket
 finally
-(adv) cuối cùng, sau cùng
+cuoi cung, sau cung
 finance
-(n) (v) tài chính; tài trợ, cấp vốn
+tai chinh; tai tro, cap von
 financial
-(adj) thuộc (tài chính)
-find
-(v) tìm, tìm thấy
+thuoc tim, tim thay
 find out sth
-khám phá, tìm ra
+kham pha, tim ra
 fine
-(adj) tốt, giỏi
+tot, gioi
 finely
-(adv) đẹp đẽ, tế nhị, cao thượng
+dep de, te nhi, cao thuong
 finger
-(n) ngón tay
+ngon tay
 finish
-(v) (n) kết thúc, hoàn thành; sự kết thúc, phần cuối
+ket thuc, hoan thanh; su ket thuc, phan cuoi
 finished
-(adj) hoàn tất, hoàn thành
+hoan tat, hoan thanh
 fire
-(n) (v) lửa; đốt cháy
+lua; dot chay
 set fire to
-đốt cháy cái gì
+dot chay cai gi
 firm
-(n) (adj) (adv) hãng, công ty; chắc, kiên quyết, vững vàng
+hang, cong ty; chac, kien quyet, vung vang
 firmly
-(adv) vững chắc, kiên quyết
+vung chac, kien quyet
 first
-(adv) (n) thứ nhất, đầu tiên, trước hết; người, vật đầu tiên, thứ nhất
+thu nhat, dau tien, truoc het; nguoi, vat dau tien, thu nhat
 at first
-trực tiếp
+truc tiep
 fish
-(n) (v) cá, món cá; câu cá, bắt cá
+ca, mon ca; cau ca, bat ca
 fishing
-(n) sự câu cá, sự đánh cá
+su cau ca, su danh ca
 fit
-(v) (adj) hợp, vừa; thích hợp, xứng đáng
+hop, vua; thich hop, xung dang
 fix
-(v) đóng, gắn, lắp; sửa chữa, sửa sang
+dong, gan, lap; sua chua, sua sang
 fixed
-(adj) đứng yên, bất động
+dung yen, bat dong
 flag
-(n) quốc kỳ
+quoc ky
 flame
-(n) ngọn lửa
+ngon lua
 flash
-(v) (n) loé sáng, vụt sáng; ánh sáng lóe lên, đèn nháy
+loe sang, vut sang; anh sang loe len, den nhay
 flat
-(adj) (n) bằng phẳng, bẹt, nhẵn; dãy phòng, căn phòng, mặt phẳng
+bang phang, bet, nhan; day phong, can phong, mat phang
 flavour
-(n) (v) vị, mùi; cho gia vị, làm tăng thêm mùi vị
+vi, mui; cho gia vi, lam tang them mui vi
 flesh
-(n) thịt
+thit
 flight
-(n) sự bỏ chạy, rút chạy; sự bay, chuyến bay
+su bo chay, rut chay; su bay, chuyen bay
 float
-(v) nổi, trôi, lơ lửng
+noi, troi, lo lung
 flood
-(n) (v) lụt, lũ lụt; tràn đầy, tràn ngập
+lut, lu lut; tran day, tran ngap
 floor
-(n) sàn, tầng (nhà)
-flour
-(n) bột, bột mỳ
+san, tang bot, bot my
 flow
-(n) (v) sự chảy; chảy
+su chay; chay
 flu
-(n) bệnh cúm
+benh cum
 fly
-(v) (n) bay; sự bay, quãng đường bay
+bay; su bay, quang duong bay
 flying
-(adj) (n) biết bay; sự bay, chuyến bay
+biet bay; su bay, chuyen bay
 focus
-(v) (n) tập trung; trung tâm, trọng tâm
+tap trung; trung tam, trong tam
 fold
-(v) (n) gấp, vén, xắn; nếp gấp
+gap, ven, xan; nep gap
 folding
-(adj) gấp lại được
+gap lai duoc
 follow
-(v) đi theo sau, theo, tiếp theo
+di theo sau, theo, tiep theo
 following
-(adj) (n)prep.tiếp theo, theo sau, sau đây; sau, tiếp theo
-foot
-(n) chân, bàn chân
+chan, ban chan
 football
-(n) bóng đá
+bong da
 for
-(prep) cho, dành cho...
+cho, danh cho...
 force
-(n) (v) sức mạnh; ép buộc, cưỡng ép
+suc manh; ep buoc, cuong ep
 forecast
-(n) (v) sự dự đoán, dự báo; dự đoán, dự báo
+su du doan, du bao; du doan, du bao
 foreign
-(adj) (thuộc) nước ngoài, từ nước ngoài, ở nước ngoài
+nuoc ngoai, tu nuoc ngoai, o nuoc ngoai
 forest
-(n) rừng
+rung
 forever
-(adv) mãi mãi
+mai mai
 forget
-(v) quên
+quen
 forgive
-(v) tha, tha thứ
+tha, tha thu
 fork
-(n) cái nĩa
+cai nia
 form
-(n) (v) hình thể, hình dạng, hình thức; làm thành, được tạo thành
+hinh the, hinh dang, hinh thuc; lam thanh, duoc tao thanh
 formal
-(adj) trang trọng,theo nghi thức
+trang trong,theo nghi thuc
 formalize
-(v) nghi thức hóa,trang trọng hóa
+nghi thuc hoa,trang trong hoa
 former
-(adj) trước, cũ, xưa, nguyên
+truoc, cu, xua, nguyen
 formerly
-(adv) trước đây, thuở xưa
+truoc day, thuo xua
 formula
-(n) công thức, thể thức, cách thức
+cong thuc, the thuc, cach thuc
 fortune
-(n) sự giàu có, sự thịnh vượng
+su giau co, su thinh vuong
 forward
-(adj) (adv) về tương lai, sau này ở phía trước,tiến về phía trước
+ve tuong lai, sau nay o phia truoc,tien ve phia truoc
 foundation
-(n) sự thành lập, sự sáng lập; tổ chức
+su thanh lap, su sang lap; to chuc
 frame
-(n) (v) cấu trúc, hệ thống; dàn xếp, bố trí
+cau truc, he thong; dan xep, bo tri
 free
-(adj) (v) (adv) miễn phí, tự do, giải phóng, trả tự do
+mien phi, tu do, giai phong, tra tu do
 freely
-(adv) tự do, thoải mái
+tu do, thoai mai
 freedom
-(n) sự tự do; nền tự do
+su tu do; nen tu do
 freeze
-(v) đóng băng, đông lạnh
+dong bang, dong lanh
 frozen
-(adj) lạnh giá
+lanh gia
 frequent
-(adj) thường xuyên
+thuong xuyen
 frequently
-(adv) thường xuyên
+thuong xuyen
 fresh
-(adj) tươi, tươi tắn
+tuoi, tuoi tan
 freshly
-(adv) tươi mát, khỏe khoắn
+tuoi mat, khoe khoan
 fridge
-(n) tủ lạnh
+tu lanh
 make friends with
-kết bạn với
+ket ban voi
 friendly
-(adj) thân thiện, thân mật
+than thien, than mat
 unfriendly
-(adj) không thân thiện, không có thiện cảm
+khong than thien, khong co thien cam
 friendship
-(n) tình bạn, tình hữu nghị
+tinh ban, tinh huu nghi
 frighten
-(v) làm sợ, làm hoảng sợ
+lam so, lam hoang so
 frightening
-(adj) kinh khủng, khủng khiếp
+kinh khung, khung khiep
 frightened
-(adj) hoảng sợ, khiếp sợ
+hoang so, khiep so
 front
-(n) (adj) mặt; đằng trước, về phía trước
+mat; dang truoc, ve phia truoc
 in front of
-ở phía trước
+o phia truoc
 freeze
-(n) (v) sự đông lạnh, sự giá lạnh; làm đông, làm đóng băng
+su dong lanh, su gia lanh; lam dong, lam dong bang
 fruit
-(n) quả, trái cây
+qua, trai cay
 fry
-(v) (n) rán, chiên; thịt rán
+ran, chien; thit ran
 fuel
-(n) chất đốt, nhiên liệu
+chat dot, nhien lieu
 full
-(adj) đầy, đầy đủ
+day, day du
 fully
-(adv) đầy đủ, hoàn toàn
+day du, hoan toan
 fun
-(n) (adj) sự vui đùa, sự vui thích; hài hước
+su vui dua, su vui thich; hai huoc
 make fun of
-đùa cợt, chế giễu, chế nhạo
+dua cot, che gieu, che nhao
 function
-(n) (v) chức năng; họat động, chạy (máy)
-fund
-(n) (v) kho, quỹ; tài trợ, tiền bạc, để tiền vào công quỹ
+chuc nang; hoat dong, chay kho, quy; tai tro, tien bac, de tien vao cong quy
 fundamental
-(adj) cơ bản, cơ sở, chủ yếu
+co ban, co so, chu yeu
 funeral
-(n) lễ tang, đám tang
+le tang, dam tang
 funny
-(adj) buồn cười, khôi hài
+buon cuoi, khoi hai
 fur
-(n) bộ da lông thú
+bo da long thu
 furniture
-(n) đồ đạc (trong nhà)
-further
-(adj) xa hơn nữa, thêm nữa, bên kia
+do dac xa hon nua, them nua, ben kia
 furthest
-(adj) (adv) xa hơn hết, xa nhất
+xa hon het, xa nhat
 future
-(n) (adj) tương lai
+tuong lai
 gain
-(v) (n) lợi, lợi ích; giành được, kiếm được, đạt tới
+loi, loi ich; gianh duoc, kiem duoc, dat toi
 gallon
-(n) Galông 1gl = 4, 54 lít ở Anh, 3, 78 lít ở Mỹ
+Galong 1gl = 4, 54 lit o Anh, 3, 78 lit o My
 gamble
-(v) (n) đánh bạc; cuộc đánh bạc
+danh bac; cuoc danh bac
 gambling
-(n) trò cờ bạc
+tro co bac
 gap
-(n) đèo, lỗ hổng, kẽ hở; chỗ trống
+deo, lo hong, ke ho; cho trong
 garage
-(n) nhà để ô tô
+nha de o to
 garbage
-(n) lòng, ruột (thú)
-garden
-(n) vườn
+long, ruot vuon
 gas
-(n) khí, hơi đốt
+khi, hoi dot
 gasoline
-(n) dầu lửa, dầu hỏa, xăng
+dau lua, dau hoa, xang
 gate
-(n) cổng
+cong
 gather
-(v) tập hợp; hái, lượm, thu thập
+tap hop; hai, luom, thu thap
 gear
-(n) cơ cấu, thiết bị, dụng cụ
+co cau, thiet bi, dung cu
 general
-(adj) chung, chung chung; tổng
+chung, chung chung; tong
 generally
-(adv) nói chung, đại thể
+noi chung, dai the
 in general
-nói chung, đại khái
+noi chung, dai khai
 generate
-(v) sinh, đẻ ra
+sinh, de ra
 generation
-(n) sự sinh ra, sự phát sinh ra; thế hệ, đời
+su sinh ra, su phat sinh ra; the he, doi
 generous
-(adj) rộng lượng, khoan hồng, hào phóng
+rong luong, khoan hong, hao phong
 generously
-(adv) rộng lượng, hào phóng
+rong luong, hao phong
 gentle
-(adj) hiền lành, dịu dàng, nhẹ nhàng
+hien lanh, diu dang, nhe nhang
 gently
-(adv) nhẹ nhàng, êm ái, dịu dàng
+nhe nhang, em ai, diu dang
 gentleman
-(n) người quý phái, người thượng lưu
+nguoi quy phai, nguoi thuong luu
 genuine
-(adj) thành thật, chân thật; xác thực
+thanh that, chan that; xac thuc
 genuinely
-(adv) thành thật, chân thật
+thanh that, chan that
 geography
-(n) địa lý, khoa địa lý
+dia ly, khoa dia ly
 get
-(v) được, có được
+duoc, co duoc
 get on
-leo, trèo lên (xe buýt, xe lửa,..)
-get off
-ra khỏi, thoát khỏi, xuống ( xe buýt,xe lửa,...)
-giant
-(n) (adj) người khổng lồ, người phi thường; khổng lồ, phi thường
+leo, treo len nguoi khong lo, nguoi phi thuong; khong lo, phi thuong
 gift
-(n) quà tặng
+qua tang
 give
-(v) cho, biếu, tặng
+cho, bieu, tang
 give sth away
-cho, phát
+cho, phat
 give sth out
-chia, phân phối
+chia, phan phoi
 give sth up
-bỏ, từ bỏ
+bo, tu bo
 glad
-(adj) vui lòng, sung sướng
+vui long, sung suong
 glass
-(n) kính, thủy tinh, cái cốc, ly
+kinh, thuy tinh, cai coc, ly
 glasses
-(n) kính đeo mắt
+kinh deo mat
 global
-(adj) v toàn cầu, toàn thể, toàn bộ
+v toan cau, toan the, toan bo
 glove
-(n) bao tay, găng tay
+bao tay, gang tay
 glue
-(n) (v) keo, hồ; gắn lại, dán bằng keo, hồ
+keo, ho; gan lai, dan bang keo, ho
 gram
-(n) đậu xanh
+dau xanh
 go down
-đi xuống
+di xuong
 go up
-đi lên
+di len
 be going to
-sắp sửa, có ý định
+sap sua, co y dinh
 goal
-(n) khung thành, bàn thắng, đích, mục đích
+khung thanh, ban thang, dich, muc dich
 gold
-(n) (adj) vàng; bằng vàng
+vang; bang vang
 good
-(adj) (n) tốt, hay, tuyệt; điều tốt, điều thiện
+tot, hay, tuyet; dieu tot, dieu thien
 good at
-tiến bộ ở
+tien bo o
 good for
-có lợi cho
+co loi cho
 goods
-(n) của cải, tài sản, hàng hóa
+cua cai, tai san, hang hoa
 govern
-(v) cai trị, thống trị, cầm quyền
+cai tri, thong tri, cam quyen
 government
-(n) chính phủ, nội các; sự cai trị
+chinh phu, noi cac; su cai tri
 governor
-(n) thủ lĩnh, chủ; kẻ thống trị
+thu linh, chu; ke thong tri
 grab
-(v) túm lấy, vồ, chộp lấy
+tum lay, vo, chop lay
 grade
-(n) (v) điểm, điểm số; phân loại, xếp loại
+diem, diem so; phan loai, xep loai
 gradual
-(adj) dần dần, từng bước một
+dan dan, tung buoc mot
 gradually
-(adv) dần dần, từ từ
+dan dan, tu tu
 grain
-(n) thóc lúa, hạt, hột; tính chất, bản chất
+thoc lua, hat, hot; tinh chat, ban chat
 grammar
-(n) ngữ pháp, văn phạm
+ngu phap, van pham
 grand
-(adj) rộng lớn, vĩ đại
+rong lon, vi dai
 grandchild
-(n) cháu (của ông bà)
-granddaughter
-(n) cháu gái
+chau chau gai
 grant
-(v) (n) cho, ban, cấp; sự cho, sự ban, sự cấp
+cho, ban, cap; su cho, su ban, su cap
 grandson
-(n) cháu trai
+chau trai
 grass
-(n) cỏ; bãi cỏ, đồng cỏ
+co; bai co, dong co
 grateful
-(adj) biết ơn, dễ chịu, khoan khoái
+biet on, de chiu, khoan khoai
 grave
-(n) (adj) mộ, dấu huyền; trang nghiêm, nghiêm trọng
+mo, dau huyen; trang nghiem, nghiem trong
 gray
-(adj) xám, hoa râm (tóc)
-grey
-(adj) xám, hoa râm (tóc),xám xịt
-great
-(adj) to, lớn, vĩ đại
+xam, hoa ram xam, hoa ram to, lon, vi dai
 greatly
-(adv) rất, lắm; cao thượng, cao cả
+rat, lam; cao thuong, cao ca
 grocery
-(n) cửa hàng tạp phẩm
+cua hang tap pham
 ground
-(n) mặt đất, đất, bãi đất
+mat dat, dat, bai dat
 group
-(n) nhóm
+nhom
 grow
-(v) mọc, mọc lên
+moc, moc len
 grow up
-lớn lên, trưởng thành
+lon len, truong thanh
 growth
-(n) sự lớn lên, sự phát triển
+su lon len, su phat trien
 guarantee
-(n) (v) sự bảo hành, bảo lãnh, người bảo lãnh; cam đoan, đảm bảo
+su bao hanh, bao lanh, nguoi bao lanh; cam doan, dam bao
 guard
-(n) (v) cái chắn, người bảo vệ; bảo vệ, gác, canh giữ
+cai chan, nguoi bao ve; bao ve, gac, canh giu
 guess
-(v) (n) đoán, phỏng đoán; sự đoán, sự ước chừng
+doan, phong doan; su doan, su uoc chung
 guest
-(n) khách, khách mời
+khach, khach moi
 guide
-(n) (v) điều chỉ dẫn, người hướng dẫn; dẫn đường, chỉ đường
+dieu chi dan, nguoi huong dan; dan duong, chi duong
 guilty
-(adj) có tội, phạm tội, tội lỗi
+co toi, pham toi, toi loi
 gun
-(n) súng
+sung
 guy
-(n) bù nhìn, anh chàng, gã
+bu nhin, anh chang, ga
 habit
-(n) thói quen, tập quán
+thoi quen, tap quan
 hairdresser
-(n) thợ làm tóc
+tho lam toc
 half
-pro(n) (adv) một nửa, phần chia đôi, nửa giờ; nửa
+promot nua, phan chia doi, nua gio; nua
 hall
-(n) đại sảnh, tòa (thị chính), hội trường
-hammer
-(n) búa
+dai sanh, toa bua
 hand
-(n) (v) tay, bàn tay; trao tay, truyền cho
+tay, ban tay; trao tay, truyen cho
 handle
-(v) (n) cầm, sờ mó; tay cầm, móc quai
+cam, so mo; tay cam, moc quai
 hang
-(v) treo, mắc
+treo, mac
 happen
-(v) xảy ra, xảy đến
+xay ra, xay den
 happiness
-(n) sự sung sướng, hạnh phúc
+su sung suong, hanh phuc
 unhappiness
-(n) nỗi buồn, sự bất hạnh
+noi buon, su bat hanh
 happily
-(adv) sung sướng, hạnh phúc
+sung suong, hanh phuc
 unhappy
-(adj) buồn rầu, khốn khổ
+buon rau, khon kho
 hard
-(adj) (adv) cứng, rắn, hà khắc; hết sức cố gắng, tích cực
+cung, ran, ha khac; het suc co gang, tich cuc
 hardly
-(adv) khắc nghiệt, nghiêm khắc, tàn tệ, khó khăn
+khac nghiet, nghiem khac, tan te, kho khan
 harm
-(n) (v) thiệt hại, tổn hao; làm hại, gây thiệt hại
+thiet hai, ton hao; lam hai, gay thiet hai
 harmful
-(adj) gây tai hại, có hại
+gay tai hai, co hai
 harmless
-(adj) không có hại
+khong co hai
 hate
-(v) (n) ghét; lòng căm ghét, thù hận
+ghet; long cam ghet, thu han
 hatred
-(n) lòng căm thì, sự căm ghét
+long cam thi, su cam ghet
 head
-(n) (v) cái đầu (người, thú); chỉ huy, lãnh đại, dẫn đầu
-headache
-(n) chứng nhức đầu
+cai dau chung nhuc dau
 heal
-(v) chữa khỏi, làm lành
+chua khoi, lam lanh
 health
-(n) sức khỏe, thể chất, sự lành mạnh
+suc khoe, the chat, su lanh manh
 healthy
-(adj) khỏe mạnh, lành mạnh
+khoe manh, lanh manh
 hear
-(v) nghe
+nghe
 hearing
-(n) sự nghe, thính giác
+su nghe, thinh giac
 heart
-(n) tim, trái tim
+tim, trai tim
 heat
-(n) (v) hơi nóng, sức nóng
+hoi nong, suc nong
 heating
-(n) sự đốt nóng, sự làm nóng
+su dot nong, su lam nong
 heaven
-(n) thiên đường
+thien duong
 heavy
-(adj) nặng, nặng nề
+nang, nang ne
 heavily
-(adv) nặng, nặng nề
+nang, nang ne
 heel
-(n) gót chân
+got chan
 height
-(n) chiều cao, độ cao; đỉnh, điểm cao
+chieu cao, do cao; dinh, diem cao
 helpful
-(adj) có ích; giúp đỡ
+co ich; giup do
 hence
-(adv) sau đây, kể từ đây; do đó, vì thế
+sau day, ke tu day; do do, vi the
 hesitate
-(v) ngập ngừng, do dự
+ngap ngung, do du
 hide
-(v) trốn, ẩn nấp; che giấu
+tron, an nap; che giau
 high
-(adj) (adv) cao, ở mức độ cao
+cao, o muc do cao
 highly
-(adv) tốt, cao; hết sức, ở mức độ cao
+tot, cao; het suc, o muc do cao
 highlight
-(v) (n) làm nổi bật, nêu bật; chỗ nổi bật nhất, đẹp, sáng nhất
+lam noi bat, neu bat; cho noi bat nhat, dep, sang nhat
 highway
-(n) đường quốc lộ
+duong quoc lo
 hill
-(n) đồi
+doi
 hip
-(n) hông
+hong
 hire
-(v) (n) thuê, cho thuê (nhà...); sự thuê, sự cho thuê
-history
-(n) lịch sử, sử học
+thue, cho thue lich su, su hoc
 historical
-(adj) lịch sử, thuộc lịch sử
+lich su, thuoc lich su
 hit
-(v) (n) đánh, đấm, ném trúng; đòn, cú đấm
+danh, dam, nem trung; don, cu dam
 hobby
-(n) sở thích riêng
+so thich rieng
 hold
-(v) (n) cầm, nắm, giữ; sự cầm, sự nắm giữ
+cam, nam, giu; su cam, su nam giu
 hole
-(n) lỗ, lỗ trống; hang
+lo, lo trong; hang
 hollow
-(adj) rỗng, trống rỗng
+rong, trong rong
 holy
-(adj) linh thiêng; sùng đạo
+linh thieng; sung dao
 honest
-(adj) lương thiện, trung thực, chân thật
+luong thien, trung thuc, chan that
 honestly
-(adj) lương thiện, trung thực, chân thật
+luong thien, trung thuc, chan that
 honour
-(n) danh dự, thanh danh, lòng kính trọng
+danh du, thanh danh, long kinh trong
 in honour of
-để tỏ lòng tôn kính, trân trọng đối với
+de to long ton kinh, tran trong doi voi
 hook
-(n) cái móc; bản lề; lưỡi câu
+cai moc; ban le; luoi cau
 horizontal
-(adj) (thuộc) chân trời, ở chân trời; ngang, nằm ngang (trục hoành)
-horn
-(n) sừng (trâu, bò...)
-horror
-(n) điều kinh khủng, sự ghê rợn
+chan troi, o chan troi; ngang, nam ngang sung dieu kinh khung, su ghe ron
 horse
-(n) ngựa
+ngua
 hospital
-(n) bệnh viện, nhà thương
+benh vien, nha thuong
 host
-(n) (v) chủ nhà, chủ tiệc; dẫn (c.trình), đăng cai tổ chức (hội nghị)
-housing
-(n) nơi ăn chốn ở
+chu nha, chu tiec; dan noi an chon o
 household
-(n) (adj) hộ, gia đình; (thuộc) gia đình
+ho, gia dinh; gia dinh
 huge
-(adj) to lớn, khổng lồ
+to lon, khong lo
 human
-(adj) (n) (thuộc) con người, loài người
+con nguoi, loai nguoi
 humorous
-(adj) hài hước, hóm hỉnh
+hai huoc, hom hinh
 humour
-(n) sự hài hước, sự hóm hỉnh
+su hai huoc, su hom hinh
 hungry
-(adj) đói
+doi
 hunt
-(v) săn, đi săn
+san, di san
 hunting
-(n) sự đi săn
+su di san
 hurry
-(v) (n) sự vội vàng, sự gấp rút
+su voi vang, su gap rut
 in a hurry
-vội vàng, hối hả, gấp rút
+voi vang, hoi ha, gap rut
 'hʌri
-(v) làm bị thương, gây thiệt hại
+lam bi thuong, gay thiet hai
 husband
-(n) người chồng
+nguoi chong
 ice
-(n) băng, nước đá
+bang, nuoc da
 idea
-(n) ý tưởng, quan niệm
+y tuong, quan niem
 ideal
-(adj) (n) (thuộc) quan niệm, tư tưởng; lý tưởng
+quan niem, tu tuong; ly tuong
 ideally
-(adv) lý tưởng, đúng như lý tưởng
+ly tuong, dung nhu ly tuong
 identify
-(v) nhận biết, nhận ra, nhận dạng
+nhan biet, nhan ra, nhan dang
 identity
-(n) cá tính, nét nhận dạng; tính đồng nhất, giống hệt
+ca tinh, net nhan dang; tinh dong nhat, giong het
 ignore
-(v) phớt lờ, tỏ ra không biết đến
+phot lo, to ra khong biet den
 ill
-(adj) ốm
+om
 illegal
-(adj) trái luật, bất hợp pháp
+trai luat, bat hop phap
 illegally
-(adv) trái luật, bất hợp pháp
+trai luat, bat hop phap
 illness
-(n) sự đau yếu, ốm, bệnh tật
+su dau yeu, om, benh tat
 illustrate
-(v) minh họa, làm rõ ý
+minh hoa, lam ro y
 image
-(n) ảnh, hình ảnh
+anh, hinh anh
 imaginary
-(adj) tưởng tượng, ảo
+tuong tuong, ao
 imagination
-(n) trí tưởng tượng, sự tưởng tượng
+tri tuong tuong, su tuong tuong
 imagine
-(v) tưởng tượng, hình dung; tưởng rằng, cho rằng
+tuong tuong, hinh dung; tuong rang, cho rang
 immediate
-(adj) lập tức, tức thì
+lap tuc, tuc thi
 immediately
-(adv) ngay lập tức
+ngay lap tuc
 immoral
-(adj) trái đạo đức, luân lý; xấu xa
+trai dao duc, luan ly; xau xa
 impact
-(n) sự và chạm, sự tác động, ảnh hưởng
+su va cham, su tac dong, anh huong
 impatient
-(adj) thiếu kiên nhẫn, nóng vội
+thieu kien nhan, nong voi
 impatiently
-(adv) nóng lòng, sốt ruột
+nong long, sot ruot
 implication
-(n) sự lôi kéo, sự liên can, điều gợi ý
+su loi keo, su lien can, dieu goi y
 imply
-(v) ngụ ý, bao hàm
+ngu y, bao ham
 import
-(n) (v) sự nhập, sự nhập khẩu; nhập, nhập khẩu
+su nhap, su nhap khau; nhap, nhap khau
 importance
-(n) sự quan trọng, tầm quan trọng
+su quan trong, tam quan trong
 important
-(adj) quan trọng, hệ trọng
+quan trong, he trong
 importantly
-(adv) quan trọng, trọng yếu
+quan trong, trong yeu
 unimportant
-(adj) không quan trọng, không trọng đại
+khong quan trong, khong trong dai
 impose
-(v) đánh (thuế...), bắt gánh vác; đánh tráo, lợi dụng
-impossible
-(adj) không thể làm được, không thể xảy ra
+danh khong the lam duoc, khong the xay ra
 impress
-(v) ghi, khắc, in sâu vào; gây ấn tượng, làm cảm động
+ghi, khac, in sau vao; gay an tuong, lam cam dong
 impressed
-(adj) được ghi, khắc, in sâu vào
+duoc ghi, khac, in sau vao
 impression
-(n) ấn tượng, cảm giác; sự in, đóng dấu
+an tuong, cam giac; su in, dong dau
 impressive
-(adj) gây ấn tượng mạnh; hùng vĩ, oai vệ
+gay an tuong manh; hung vi, oai ve
 improve
-(v) cải thiện, cái tiến, mở mang
+cai thien, cai tien, mo mang
 improvement
-(n) sự cái thiện, sự cải tiến, sự mở mang
+su cai thien, su cai tien, su mo mang
 inability
-(n) sự bất lực, bất tài
+su bat luc, bat tai
 incident
-(n) việc xảy ra, việc có liên quan
+viec xay ra, viec co lien quan
 include
-(v) bao gồm, tính cả
+bao gom, tinh ca
 including
-(prep) bao gồm, kể cả
+bao gom, ke ca
 income
-(n) lợi tức, thu nhập
+loi tuc, thu nhap
 increase
-(v) (n) tăng, tăng thêm; sự tăng, sự tăng thêm
+tang, tang them; su tang, su tang them
 increasingly
-(adv) tăng thêm
+tang them
 indeed
-(adv) thật vậy, quả thật
+that vay, qua that
 independence
-(n) sự độc lập, nền độc lập
+su doc lap, nen doc lap
 independent
-(adj) độc lập
+doc lap
 independently
-(adv)độc lập
-index
-(n) chỉ số, sự biểu thị
+chi so, su bieu thi
 indicate
-(v) chỉ, cho biết; biểu thị, trình bày ngắn gọn
+chi, cho biet; bieu thi, trinh bay ngan gon
 indication
-(n) sự chỉ, sự biểu thị, sự biểu lộ
+su chi, su bieu thi, su bieu lo
 indirect
-(adj) gián tiếp
+gian tiep
 indirectly
-(adv) gián tiếp
+gian tiep
 individual
-(adj) (n) riêng, riêng biệt; cá nhân
+rieng, rieng biet; ca nhan
 indoors
-(adv) ở trong nhà
+o trong nha
 indoor
-(adj) trong nhà
+trong nha
 industrial
-(adj) (thuộc) công nghiệp, kỹ nghệ
+cong nghiep, ky nghe
 industry
-(n) công nghiệp, kỹ nghệ
+cong nghiep, ky nghe
 inevitable
-(adj) không thể tránh được, chắc chắn xảy ra; vẫn thường thấy,nghe
+khong the tranh duoc, chac chan xay ra; van thuong thay,nghe
 inevitably
-(adv) chắc chắn
+chac chan
 infect
-(v) nhiễm, tiêm nhiễm, đầu độc, lan truyền
+nhiem, tiem nhiem, dau doc, lan truyen
 infected
-(adj) bị nhiễm, bị đầu độc
+bi nhiem, bi dau doc
 infection
-(n) sự nhiễm, sự đầu độc
+su nhiem, su dau doc
 infectious
-(adj) lây, nhiễm
+lay, nhiem
 influence
-(n) (v) sự ảnh hưởng, sự tác dụng; ảnh hưởng, tác động
+su anh huong, su tac dung; anh huong, tac dong
 inform
-(v) báo cho biết, cung cấp tin tức
+bao cho biet, cung cap tin tuc
 informal
-(adj) không chính thức, không nghi thức
+khong chinh thuc, khong nghi thuc
 information
-(n) tin tức, tài liệu, kiến thức
+tin tuc, tai lieu, kien thuc
 ingredient
-(n) phần hợp thành, thành phần
+phan hop thanh, thanh phan
 initial
-(adj) (n) ban đầu, lúc đầu; chữ đầu (của 1 tên gọi)
-initially
-(adv) vào lúc ban đầu, ban đ
+ban dau, luc dau; chu dau vao luc ban dau, ban d
 initiative
-(n) bước đầu, sự khởi đầu
+buoc dau, su khoi dau
 injure
-(v) làm tổn thương, làm hại, xúc phạm
+lam ton thuong, lam hai, xuc pham
 injured
-(adj) bị tổn thương, bị xúc phạm
+bi ton thuong, bi xuc pham
 injury
-(n) sự làm tổn thương, làm hại; điều hại, điều tổn hại
+su lam ton thuong, lam hai; dieu hai, dieu ton hai
 ink
-(n) mực
+muc
 inner
-(adj) ở trong, nội bộ; thân cận
+o trong, noi bo; than can
 innocent
-(adj) vô tội, trong trắng, ngây thơ
+vo toi, trong trang, ngay tho
 insect
-(n) sâu bọ, côn trùng
+sau bo, con trung
 insert
-(v) chèn vào, lồng vào
+chen vao, long vao
 inside
-(n) (adj) mặt trong, phía, phần trong; ở trong, nội bộ
+mat trong, phia, phan trong; o trong, noi bo
 insist on
-(v) cứ nhất định, cứ khăng khăng
+cu nhat dinh, cu khang khang
 install
-(v) đặt (hệ thống máy móc, thiết bị...)
-instance
-(n) thí dị, ví dụ; trường hợp cá biệt
+dat thi di, vi du; truong hop ca biet
 for instance
-ví dụ chẳng hạn
+vi du chang han
 instead
-(adv) để thay thế
+de thay the
 instead of
 thay cho
 institute
-(n) viện, học viện
+vien, hoc vien
 institution
-(n) sự thành lập, lập; cơ quan, trụ sở
+su thanh lap, lap; co quan, tru so
 instruction
-(n) sự dạy, tài liệu cung cấp
+su day, tai lieu cung cap
 instrument
-(n) dụng cụ âm nhạc khí
+dung cu am nhac khi
 insult
-(v) (n) lăng mạ, xỉ nhục; lời lăng mạ, sự xỉ nhục
+lang ma, xi nhuc; loi lang ma, su xi nhuc
 insulting
-(adj) lăng mạ, xỉ nhục
+lang ma, xi nhuc
 insurance
-(n) sự bảo hiểm
+su bao hiem
 intelligence
-(n) sự hiểu biết, trí thông minh
+su hieu biet, tri thong minh
 intelligent
-(adj) thông minh, sáng trí
+thong minh, sang tri
 intend
-(v) ý định, có ý định
+y dinh, co y dinh
 intended
-(adj) có ý định, có dụng ý
+co y dinh, co dung y
 intention
-(n) ý định, mục đích
+y dinh, muc dich
 interest
-(n) (v) sự thích thú, sự quan tâm, chú ý; làm quan tâm, chú ý
+su thich thu, su quan tam, chu y; lam quan tam, chu y
 interesting
-(adj) làm thích thú, làm quan tâm, làm chú ý
+lam thich thu, lam quan tam, lam chu y
 interested
-(adj) có thích thú, có quan tâm, có chú ý
+co thich thu, co quan tam, co chu y
 interior
-(n) (adj) phần trong, phía trong; ở trong, ở phía trong
+phan trong, phia trong; o trong, o phia trong
 internal
-(adj) ở trong, bên trong, nội địa
+o trong, ben trong, noi dia
 international
-(adj) quốc tế
+quoc te
 interpret
-(v) giải thích
+giai thich
 interpretation
-(n) sự giải thích
+su giai thich
 interrupt
-(v) làm gián đoạn, ngắt lời
+lam gian doan, ngat loi
 interruption
-(n) sự gián đoạn, sự ngắt lời
+su gian doan, su ngat loi
 interval
-(n) khoảng (k-t.gian), khoảng cách
-interview
-(n) (v) cuộc phỏng vấn, sự gặp mặt; phỏng vấn, nói chuyện riêng
+khoang cuoc phong van, su gap mat; phong van, noi chuyen rieng
 into
-(prep) vào, vào trong
+vao, vao trong
 introduce
-(v) giới thiệu
+gioi thieu
 introduction
-(n) sự giới thiệu, lời giới thiệu
+su gioi thieu, loi gioi thieu
 invent
-(v) phát minh, sáng chế
+phat minh, sang che
 invention
-(n) sự phát minh, sự sáng chế
+su phat minh, su sang che
 invest
-(v) đầu tư
+dau tu
 investigate
-(v) điều tra, nghiên cứu
+dieu tra, nghien cuu
 investigation
-(n) sự điều tra, nghiên cứu
+su dieu tra, nghien cuu
 investment
-(n) sự đầu tư, vốn đầu tư
+su dau tu, von dau tu
 invitation
-(n) lời mời, sự mời
+loi moi, su moi
 invite
-(v) mời
+moi
 involve
-(v) bao gồm, bao hàm; thu hút, dồn tâm trí
+bao gom, bao ham; thu hut, don tam tri
 involved in
-để hết tâm trí vào
+de het tam tri vao
 involvement
-(n) sự gồm, sự bao hàm; sự để, dồn hết tâm trí vào
+su gom, su bao ham; su de, don het tam tri vao
 iron
-(n) (v) sắt; bọc sắt
+sat; boc sat
 irritate
-(v) làm phát cáu, chọc tức
+lam phat cau, choc tuc
 irritating
-(adj) làm phát cáu, chọc tức
+lam phat cau, choc tuc
 irritated
-(adj) tức giận, cáu tiết
+tuc gian, cau tiet
 island
-(n) /´ailənd/ hòn đảo
+hon dao
 issue
-(n) (v) sự phát ra, sự phát sinh; phát hành, đưa ra
+su phat ra, su phat sinh; phat hanh, dua ra
 item
-(n) tin tức; khoả(n)., mó(n).., tiết mục
-jacket
-(n) áo vét
+tin tuc; khoaao vet
 jam
-(n) mứt
+mut
 jealous
-(adj) ghen, ghen tị
+ghen, ghen ti
 jelly
-(n) thạch
+thach
 jewellery
-n) nữ trang, kim hoàn
+nu trang, kim hoan
 join
-(v) gia nhập, tham gia; nối, chắp, ghép
+gia nhap, tham gia; noi, chap, ghep
 joint
-(adj) (n) chung (giữa 2 người hoặc hơn); chỗ nối, đầu nối
-jointly
-(adv) cùng nhau, cùng chung
+chung cung nhau, cung chung
 joke
-(n) (v) trò cười, lời nói đùa; nói đùa, giễu cợt
+tro cuoi, loi noi dua; noi dua, gieu cot
 journalist
-(n) nhà báo
+nha bao
 journey
-(n) cuộc hành trình (đường bộ); quãng đường, chặng đường đi
-joy
-(n) niềm vui, sự vui mừng
+cuoc hanh trinh niem vui, su vui mung
 judge
-(n) (v) xét xử, phân xử; quan tòa, thẩm phán
+xet xu, phan xu; quan toa, tham phan
 judgement
-(n)
-juice
-(n) nước ép (rau, củ, quả)
-jump
-(v) (n) nhảy; sự nhảy, bước nhảy
+nuoc ep nhay; su nhay, buoc nhay
 junior
-(adj) (n) trẻ hơn, ít tuổi hơn; người ít tuổi hơn
+tre hon, it tuoi hon; nguoi it tuoi hon
 just
-(adv) đúng, vừa đủ; vừa mới, chỉ
+dung, vua du; vua moi, chi
 justice
-(n) sự công bằng
+su cong bang
 justify
-(v) bào chữa, biện hộ
+bao chua, bien ho
 justified
-(adj) hợp lý, được chứng minh là đúng
+hop ly, duoc chung minh la dung
 keen
-(adj) sắc, bén
+sac, ben
 keen on
-say mê, ưa thích
+say me, ua thich
 keep
-(v) giữ, giữ lại
+giu, giu lai
 keyboard
-(n) bàn phím
+ban phim
 kick
-(v) (n) đá; cú đá
+da; cu da
 kid
-(n) con dê non,đứa trẻ con
+con de non,dua tre con
 killing
-(n) sự giết chóc, sự tàn sát
+su giet choc, su tan sat
 kilometre
-Kilômet
+Kilomet
 kind
-(n) (adj) loại, giống; tử tế, có lòng tốt
+loai, giong; tu te, co long tot
 kindly
-(adv) tử tế, tốt bụng
+tu te, tot bung
 unkind
-(adj) không tốt, độc ác, tàn nhẫn
+khong tot, doc ac, tan nhan
 kindness
-(n) sự tử tế, lòng tốt
+su tu te, long tot
 king
-(n) vua, quốc vương
+vua, quoc vuong
 knee
-(n) đầu gối
+dau goi
 knife
-(n) con dao
+con dao
 knit
-(v) đan, thêu
+dan, theu
 knitted
-(adj) được đan, được thêu
+duoc dan, duoc theu
 knitting
-(n) việc đan; hàng dệt kim
+viec dan; hang det kim
 knock
-(v) (n) đánh, đập; cú đánh
+danh, dap; cu danh
 knot
-(n) cái nơ; điểm nút, điểm trung tâm
+cai no; diem nut, diem trung tam
 unknown
-(adj) không biết, không được nhận ra
+khong biet, khong duoc nhan ra
 well known
-(adj) nổi tiếng, được nhiều người biết đến
+noi tieng, duoc nhieu nguoi biet den
 knowledge
-(n) sự hiểu biết, tri thức
+su hieu biet, tri thuc
 litre
-(n) lít
+lit
 label
-(n) (v) nhãn, mác; dán nhãn, ghi mác
+nhan, mac; dan nhan, ghi mac
 laboratory
-(n) phòng thí nghiệm
+phong thi nghiem
 labour
-(n) lao động; công việc
+lao dong; cong viec
 lack
-(n) (v) sự thiếu; thiếu
+su thieu; thieu
 lacking
-(adj) ngu đần, ngây ngô
+ngu dan, ngay ngo
 lady
-(n) người yêu, vợ, quý bà, tiểu thư
+nguoi yeu, vo, quy ba, tieu thu
 lake
-(n) hồ
+ho
 lamp
-(n) đèn
+den
 land
-(n) (v) đất, đất canh tác, đất đai
+dat, dat canh tac, dat dai
 landscape
-(n) phong cảnh
+phong canh
 lane
-(n) đường nhỏ (làng, hẻm phố)
-language
-(n) ngôn ngữ
+duong nho ngon ngu
 large
-(adj) rộng, lớn, to
+rong, lon, to
 largely
-(adv) phong phú, ở mức độ lớn
+phong phu, o muc do lon
 last
-(adv) (n) (v) lầm cuối, sau cùng; người cuối cùng
+lam cuoi, sau cung; nguoi cuoi cung
 late
-(adj) (adv) trễ, muộn
+tre, muon
 later
-(adv) (adj) chậm hơn
+cham hon
 latest
-(adj) (n) muộn nhất, chậm nhất, gần đây nhất
+muon nhat, cham nhat, gan day nhat
 latter
-(adj) (n) sau cùng, gần đây, mới đây
+sau cung, gan day, moi day
 laugh
-(v) (n) cười; tiếng cười
+cuoi; tieng cuoi
 launch
-(v) (n) hạ thủy (tàu); khai trương; sự hạ thủy, buổi giới thiệu sản phẩm
-law
-(n) luật
+ha thuy luat
 lawyer
-(n) luật sư
+luat su
 lay
-(v) xếp, đặt, bố trí
+xep, dat, bo tri
 layer
-(n) lớp
+lop
 lazy
-(adj) lười biếng
+luoi bieng
 lead
-(v) (n) lãnh đạo, dẫn dắt; sự lãnh đạo, sự hướng dẫn
+lanh dao, dan dat; su lanh dao, su huong dan
 leading
-(adj) lãnh đạo, dẫn đầu
+lanh dao, dan dau
 leader
-(n) người lãnh đạo, lãnh tụ
+nguoi lanh dao, lanh tu
 leaf
-(n) lá cây, lá (vàng...)
-league
-(n) liên minh, liên hoàn
+la cay, la lien minh, lien hoan
 lean
-(v) nghiêng, dựa, ỷ vào
+nghieng, dua, y vao
 learn
-(v) học, nghiên cứu
+hoc, nghien cuu
 least
-pro (n) (adv) tối thiểu; ít nhất
+pro toi thieu; it nhat
 at least
-ít ra, ít nhất, chí ít
+it ra, it nhat, chi it
 leather
-(n) da thuộc
+da thuoc
 leather
-(v) bỏ đi, rời đi, để lại
+bo di, roi di, de lai
 leave out
-bỏ quên, bỏ sót
+bo quen, bo sot
 lecture
-(n) bài diễn thuyết, bài thuyết trình, bài nói chuyện
+bai dien thuyet, bai thuyet trinh, bai noi chuyen
 left
-(adv) (n) bên trái; về phía trái
+ben trai; ve phia trai
 leg
-(n) chân (người, thú, bàn..)
-legal
-(adj) hợp pháp
+chan hop phap
 legally
-(adv) hợp pháp
+hop phap
 lend
-(v) cho vay, cho mượn
+cho vay, cho muon
 length
-(n) chiều dài, độ dài
+chieu dai, do dai
 less
-pro (n) (adv) nhỏ bé, ít hơn; số lượng ít hơn
+pro nho be, it hon; so luong it hon
 lesson
-(n) bài học
+bai hoc
 let
-(v) cho phép, để cho
+cho phep, de cho
 letter
-(n) thư; chữ cái, mẫu tự
+thu; chu cai, mau tu
 level
-(n) (adj) trình độ, cấp, vị trí; bằng, ngang bằng
+trinh do, cap, vi tri; bang, ngang bang
 library
-(n) thư viện
+thu vien
 licence
-n) bằng, chứng chỉ, bằng cử nhân;sự cho phép
+n) bang, chung chi, bang cu nhan;su cho phep
 license
-(v) cấp chứng chỉ, cấp bằng, cho phép
+cap chung chi, cap bang, cho phep
 lid
-(n) nắp, vung (xoong, nồi..); mi mắt (eyelid)
-lie
-(v) (n) nói dối; lời nói dối, sự dối trá
+nap, vung noi doi; loi noi doi, su doi tra
 life
-(n) đời, sự sống
+doi, su song
 lift
-(v) (n) giơ lên, nhấc lên; sự nâng, sự nhấc lên
+gio len, nhac len; su nang, su nhac len
 light
-(n) (adj) (v) ánh sáng; nhẹ, nhẹ nhàng; đốt, thắp sáng
+anh sang; nhe, nhe nhang; dot, thap sang
 lightly
-(adv) nhẹ nhàng
+nhe nhang
 unlike
-(prep) (adj) khác, không giống
+khac, khong giong
 likely
-(adj) (adv) có thể đúng, có thể xảy ra, có khả năng; có thể,chắc vậy
+co the dung, co the xay ra, co kha nang; co the,chac vay
 unlikely
-(adj) không thể xảy ra, không chắc xảy ra
+khong the xay ra, khong chac xay ra
 limit
-(n) (v) giới hạn, ranh giới; giới hạn, hạn chế
+gioi han, ranh gioi; gioi han, han che
 limited
-(adj) hạn chế, có giới hạn
+han che, co gioi han
 line
-(n) dây, đường, tuyến
+day, duong, tuyen
 link
-(n) (v) mắt xích, mối liên lạc; liên kết, kết nối
+mat xich, moi lien lac; lien ket, ket noi
 lip
-(n) môi
+moi
 liquid
-(n) (adj) chất lỏng; lỏng, êm ái, du dương, không vững
+chat long; long, em ai, du duong, khong vung
 list
-(n) (v) danh sách; ghi vào danh sách
+danh sach; ghi vao danh sach
 literature
-(n) /ˈlɪtərətʃər/ văn chương, văn học
+van chuong, van hoc
 little
-pro (n) (adv) nhỏ, bé, chút ít; không nhiều; một chút
+pro nho, be, chut it; khong nhieu; mot chut
 a little
-nhỏ, một ít
+nho, mot it
 live
-(v) (adj) (adv) sống, hoạt động
+song, hoat dong
 living
-(adj) sống, đang sống
+song, dang song
 lively
-(adj) sống, sinh động
+song, sinh dong
 load
-(n) (v) gánh nặng, vật nặng; chất, chở
+ganh nang, vat nang; chat, cho
 unload
-(v) cất gánh nặng, dỡ hàng
+cat ganh nang, do hang
 loan
-(n) sự vay mượn
+su vay muon
 local
-(adj) địa phương, bộ phận, cục bộ
+dia phuong, bo phan, cuc bo
 locally
-(adv) có tính chất địa phương, cục bộ
+co tinh chat dia phuong, cuc bo
 locate
-(v) xác định vị trí, định vị
+xac dinh vi tri, dinh vi
 located
-(adj) định vị
+dinh vi
 location
-(n) vị trí, sự định vị
+vi tri, su dinh vi
 lock
-(v) (n) mớ tóc, mớ bông; khóa
+mo toc, mo bong; khoa
 logic
-(n) lô gic
+lo gic
 logical
-(adj) hợp lý, hợp logic
+hop ly, hop logic
 lonely
-(adj) cô đơn, bơ vơ
+co don, bo vo
 long
-(adj) (adv) dài, xa; lâu
+dai, xa; lau
 look
-(v) (n) nhìn; cái nhìn
+nhin; cai nhin
 look after
-trông nom, chăm sóc
+trong nom, cham soc
 look at
-nhìn, ngắm, xem
+nhin, ngam, xem
 look for
-tìm kiếm
+tim kiem
 look forward to
-mong đợi cách hân hoan
+mong doi cach han hoan
 loose
-(adj) lỏng, không chặt
+long, khong chat
 loosely
-(adv) lỏng lẻo
+long leo
 lord
-(n) Chúa, vua
+Chua, vua
 lorry
-xe tải
+xe tai
 lose
-(v) mất, thua, lạc
+mat, thua, lac
 lost
-(adj) thua, mất
+thua, mat
 loss
-(n) sự mất, sự thua
+su mat, su thua
 loud
-(adj) (adv) to, inh ỏi, ầm ĩ; to, lớn (nói)
-loudly
-(adv) ầm ĩ, inh ỏi
+to, inh oi, am i; to, lon am i, inh oi
 low
-(adj) (adv) thấp, bé, lùn
+thap, be, lun
 loyal
-(adj) trung thành, trung kiên
+trung thanh, trung kien
 luck
-(n) may mắn, vận may
+may man, van may
 lucky
-(adj) gặp may, gặp may mắn, hạnh phúc
+gap may, gap may man, hanh phuc
 unlucky
-(adj) không gặp may, bất hạnh
+khong gap may, bat hanh
 luggage
-(n) hành lý
+hanh ly
 lump
-(n) cục, tảng, miếng; cái bướu
+cuc, tang, mieng; cai buou
 lung
-(n) phổi
+phoi
 machine
-(n) máy, máy móc
+may, may moc
 machinery
-(n) máy móc, thiết bị
+may moc, thiet bi
 mad
-(adj) điên, mất trí; bực điên người
+dien, mat tri; buc dien nguoi
 magazine
-(n) tạp chí
+tap chi
 magic
-(n) (adj) ma thuật, ảo thuật; (thuộc) ma thuật, ảo thuật
+ma thuat, ao thuat; ma thuat, ao thuat
 mail
-(n) (v) thư từ, bưu kiện; gửi qua bưu điện
+thu tu, buu kien; gui qua buu dien
 main
-(adj) chính, chủ yếu, trọng yếu nhất
+chinh, chu yeu, trong yeu nhat
 mainly
-(adv) chính, chủ yếu, phần lớn
+chinh, chu yeu, phan lon
 maintain
-(v) giữ gìn, duy trì, bảo vệ
+giu gin, duy tri, bao ve
 major
-(adj) lớn, nhiều hơn, trọng đại, chủ yếu
+lon, nhieu hon, trong dai, chu yeu
 majority
-(n) phần lớn, đa số, ưu thế
+phan lon, da so, uu the
 make
-(v) (n) làm, chế tạo; sự chế tạo
+lam, che tao; su che tao
 make sth up
-làm thành, cấu thành, gộp thành
+lam thanh, cau thanh, gop thanh
 make up
-(n) đồ hóa trang, son phấn
+do hoa trang, son phan
 mall
-búa
+bua
 manage
-(v) quản lý, trông nom, điều khiển
+quan ly, trong nom, dieu khien
 management
-(n) sự quản lý, sự trông nom, sự điều khiển
+su quan ly, su trong nom, su dieu khien
 manager
-(n) người quản lý, giám đốc
+nguoi quan ly, giam doc
 manner
-(n) /'mænз/ cách, lối, kiểu; dáng, vẻ, thái độ
+/'mænз/ cach, loi, kieu; dang, ve, thai do
 manufacture
-(v) (n) sự chế tạo, sự sản xuất, chế tạo, sản xuất
+su che tao, su san xuat, che tao, san xuat
 manufacturing
-(n) sự sản xuất, sự chế tạo
+su san xuat, su che tao
 manufacturer
-(n) người chế tạo, người sản xuất
+nguoi che tao, nguoi san xuat
 map
-(n) bản đồ
+ban do
 March
-tháng ba
+thang ba
 march
-(v) (n) diễu hành, hành quân; cuộc hành quân, cuộc diễu hành
+dieu hanh, hanh quan; cuoc hanh quan, cuoc dieu hanh
 mark
-(n) (v) dấu, nhãn, nhãn mác; đánh dấu, ghi dấu
+dau, nhan, nhan mac; danh dau, ghi dau
 market
-(n) chợ, thị trường
+cho, thi truong
 marriage
-(n) sự cưới xin, sự kết hôn, lễ cưới
+su cuoi xin, su ket hon, le cuoi
 marry
-(v) cưới (vợ), lấy (chồng)
-married
-(adj) cưới, kết hôn
+cuoi cuoi, ket hon
 mass
-(n) (adj) khối, khối lượng; quần chúng, đại chúng
+khoi, khoi luong; quan chung, dai chung
 massive
-(adj) to lớn, đồ sộ
+to lon, do so
 master
-(n) chủ, chủ nhân, thầy giáo, thạc sĩ
+chu, chu nhan, thay giao, thac si
 match
-(n) (v) trận thi đấu, đối thủ, địch thủ; đối chọi, sánh được
+tran thi dau, doi thu, dich thu; doi choi, sanh duoc
 matching
-(adj) tính địch thù, thi đấu
+tinh dich thu, thi dau
 mate
-(n) (v) bạn, bạn nghề; giao phối
+ban, ban nghe; giao phoi
 material
-(n) (adj) nguyên vật liệu; vật chất, hữu hình
+nguyen vat lieu; vat chat, huu hinh
 mathematics
-(n) toán học,môn toán
+toan hoc,mon toan
 matter
-(n) (v) chất, vật chất; có ý nghĩa, có tính chất quan trọng
+chat, vat chat; co y nghia, co tinh chat quan trong
 maximum
-(adj) (n) cực độ, tối đa; trị số cực đại, lượng cực đại, cực độ
+cuc do, toi da; tri so cuc dai, luong cuc dai, cuc do
 maybe
-(adv) có thể, có lẽ
+co the, co le
 mayor
-(n) thị trưởng
+thi truong
 meal
-(n) bữa ăn
+bua an
 mean
-(v) nghĩa, có nghĩa là
+nghia, co nghia la
 meaning
-(n) ý, ý nghĩa
+y, y nghia
 means
-(n) của cải, tài sản, phương tiện
+cua cai, tai san, phuong tien
 by means of
-bằng phương tiện
+bang phuong tien
 meanwhile
-(adv) trong lúc đó, trong lúc ấy
+trong luc do, trong luc ay
 measure
-(v) (n) đo, đo lường; sự đo lường, đơn vị đo lường
+do, do luong; su do luong, don vi do luong
 measurement
-(n) sự đo lường, phép đo
+su do luong, phep do
 meat
-(n) thịt
+thit
 media
-(n) phương tiện truyền thông đại chúng
+phuong tien truyen thong dai chung
 medical
-(adj) (thuộc) y học
+y hoc
 medicine
-(n) y học, y khoa; thuốc
+y hoc, y khoa; thuoc
 medium
-(adj) (n) trung bình, trung, vừa; sự trung gian, sự môi giới
+trung binh, trung, vua; su trung gian, su moi gioi
 meet
-(v) gặp, gặp gỡ
+gap, gap go
 meeting
-(n) cuộc mít tinh, cuộc biểu tình
+cuoc mit tinh, cuoc bieu tinh
 melt
-(v) tan ra, chảy ra; làm tan chảy ra
+tan ra, chay ra; lam tan chay ra
 member
-(n) thành viên, hội viên
+thanh vien, hoi vien
 membership
-(n) tư cách hội viên, địa vị hội viên
+tu cach hoi vien, dia vi hoi vien
 memory
-(n) bộ nhớ, trí nhớ, kỉ niệm
+bo nho, tri nho, ki niem
 in memory of
-sự tưởng nhớ
+su tuong nho
 mental
-(adj) (thuộc) trí tuệ, trí óc; mất trí
+tri tue, tri oc; mat tri
 mentally
-(adv) về mặt tinh thần
+ve mat tinh than
 mention
-(v) kể ra, nói đến, đề cập
+ke ra, noi den, de cap
 menu
-(n) thực đơn
+thuc don
 mere
-(adj) chỉ là
+chi la
 merely
-(adv) chỉ, đơn thuần
+chi, don thuan
 mess
-(n) tình trạng bừa bộn, tình trạng lộn xộn; người nhếch nhác, bẩn thỉu
+tinh trang bua bon, tinh trang lon xon; nguoi nhech nhac, ban thiu
 message
-(n) tin nhắn, thư tín, điện thông báo, thông điệp
+tin nhan, thu tin, dien thong bao, thong diep
 metal
-(n) kim loại
+kim loai
 method
-(n) phương pháp, cách thức
+phuong phap, cach thuc
 metre
-(n) mét
+met
 midday
-(n) trưa, buổi trưa
+trua, buoi trua
 middle
-(n) (adj) giữa, ở giữa
+giua, o giua
 midnight
-(n) nửa đêm, 12h đêm
+nua dem, 12h dem
 mild
-(adj) nhẹ, êm dịu, ôn hòa
+nhe, em diu, on hoa
 mile
-(n) dặm (đo lường)
-military
-(adj) (thuộc) quân đội, quân sự
+dam quan doi, quan su
 milligram
 mi-li-gam
 millimetre
 mi-li-met
 mind
-(n) (v) tâm trí, tinh thần, trí tuệ; chú ý, để ý, chăm sóc, quan tâm
+tam tri, tinh than, tri tue; chu y, de y, cham soc, quan tam
 mineral
-(n) (adj) công nhân, thợ mỏ; khoáng
+cong nhan, tho mo; khoang
 minimum
-(adj) (n) tối thiểu; số lượng tối thiểu, mức tối thiểu
+toi thieu; so luong toi thieu, muc toi thieu
 minister
-(n) bộ trưởng
+bo truong
 ministry
-(n) bộ
+bo
 minor
-(adj) nhỏ hơn, thứ yếu, không quan trọng
+nho hon, thu yeu, khong quan trong
 minority
-(n) phần ít, thiểu số
+phan it, thieu so
 minute
-(n) phút
+phut
 mirror
-(n) gương
+guong
 miss
-(v) (n) lỡ, trượt; sự trượt, sự thiếu vắng
+lo, truot; su truot, su thieu vang
 missing
-(adj) vắng, thiếu, thất lạc
+vang, thieu, that lac
 mistake
-(n) (v) lỗi, sai lầm, lỗi lầm; phạm lỗi, phạm sai lầm
+loi, sai lam, loi lam; pham loi, pham sai lam
 mistaken
-(adj) sai lầm, hiểu lầm
+sai lam, hieu lam
 mix
-(v) (n) pha, trộn lẫn; sự pha trộn
+pha, tron lan; su pha tron
 mixed
-(adj) lẫn lộn, pha trộn
+lan lon, pha tron
 mixture
-(n) sự pha trộn, sự hỗn hợp
+su pha tron, su hon hop
 mobile
-(adj) chuyển động, di động
+chuyen dong, di dong
 model
-(n) mẫu, kiểu mẫu
+mau, kieu mau
 modern
-(adj) hiện đại, tân tiến
+hien dai, tan tien
 moment
-(n) chốc, lát
+choc, lat
 monitor
-(n) (v) lớp trưởng, màn hình máy tính; nghe, ghi phát thanh, giám sát
+lop truong, man hinh may tinh; nghe, ghi phat thanh, giam sat
 mood
-(n) lối, thức, điệu
+loi, thuc, dieu
 moon
-(n) mặt trăng
+mat trang
 moral
-(adj) (thuộc) đạo đức, luân lý, phẩm hạnh; có đạo đức
+dao duc, luan ly, pham hanh; co dao duc
 morally
-(adv) có đạo đức
+co dao duc
 moreover
-(adv) hơn nữa, ngoài ra, vả lại
+hon nua, ngoai ra, va lai
 most
-pro (n) (adv) lớn nhất, nhiều nhất; nhất, hơn cả
+pro lon nhat, nhieu nhat; nhat, hon ca
 mostly
-(adv) hầu hết, chủ yếu là
+hau het, chu yeu la
 motion
-(n) sự chuyển động, sự di động
+su chuyen dong, su di dong
 motor
-(n) động cơ mô tô
+dong co mo to
 motorcycle
-(n) xe mô tô
+xe mo to
 mount
-(v) (n) leo, trèo; núi
+leo, treo; nui
 mountain
-(n) núi
+nui
 mouse
-(n) chuột
+chuot
 mouth
-(n) miệng
+mieng
 move
-(v) (n) di chuyển, chuyển động; sự di chuyển, sự chuyển động
+di chuyen, chuyen dong; su di chuyen, su chuyen dong
 moving
-(adj) động, hoạt động
+dong, hoat dong
 movement
-(n) sự chuyển động, sự hoạt động; cử động, động tác
+su chuyen dong, su hoat dong; cu dong, dong tac
 movie theater
-rạp chiếu phim
+rap chieu phim
 mud
-(n) bùn
+bun
 multiply
-(v) nhân lên, làm tăng lên nhiều lần; sinh sôi nảy nở
+nhan len, lam tang len nhieu lan; sinh soi nay no
 murder
-(n) (v) tội giết người, tội ám sát; giết người, ám sát
+toi giet nguoi, toi am sat; giet nguoi, am sat
 muscle
-(n) cơ, bắp thịt
+co, bap thit
 museum
-(n) bảo tàng
+bao tang
 music
-(n) nhạc, âm nhạc
+nhac, am nhac
 musical
-(adj) (thuộc) nhạc, âm nhạc; du dương, êm ái
+nhac, am nhac; du duong, em ai
 musician
-(n) nhạc sĩ
+nhac si
 mystery
-(n) điều huyền bí, điều thần bí
+dieu huyen bi, dieu than bi
 mysterious
-(adj) thần bí, huyền bí, khó hiểu
+than bi, huyen bi, kho hieu
 nail
-(n) móng (tay, chân) móng vuốt
+mong mong vuot
 naked
-(adj) trần, khỏa thân, trơ trụi
+tran, khoa than, tro trui
 narrow
-(adj) hẹp, chật hẹp
+hep, chat hep
 nation
-(n) dân tộc, quốc gia
+dan toc, quoc gia
 national
-(adj) (thuộc) quốc gia, dân tộc
+quoc gia, dan toc
 natural
-(adj) (thuộc) tự nhiên, thiên nhiên
+tu nhien, thien nhien
 naturally
-(adv) vốn, tự nhiên, đương nhiên
+von, tu nhien, duong nhien
 nature
-(n) tự nhiên, thiên nhiên
+tu nhien, thien nhien
 navy
-(n) hải quân
+hai quan
 nearby
-(adj) (adv) gần
+gan
 nearly
-(adv) gần, sắp, suýt
+gan, sap, suyt
 neat
-(adj) sạch, ngăn nắp; rành mạch
+sach, ngan nap; ranh mach
 neatly
-(adv) gọn gàng, ngăn nắp
+gon gang, ngan nap
 necessary
-(adj) cần, cần thiết, thiết yếu
+can, can thiet, thiet yeu
 necessarily
-(adv) tất yếu, nhất thiết
+tat yeu, nhat thiet
 unnecessary
-(adj) không cần thiết, không mong muốn
+khong can thiet, khong mong muon
 neck
-(n) cổ
+co
 need
-(v) (n) cần, đòi hỏi; sự cần
+can, doi hoi; su can
 needle
-(n) cái kim, mũi nhọn
+cai kim, mui nhon
 negative
-(adj) phủ định
+phu dinh
 neighbour
-(n) hàng xóm
+hang xom
 neighbourhood
-(n) hàng xóm, vùng lân cận, khoảng, chừng
+hang xom, vung lan can, khoang, chung
 neither
-pro (n) (adv) không này mà cũng không kia
+pro khong nay ma cung khong kia
 nephew
-(n) cháu trai
+chau trai
 nerve
-(n) khí lực, thần kinh, can đảm
+khi luc, than kinh, can dam
 nervous
-(adj) hoảng sợ, dễ bị kích thích, hay lo lắng
+hoang so, de bi kich thich, hay lo lang
 nervously
-(adv) bồn chồn, lo lắng
+bon chon, lo lang
 nest
-(n) (v) tổ, ổ; làm tổ
+to, o; lam to
 net
-(n) lưới, mạng
+luoi, mang
 network
-(n) mạng lưới, hệ thống
+mang luoi, he thong
 nevertheless
-(adv) tuy nhiên, tuy thế mà
+tuy nhien, tuy the ma
 newly
-(adv) mới
+moi
 news
-(n) tin, tin tức
+tin, tin tuc
 newspaper
-(n) báo
+bao
 nice
-(adj) đẹp, thú vị, dễ chịu
+dep, thu vi, de chiu
 nicely
-(adv) thú vị, dễ chịu
+thu vi, de chiu
 niece
-(n) cháu gái
+chau gai
 noise
-(n) tiếng ồn, sự huyên náo
+tieng on, su huyen nao
 noisy
-(adj) ồn ào, huyên náo
+on ao, huyen nao
 noisily
-(adv) ồn ào, huyên náo
+on ao, huyen nao
 none
-pro(n) không ai, không người, vật gì
+prokhong ai, khong nguoi, vat gi
 nonsense
-(n) lời nói vô lý, vô nghĩa
+loi noi vo ly, vo nghia
 nor
-(conj) (adv) cũng không
+cung khong
 normal
-(adj) (n) thường, bình thường; tình trạng bình thường
+thuong, binh thuong; tinh trang binh thuong
 normally
-(adv) thông thường, như thường lệ
+thong thuong, nhu thuong le
 north
-(n) (adj) (adv) phía bắc, phương bắc
+phia bac, phuong bac
 northern
-(adj) Bắc
+Bac
 nose
-(n) mũi
+mui
 note
-(n) (v) lời ghi, lời ghi chép; ghi chú, ghi chép
+loi ghi, loi ghi chep; ghi chu, ghi chep
 notice
-(n) (v) thông báo, yết thị; chú ý, để ý, nhận biết
+thong bao, yet thi; chu y, de y, nhan biet
 take notice of
-chú ý
+chu y
 noticeable
-(adj) đáng chú ý, đáng để ý
+dang chu y, dang de y
 novel
-(n) tiểu thuyết, truyện
+tieu thuyet, truyen
 nowhere
-(adv) không nơi nào, không ở đâu
+khong noi nao, khong o dau
 nuclear
-(adj) (thuộc) hạt nhân
+hat nhan
 nurse
-(n) y tá
+y ta
 nut
-(n) quả hạch; đầu
+qua hach; dau
 obey
-(v) vâng lời, tuân theo, tuân lệnh
+vang loi, tuan theo, tuan lenh
 object
-(n) vật, vật thể; phản đối, chống lại
+vat, vat the; phan doi, chong lai
 objective
-(n) (adj) mục tiêu, mục đích; (thuộc) mục tiêu,khách quan
+muc tieu, muc dich; muc tieu,khach quan
 observation
-(n) sự quan sát, sự theo dõi
+su quan sat, su theo doi
 observe
-(v) quan sát, theo dõi
+quan sat, theo doi
 obtain
-(v) đạt được, giành được
+dat duoc, gianh duoc
 obvious
-(adj) rõ ràng, rành mạch, hiển nhiên
+ro rang, ranh mach, hien nhien
 obviously
-(adv) một cách rõ ràng, có thể thấy được
+mot cach ro rang, co the thay duoc
 occasion
-(n) dịp, cơ hội
+dip, co hoi
 occasionally
-(adv) thỉnh thoảng, đôi khi
+thinh thoang, doi khi
 occupy
-(v) giữ, chiếm lĩnh, chiếm giữ
+giu, chiem linh, chiem giu
 occupied
-(adj) đang sử dụng, đầy (người)
-occur
-(v) xảy ra, xảy đến, xuất hiện
+dang su dung, day xay ra, xay den, xuat hien
 ocean
-(n) đại dương
+dai duong
 odd
-(adj) kỳ quặc, kỳ cục, lẻ (số)
-oddly
-(adv) kỳ quặc, kỳ cục, lẻ (số)
-off
-(adv) (prep) tắt; khỏi, cách, rời
+ky quac, ky cuc, le ky quac, ky cuc, le tat; khoi, cach, roi
 offence
-(n) sự vi phạm, sự phạm tội
+su vi pham, su pham toi
 offend
-(v) xúc phạm, làm bực mình, làm khó chịu
+xuc pham, lam buc minh, lam kho chiu
 offensive
-(adj) sự tấn công, cuộc tấn công
+su tan cong, cuoc tan cong
 offer
-(v) (n) biếu, tặng, cho; sự trả giá
+bieu, tang, cho; su tra gia
 office
-(n) cơ quan, văn phòng, bộ
+co quan, van phong, bo
 officer
-(n) viên chức, cảnh sát, sĩ quan
+vien chuc, canh sat, si quan
 official
-(adj) (n) (thuộc) chính quyền, văn phòng; viên chức, công chức
+chinh quyen, van phong; vien chuc, cong chuc
 officially
-(adv) một cách trịnh trọng, một cách chính thứ
+mot cach trinh trong, mot cach chinh thu
 old fashioned
-(adj) lỗi thời
+loi thoi
 once
-(adv) (conj) một lần; khi mà, ngay khi, một khi
+mot lan; khi ma, ngay khi, mot khi
 each other
-nhau, lẫn nhau
+nhau, lan nhau
 onion
-(n) củ hành
+cu hanh
 only
-(adj) (adv) chỉ có 1, duy nhất; chỉ, mới
+chi co 1, duy nhat; chi, moi
 onto
-(prep) về phía trên, lên trên
+ve phia tren, len tren
 open
-(adj) (v) mở, ngỏ; mở, bắt đầu, khai mạc
+mo, ngo; mo, bat dau, khai mac
 openly
-(adv) công khai, thẳng thắn
+cong khai, thang than
 opening
-(n) khe hở, lỗ; sự bắt đầu, sự khai mạc, lễ khánh thành
+khe ho, lo; su bat dau, su khai mac, le khanh thanh
 operate
-(v) hoạt động, điều khiển
+hoat dong, dieu khien
 operation
-(n) sự hoạt động, quá trình hoạt động
+su hoat dong, qua trinh hoat dong
 opinion
-(n) ý kiến, quan điểm
+y kien, quan diem
 opponent
-(n) địch thủ, đối thủ, kẻ thù
+dich thu, doi thu, ke thu
 opportunity
-(n) cơ hội, thời cơ
+co hoi, thoi co
 oppose
-(v) đối kháng, đối chọi, đối lập; chống đối, phản đối
+doi khang, doi choi, doi lap; chong doi, phan doi
 opposing
-(adj) tính đối kháng, đối chọi
+tinh doi khang, doi choi
 opposed to
-chống lại, phản đối
+chong lai, phan doi
 opposite
-(adj) (adv) (n)prep.đối nhau, ngược nhau; trước mặt, đối diện; điều trái ngược
-opposition
-(n) sự đối lập, sự đối nhau; sự chống lại, sự phản đối;phe đối lập
+su doi lap, su doi nhau; su chong lai, su phan doi;phe doi lap
 option
-(n) sự lựa chọn
+su lua chon
 orange
-(n) (adj) quả cam; có màu da cam
+qua cam; co mau da cam
 order
-(n) (v) thứ, bậc; ra lệnh
+thu, bac; ra lenh
 in order to
-hợp lệ
+hop le
 ordinary
-(adj) thường, thông thường
+thuong, thong thuong
 organ
-(n) đàn óoc gan
+dan ooc gan
 organization
-(n) tổ chức, cơ quan; sự tổ chức
+to chuc, co quan; su to chuc
 organize
-(v) tổ chức, thiết lập
+to chuc, thiet lap
 organized
-(adj) có trật tự, ngăn nắp, được sắp xếp, được tổ chức
+co trat tu, ngan nap, duoc sap xep, duoc to chuc
 origin
-(n) gốc, nguồn gốc, căn nguyên
+goc, nguon goc, can nguyen
 original
-(adj) (n) (thuộc) gốc, nguồn gốc, căn nguyên; nguyên bản
+goc, nguon goc, can nguyen; nguyen ban
 originally
-(adv) một cách sáng tạo, mới mẻ, độc đáo; khởi đầu, đầu tiên
+mot cach sang tao, moi me, doc dao; khoi dau, dau tien
 other
-(adj) pro(n) khác
+prokhac
 otherwise
-(adv) khác, cách khác; nếu không thì...; mặt khác
+khac, cach khac; neu khong thi...; mat khac
 ought to
-(v) phải, nên, hẳn là
+phai, nen, han la
 ourselves
-pro(n) bản thân chúng ta, bản thân chúng tôi
+proban than chung ta, ban than chung toi
 outdoors
-(adv) ở ngoài trời, ở ngoài nhà
+o ngoai troi, o ngoai nha
 outdoor
-(adj) ngoài trời, ở ngoài
+ngoai troi, o ngoai
 outer
-(adj) ở phía ngoài, ở xa hơn
+o phia ngoai, o xa hon
 outline
-(v) (n) vẽ, phác tảo; đường nét, hình dáng, nét ngoài
+ve, phac tao; duong net, hinh dang, net ngoai
 output
-(n) sự sản xuất; sản phẩm, sản lượng
+su san xuat; san pham, san luong
 outside
-(adj) (adv) bề ngoài, bên ngoài; ở ngoài
+be ngoai, ben ngoai; o ngoai
 outstanding
-(adj) nổi bật, đáng chú ý; còn tồn lại
+noi bat, dang chu y; con ton lai
 oven
-(n) lò (nướng)
-over
-(adv).prep. bên trên, vượt qua; lên, lên trên
-overall
-(adj) (adv) toàn bộ, toàn thể; tất cả, bao gồm
+lo toan bo, toan the; tat ca, bao gom
 overcome
-(v) thắng, chiến thắng, khắc phục, đánh bại
+thang, chien thang, khac phuc, danh bai
 owe
-(v) nợ, hàm ơn; có được (cái gì)
-own
-(adj) pro (n) (v) của chính mình, tự mình; nhận, nhìn nhận
+no, ham on; co duoc pro cua chinh minh, tu minh; nhan, nhin nhan
 owner
-(n) người chủ, chủ nhân
+nguoi chu, chu nhan
 pace
-(n) bước chân, bước
+buoc chan, buoc
 pack
-(v) (n) gói, bọc; bó, gói
+goi, boc; bo, goi
 package
-(n) (v) gói đồ, bưu kiện; đóng gói, đóng kiện
+goi do, buu kien; dong goi, dong kien
 packaging
-(n) bao bì
+bao bi
 packet
-(n) gói nhỏ
+goi nho
 page
-(n) trang (sách)
-pain
-(n) sự đau đớn, sự đau khổ
+trang su dau don, su dau kho
 painful
-(adj) đau đớn, đau khổ
+dau don, dau kho
 paint
-(n) (v) sơn, vôi màu; sơn, quét sơn
+son, voi mau; son, quet son
 painting
-(n) sự sơn; bức họa, bức tranh
+su son; buc hoa, buc tranh
 painter
-(n) họa sĩ
+hoa si
 pair
-(n) đôi, cặp
+doi, cap
 palace
-(n) cung điện, lâu đài
+cung dien, lau dai
 pale
-(adj) tái, nhợt
+tai, nhot
 pan
-(n) xoong, chảo
+xoong, chao
 panel
-(n) ván ô (cửa, tường), pa nô
-pants
-(n) quần lót, đùi
+van o quan lot, dui
 paper
-(n) giấy
+giay
 parallel
-(adj) song song, tương đương
+song song, tuong duong
 parent
-(n) cha, mẹ
+cha, me
 park
-(n) (v) công viên, vườn hoa; khoanh vùng thành công viên
+cong vien, vuon hoa; khoanh vung thanh cong vien
 parliament
-(n) nghi viện, quốc hội
+nghi vien, quoc hoi
 part
-(n) phần, bộ phận
+phan, bo phan
 take part in
-tham gia vào
+tham gia vao
 particular
-(adj) riêng biệt, cá biệt
+rieng biet, ca biet
 particularly
-(adv) một cách đặc biệt, cá biệt, riêng biệt
+mot cach dac biet, ca biet, rieng biet
 partly
-(adv) đến chừng mực nào đó, phần nào đó
+den chung muc nao do, phan nao do
 partner
-(n)/ đối tác, cộng sự
-partnership
-(n) sự chung phần, sự cộng tác
+su chung phan, su cong tac
 party
-(n) tiệc, buổi liên hoan; đảng
+tiec, buoi lien hoan; dang
 pass
-(v) qua, vượt qua, ngang qua
+qua, vuot qua, ngang qua
 passing
-(n) (adj) sự đi qua, sự trôi qua; thoáng qua, ngắn ngủi
+su di qua, su troi qua; thoang qua, ngan ngui
 passage
-(n) sự đi qua, sự trôi qua; hành lang
+su di qua, su troi qua; hanh lang
 passenger
-(n) hành khách
+hanh khach
 passport
-(n) hộ chiếu
+ho chieu
 past
-(adj) (adv) quá khứ, dĩ vãng; quá, qua
+qua khu, di vang; qua, qua
 path
-(n) đường mòn; hướng đi
+duong mon; huong di
 patience
-(n) tính kiên nhẫn, nhẫn nại, kiên trì, sự chịu đựng
+tinh kien nhan, nhan nai, kien tri, su chiu dung
 patient
-(n) (adj) bệnh nhân; kiên nhẫn, nhẫn nại, bền chí
+benh nhan; kien nhan, nhan nai, ben chi
 pattern
-(n) mẫu, khuôn mẫu
+mau, khuon mau
 pause
-(v) (n) tạm nghỉ, dừng; sự tạm nghỉ, sự tạm ngừng
+tam nghi, dung; su tam nghi, su tam ngung
 pay
-(v) (n) trả, thanh toán, nộp; tiền lương
+tra, thanh toan, nop; tien luong
 payment
-(n) sự trả tiền, số tiền trả, tiền bồi thường
+su tra tien, so tien tra, tien boi thuong
 peace
-(n) hòa bình, sự hòa thuận
+hoa binh, su hoa thuan
 peaceful
-(adj) hòa bình, thái bình, yên tĩnh
+hoa binh, thai binh, yen tinh
 peak
-(n) lưỡi trai; đỉnh, chóp
+luoi trai; dinh, chop
 penny
-(n) đồng xu, số tiền
+dong xu, so tien
 pencil
-(n) bút chì
+but chi
 pension
-(n) tiền trợ cấp, lương hưu
+tien tro cap, luong huu
 people
-(n) dân tộc, dòng giống; người
+dan toc, dong giong; nguoi
 pepper
-(n) hạt tiêu, cây ớt
+hat tieu, cay ot
 per
-(prep) cho mỗi
+cho moi
 percent
-(n) phần trăm
+phan tram
 perfect
-(adj) hoàn hảo
+hoan hao
 perfectly
-(adv) một cách hoàn hảo
+mot cach hoan hao
 perform
-(v) biểu diễn; làm, thực hiện
+bieu dien; lam, thuc hien
 performance
-(n) sự làm, sự thực hiện, sự thi hành, sự biểu diễn
+su lam, su thuc hien, su thi hanh, su bieu dien
 performer
-(n) người biểu diễn, người trình diễn
+nguoi bieu dien, nguoi trinh dien
 perhaps
-(adv) có thể, có lẽ
+co the, co le
 period
-(n) kỳ, thời kỳ, thời gian; thời đại
+ky, thoi ky, thoi gian; thoi dai
 permanent
-(adj) lâu dài, vĩnh cửu, thường xuyên
+lau dai, vinh cuu, thuong xuyen
 permanently
-(adv) cách thường xuyên, vĩnh cửu
+cach thuong xuyen, vinh cuu
 permission
-(n) sự cho phép, giấy phép
+su cho phep, giay phep
 permit
-(v) /'pə:mit/ cho phép, cho cơ hội
+cho phep, cho co hoi
 person
-(n) con người, người
+con nguoi, nguoi
 personal
-(adj) cá nhân, tư, riêng tư
+ca nhan, tu, rieng tu
 personally
-(adv) đích thân, bản thân, về phần rôi, đối với tôi
+dich than, ban than, ve phan roi, doi voi toi
 personality
-(n) nhân cách, tính cách; nhân phẩm, cá tính
+nhan cach, tinh cach; nhan pham, ca tinh
 persuade
-(v) thuyết phục
+thuyet phuc
 pet
-(n) cơn nóng giận; vật cưng, người được yêu thích
+con nong gian; vat cung, nguoi duoc yeu thich
 petrol
-(n) xăng dầu
+xang dau
 phase
-(n) tuần trăng; giai đoạn, thời kỳ
+tuan trang; giai doan, thoi ky
 philosophy
-(n) triết học, triết lý
+triet hoc, triet ly
 photocopy
-(n) (v) bản sao chụp; sao chụp
+ban sao chup; sao chup
 photograph
-(n) (v) ảnh, bức ảnh; chụp ảnh
+anh, buc anh; chup anh
 photographer
-(n) thợ chụp ảnh, nhà nhiếp ảnh
+tho chup anh, nha nhiep anh
 photography
-(n) thuật chụp ảnh, nghề nhiếp ảnh
+thuat chup anh, nghe nhiep anh
 phrase
-(n) câu; thành ngữ, cụm từ
+cau; thanh ngu, cum tu
 physical
-(adj) vật chất; (thuộc) cơ thể, thân thể
+vat chat; co the, than the
 physically
-(adv) về thân thể, theo luật tự nhiên
+ve than the, theo luat tu nhien
 physics
-(n) vật lý học
+vat ly hoc
 pick
-(v) cuốc (đất); đào, khoét (lỗ)
-pick sth up
-cuốc, vỡ, xé
-picture
-(n) bức vẽ, bức họa
+cuoc buc ve, buc hoa
 piece
-(n) mảnh, mẩu; đồng tiền
+manh, mau; dong tien
 pile
-(n) (v) cọc, chồng, đống, pin; đóng cọc, chất chồng
+coc, chong, dong, pin; dong coc, chat chong
 pill
-(n) viên thuốc
+vien thuoc
 pilot
-(n) phi công
+phi cong
 pin
-(n) (v) đinh ghim; ghim, kẹp
+dinh ghim; ghim, kep
 pink
-(adj) (n) màu hồng; hoa cẩm chướng, tình trạng tốt, hoàn hảo
+mau hong; hoa cam chuong, tinh trang tot, hoan hao
 pint
-(n) Panh (đơn vị (đo lường) ở Anh bằng 0, 58 lít; ở Mỹ bằng 0, 473 lít)
+Panh o Anh bang 0, 58 lit; o My bang 0, 473 lit)
 pipe
-(n) ống dẫn (khí, nước...)
-pitch
-(n) sân (chơi các môn thể thao); đầu hắc ín
-pity
-(n) lòng thương hại, điều đáng tiếc, đáng thương
+ong dan san long thuong hai, dieu dang tiec, dang thuong
 place
-(n) (v) nơi, địa điểm; quảng trường
+noi, dia diem; quang truong
 take place
-xảy ra, được cử hành, được tổ chức
+xay ra, duoc cu hanh, duoc to chuc
 plain
-(adj) ngay thẳng, đơn giản, chất phác
+ngay thang, don gian, chat phac
 plan
-(n) (v) bản đồ, kế hoạch; vẽ bản đồ, lập kế hoạch, dự kiến
+ban do, ke hoach; ve ban do, lap ke hoach, du kien
 planning
-(n) sự lập kế hoạch, sự quy hoạch
+su lap ke hoach, su quy hoach
 plane
-(n) mặt phẳng, mặt bằng
+mat phang, mat bang
 planet
-(n) hành tinh
+hanh tinh
 plant
-(n) (v) thực vật, sự mọc lên; trồng, gieo
+thuc vat, su moc len; trong, gieo
 plastic
-(n) (adj) chất dẻo, làm bằng chất dẻo
+chat deo, lam bang chat deo
 plate
-(n) bản, tấm kim loại
+ban, tam kim loai
 platform
-(n) nền, bục, bệ; thềm, sân ga
+nen, buc, be; them, san ga
 pleasant
-(adj) vui vẻ, dễ thương; dịu dàng, thân mật
+vui ve, de thuong; diu dang, than mat
 pleasantly
-(adv) vui vẻ, dễ thương; thân mật
+vui ve, de thuong; than mat
 unpleasant
-(adj) không dễ chịu, khó chịu, khó ưa
+khong de chiu, kho chiu, kho ua
 please
-(v) làm vui lòng, vừa lòng, mong... vui lòng, xin mời
+lam vui long, vua long, mong... vui long, xin moi
 pleasing
-(adj) mang lại niềm vui thích; dễ chịu
+mang lai niem vui thich; de chiu
 pleased
-(adj) hài lòng
+hai long
 pleasure
-(n) niềm vui thích, điều thích thú, điều thú vị; ý muốn, ý thích
+niem vui thich, dieu thich thu, dieu thu vi; y muon, y thich
 plenty
-pro(n) (adv) (n) nhiều, sự thừa; sự sung túc, sự phong phú
+pro
+nhieu, su thua; su sung tuc, su phong phu
 plot
-(n) (v) mảnh đất nhở, sơ đồ, đồ thị, đồ án; vẽ sơ đồ, dựng đồ án
+manh dat nho, so do, do thi, do an; ve so do, dung do an
 plug
-(n) nút (thùng, chậu, bồn..)
-plus
-(adj) (conj) cộng với (số, người...); dấu cộng; cộng,thêm vào
-pocket
-(n) túi (quần áo, trong xe hơi), túi tiền
-poem
-(n) bài thơ
+nut cong voi tui bai tho
 poetry
-(n) thi ca; chất thơ
+thi ca; chat tho
 point
-(n) (v) mũi nhọn, điểm; vót, làm nhọn, chấm (câu..)
-pointed
-(adj) nhọn, có đầu nhọn
+mui nhon, diem; vot, lam nhon, cham nhon, co dau nhon
 poison
-(n) (v) chất độc, thuốc độc; đánh thuốc độc, tẩm thuốc độc
+chat doc, thuoc doc; danh thuoc doc, tam thuoc doc
 poisonous
-(adj) độc, có chất độc, gây chết, bệnh
+doc, co chat doc, gay chet, benh
 pole
-(n) người Ba Lan; cực (nam châm, trái đất...)
-police
-(n) cảnh sát, công an
+nguoi Ba Lan; cuc canh sat, cong an
 policy
-(n) chính sách, cách xử sự, điều khoản, hợp đồng
+chinh sach, cach xu su, dieu khoan, hop dong
 polish
-(n) (v) nước bóng, nước láng; đánh bóng, làm cho láng
+nuoc bong, nuoc lang; danh bong, lam cho lang
 polite
-(adj) lễ phép, lịch sự
+le phep, lich su
 politely
-(adv) lễ phép, lịch sự
+le phep, lich su
 political
-(adj) về chính trị, về chính phủ, có tính chính trị
+ve chinh tri, ve chinh phu, co tinh chinh tri
 politically
-(adv) về mặt chính trị; khôn ngoan, thận trọng; sảo quyệt
+ve mat chinh tri; khon ngoan, than trong; sao quyet
 politician
-(n) nhà chính trị, chính khách
+nha chinh tri, chinh khach
 politics
-(n) họat động chính trị, đời sống chính trị, quan điểm chính trị
+hoat dong chinh tri, doi song chinh tri, quan diem chinh tri
 pollution
-(n) sự ô nhiễm
+su o nhiem
 pool
-(n) vũng nước; bể bơi, hồ bơi
+vung nuoc; be boi, ho boi
 poor
-(adj) nghèo
+ngheo
 popular
-(adj) có tính đại chúng, (thuộc) nhân dân; được nhiều người ưa chuộng
+co tinh dai chung, nhan dan; duoc nhieu nguoi ua chuong
 population
-(n) dân cư, dân số; mật độ dân số
+dan cu, dan so; mat do dan so
 port
-(n) cảng
+cang
 pose
-(v) (n) đưa ra, đề ra, đặt; sự đặt, đề ra
+dua ra, de ra, dat; su dat, de ra
 position
-(n) vị trí, chỗ
+vi tri, cho
 positive
-(adj) xác thực, rõ ràng, tích cực, lạc quan
+xac thuc, ro rang, tich cuc, lac quan
 possess
-(v) có, chiếm hữu
+co, chiem huu
 possession
-(n) quyền sở hữu, vật sở hữu
+quyen so huu, vat so huu
 possibility
-(n) khă năng, triển vọng
+kha nang, trien vong
 possible
-(adj) có thể, có thể thực hiện
+co the, co the thuc hien
 possibly
-(adv) có lẽ, có thể, có thể chấp nhận được
+co le, co the, co the chap nhan duoc
 post
-(n) (v) thư, bưu kiện; gửi thư
+thu, buu kien; gui thu
 post office
-(n) bưu điện
+buu dien
 pot
-(n) can, bình, lọ...
+can, binh, lo...
 potato
-(n) khoai tây
+khoai tay
 potential
-(adj) (n) tiềm năng; khả năng, tiềm lực
+tiem nang; kha nang, tiem luc
 potentially
-(adv) tiềm năng, tiềm ẩn
+tiem nang, tiem an
 pound
-(n) pao - đơn vị đo lường
+pao - don vi do luong
 pour
-(v) rót, đổ, giội
+rot, do, gioi
 powder
-(n) bột, bụi
+bot, bui
 power
-(n) khả năng, tài năng, năng lực; sức mạnh, nội lực; quyền lực
+kha nang, tai nang, nang luc; suc manh, noi luc; quyen luc
 powerful
-(adj) hùng mạnh, hùng cường
+hung manh, hung cuong
 practical
-(adj) thực hành; thực tế
+thuc hanh; thuc te
 practically
-(adv) về mặt thực hành; thực tế
+ve mat thuc hanh; thuc te
 practice
-(n) (v) thực hành, thực tiễn
+thuc hanh, thuc tien
 practise
-(v) thực hành, tập luyện
+thuc hanh, tap luyen
 praise
-(n) (v) sự ca ngợi, sự tán dương, lòng tôn kính, tôn thờ; khen ngợi, tán dương
+su ca ngoi, su tan duong, long ton kinh, ton tho; khen ngoi, tan duong
 prayer
-(n) sự cầu nguyện
+su cau nguyen
 precise
-(adj) rõ ràng, chính xác; tỉ mỉ, kỹ tính
+ro rang, chinh xac; ti mi, ky tinh
 precisely
-(adv) đúng, chính xác, cần thận
+dung, chinh xac, can than
 predict
-(v) báo trước, tiên đoán, dự báo
+bao truoc, tien doan, du bao
 prefer
-(v) thích hơn
+thich hon
 preference
-(n) sự thích hơn, sự ưa hơn; cái được ưa thích hơn
+su thich hon, su ua hon; cai duoc ua thich hon
 pregnant
-(adj) mang thai; giàu trí tưởng tượng, sáng tạo
+mang thai; giau tri tuong tuong, sang tao
 premises
-(n) biệt thự
+biet thu
 preparation
-(n) sự sửa soạn, sự chuẩn bị
+su sua soan, su chuan bi
 prepare
-(v) sửa soạn, chuẩn bị
+sua soan, chuan bi
 prepared
-(adj) đã được chuẩn bị
+da duoc chuan bi
 presence
-(n) sự hiện diện, sự có mặt; người, vât hiện diện
+su hien dien, su co mat; nguoi, vat hien dien
 present
-(n) (v) có mặt, hiện diện; hiện nay, hiện thời; bày tỏ, giới thiệu, trình bày
+co mat, hien dien; hien nay, hien thoi; bay to, gioi thieu, trinh bay
 presentation
-(n) bài thuyết trình, sự trình diện, sự giới thiệu
+bai thuyet trinh, su trinh dien, su gioi thieu
 preserve
-(v) bảo quản, giữ gìn
+bao quan, giu gin
 president
-(n) hiệu trưởng, chủ tịnh, tổng thống
+hieu truong, chu tinh, tong thong
 press
-(n) (v) sự ép, sự nén, sự ấn; ép, nén, bóp, ấn
+su ep, su nen, su an; ep, nen, bop, an
 pressure
-(n) sức ép, áp lực, áp suất
+suc ep, ap luc, ap suat
 presumably
-(adv) có thể được, có lẽ
+co the duoc, co le
 pretend
-(v) giả vờ, giả bộ, làm ra vẻ
+gia vo, gia bo, lam ra ve
 pretty
-(adv) (adj) khá, vừa phải; xinh, xinh xắn; đẹp
+kha, vua phai; xinh, xinh xan; dep
 prevent
-(v) ngăn cản, ngăn chặn, ngăn ngừa
+ngan can, ngan chan, ngan ngua
 previous
-(adj) vội vàng, hấp tấp; trước (vd. ngày hôm trước), ưu tiên
-previously
-(adv) trước, trước đây
+voi vang, hap tap; truoc truoc, truoc day
 price
-(n) giá
+gia
 pride
-(n) sự kiêu hãnh, sự hãnh diện; tính kiêu căng, tự phụ
+su kieu hanh, su hanh dien; tinh kieu cang, tu phu
 priest
-(n) linh mục, thầy tu
+linh muc, thay tu
 primary
-(adj) nguyên thủy, đầu tiên; thời cổ đại, nguyên sinh; sơ cấp, tiểu học
+nguyen thuy, dau tien; thoi co dai, nguyen sinh; so cap, tieu hoc
 primarily
-(adv) trước hết, đầu tiên
+truoc het, dau tien
 prime minister
-(n) thủ tướng
+thu tuong
 prince
-(n) hoàng tử
+hoang tu
 princess
-(n) công chúa
+cong chua
 principle
-(n) cơ bản, chủ yếu; nguyên lý, nguyên tắc
+co ban, chu yeu; nguyen ly, nguyen tac
 print
-(v) (n) in, xuất bản; sự in ra
+in, xuat ban; su in ra
 printing
-(n) sự in, thuật in, kỹ sảo in
+su in, thuat in, ky sao in
 printer
-(n) máy in, thợ in
+may in, tho in
 prior
-(adj) trước, ưu tiên
+truoc, uu tien
 priority
-(n) sự ưu tế, quyền ưu tiên
+su uu te, quyen uu tien
 prison
-(n) nhà tù
+nha tu
 prisoner
-(n) tù nhân
+tu nhan
 private
-(adj) cá nhân, riêng
+ca nhan, rieng
 privately
-(adv) riêng tư, cá nhân
+rieng tu, ca nhan
 prize
-(n) giải, giải thưởng
+giai, giai thuong
 probable
-(adj) có thể, có khả năng
+co the, co kha nang
 probably
-(adv) hầu như chắc chắn
+hau nhu chac chan
 problem
-(n) vấn đề, điều khó giải quyết
+van de, dieu kho giai quyet
 procedure
-(n) thủ tục
+thu tuc
 proceed
-(v) tiến lên, theo đuổi, tiếp diễn
+tien len, theo duoi, tiep dien
 process
-(n) (v) quá trình, sự tiến triển, quy trình; chế biến, gia công, xử lý
+qua trinh, su tien trien, quy trinh; che bien, gia cong, xu ly
 produce
-(v) sản xuất, chế tạo
+san xuat, che tao
 producer
-(n) nhà sản xuất
+nha san xuat
 product
-(n) sản phẩm
+san pham
 production
-(n) sự sản xuất, chế tạo
+su san xuat, che tao
 profession
-(n) nghề, nghề nghiệp
+nghe, nghe nghiep
 professional
-(adj) (n) (thuộc) nghề, nghề nghiệp; chuyên nghiệp
+nghe, nghe nghiep; chuyen nghiep
 professor
-(n) giáo sư, giảng viên
+giao su, giang vien
 profit
-(n) thuận lợi, lợi ích, lợi nhuận
+thuan loi, loi ich, loi nhuan
 program
-(n) (v) chương trình; lên chương trình
+chuong trinh; len chuong trinh
 programme
-(n) chương trình
+chuong trinh
 progress
-(n) (v) sự tiến tới, sự tiến triển; tiến bộ, tiến triển, phát triển
+su tien toi, su tien trien; tien bo, tien trien, phat trien
 project
-(n) (v) đề án, dự án,kế hoạch; dự kiến, kế hoạch
+de an, du an,ke hoach; du kien, ke hoach
 promise
-(v) (n) hứa, lời hứa
+hua, loi hua
 promote
-(v) thăng chức, thăng cấp
+thang chuc, thang cap
 promotion
-(n) sự thăng chức, sự thăng cấp
+su thang chuc, su thang cap
 prompt
-(adj) (v) mau lẹ, nhanh chóng; xúi, giục, nhắc nhở
+mau le, nhanh chong; xui, giuc, nhac nho
 promptly
-(adv) mau lẹ, ngay lập tức
+mau le, ngay lap tuc
 pronounce
-(v) tuyên bố, thông báo, phát âm
+tuyen bo, thong bao, phat am
 pronunciation
-(n) sự phát âm
+su phat am
 proof
-(n) chứng, chứng cớ, bằng chứng; sự kiểm chứng
+chung, chung co, bang chung; su kiem chung
 proper
-(adj) đúng, thích đáng, thích hợp
+dung, thich dang, thich hop
 properly
-(adv) một cách đúng đắn, một cách thích đáng
+mot cach dung dan, mot cach thich dang
 property
-(n) tài sản, của cải; đất đai, nhà cửa, bất động sản
+tai san, cua cai; dat dai, nha cua, bat dong san
 proportion
-(n) sự cân xứng, sự cân đối
+su can xung, su can doi
 proposal
-(n) sự đề nghị, đề xuất
+su de nghi, de xuat
 propose
-(v) đề nghị, đề xuất, đưa ra
+de nghi, de xuat, dua ra
 prospect
-(n) viễn cảnh, toàn cảnh; triển vọng, mong chờ
+vien canh, toan canh; trien vong, mong cho
 protect
-(v) bảo vệ, che chở
+bao ve, che cho
 protection
-(n) sự bảo vệ, sự che chở
+su bao ve, su che cho
 protest
-(n) (v) sự phản đối, sự phản kháng; phản đối, phản kháng
+su phan doi, su phan khang; phan doi, phan khang
 proud
-(adj) tự hào, kiêu hãnh
+tu hao, kieu hanh
 proudly
-(adv) một cách tự hào, một cách hãnh diện
+mot cach tu hao, mot cach hanh dien
 prove
-(v) chứng tỏ, chứng minh
+chung to, chung minh
 provide
-(v) chuẩn bị đầy đủ, dự phòng; cung cấp, chu cấp
+chuan bi day du, du phong; cung cap, chu cap
 provided
-(conj) với điều kiện là, miễn là
+voi dieu kien la, mien la
 pint
-(n) panh (= 0, 58 lít (E);=0, 473 lít (A))
-pub
-(n) quán rượu, tiệm rượu
+panh quan ruou, tiem ruou
 public
-(adj) (n) chung, công cộng; công chúng, nhân dân
+chung, cong cong; cong chung, nhan dan
 in public
-giữa công chúng, công khai
+giua cong chung, cong khai
 publicly
-(adv) công khai, công cộng
+cong khai, cong cong
 publication
-(n) sự công bố; sự xuất bản
+su cong bo; su xuat ban
 publicity
-(n) sự công khai, sự quảng cáo
+su cong khai, su quang cao
 publish
-(v) công bố, ban bố; xuất bản
+cong bo, ban bo; xuat ban
 publishing
-(n) công việc, nghề xuất bản
+cong viec, nghe xuat ban
 pull
-(v) (n) lôi, kéo, giật; sự lôi kéo, sự giật
+loi, keo, giat; su loi keo, su giat
 punch
-(v) (n) đấm, thụi; quả đấm, cú thụi
+dam, thui; qua dam, cu thui
 punish
-(v) phạt, trừng phạt
+phat, trung phat
 punishment
-(n) sự trừng phạt, sự trừng trị
+su trung phat, su trung tri
 pupil
-(n) học sinh
+hoc sinh
 purchase
-(n) (v) sự mua, sự tậu; mua, sắm, tậu
+su mua, su tau; mua, sam, tau
 pure
-(adj) nguyên chất, tinh khiết, trong lành
+nguyen chat, tinh khiet, trong lanh
 purely
-(adv) hoàn toàn, chỉ là
+hoan toan, chi la
 purple
-(adj) (n) tía, có màu tía; màu tía
+tia, co mau tia; mau tia
 purpose
-(n) mục đích, ý định
+muc dich, y dinh
 on purpose
-cố tình, cố ý, có chủ tâm
+co tinh, co y, co chu tam
 pursue
-(v) đuổi theo, đuổi bắt
+duoi theo, duoi bat
 push
-(v) (n) xô đẩy; sự xô đẩy
+xo day; su xo day
 put
-(v) đặt, để, cho vào
+dat, de, cho vao
 put sth on
-mặc (áo), đội (mũ), đi (giày)
-put sth out
-tắt, dập tắt
-qualification
-(n) phẩm chất, năng lực; khả năng chuyên môn
+mac pham chat, nang luc; kha nang chuyen mon
 qualify
-(v) đủ khả năng, đủ tư cách, điều kiện
+du kha nang, du tu cach, dieu kien
 qualified
-(adj) đủ tư cách, điều kiện, khả năng
+du tu cach, dieu kien, kha nang
 quality
-n) chất lượng, phẩm chất
+n) chat luong, pham chat
 quantity
-(n) lượng, số lượng
+luong, so luong
 quarter
-(n) 1/4, 15 phút
+1/4, 15 phut
 question
-(n) (v) câu hỏi; hỏi, chất vấn
+cau hoi; hoi, chat van
 quick
-(adj) nhanh
+nhanh
 quickly
-(adv) nhanh
+nhanh
 quiet
-(adj) lặng, yên lặng, yên tĩnh
+lang, yen lang, yen tinh
 quietly
-(adv) lặng, yên lặng, yên tĩnh
+lang, yen lang, yen tinh
 quit
-(v) thoát, thoát ra
+thoat, thoat ra
 quite
-(adv) hoàn toàn, hầu hết
+hoan toan, hau het
 quote
-(v) trích dẫn
+trich dan
 race
-(n) (v) loài, chủng, giống; cuộc đua; đua
+loai, chung, giong; cuoc dua; dua
 racing
-(n) cuộc đua
+cuoc dua
 rail
-(n) đường ray
+duong ray
 railway
-(n) đường sắt
+duong sat
 raise
-(v) nâng lên, đưa lên, ngẩng lên
+nang len, dua len, ngang len
 range
-(n) dãy, hàng, loại; phạm vi, trình độ
+day, hang, loai; pham vi, trinh do
 rank
-(n) (v) hàng, dãy; sắp xếp thành hàng, dãy
+hang, day; sap xep thanh hang, day
 rapid
-(adj) nhanh, nhanh chóng
+nhanh, nhanh chong
 rapidly
-(adv) nhanh, nhanh chóng
+nhanh, nhanh chong
 rare
-(adj) hiếm, ít
+hiem, it
 rarely
-(adv) hiếm khi, ít khi
+hiem khi, it khi
 rate
-(n) (v) tỷ lệ, tốc độ
+ty le, toc do
 rather
-(adv) thà.. còn hơn, thích... hơn
+tha.. con hon, thich... hon
 rather than
-hơn là
+hon la
 raw
-(adj) sống (# chín), thô, còn nguyên chất
-reach
-(v) đến, đi đến, tới
+song den, di den, toi
 react
-(v) tác động trở lại, phản ứng
+tac dong tro lai, phan ung
 reaction
-(n) sự phản ứng; sự phản tác dụng
+su phan ung; su phan tac dung
 reading
-(n) sự đọc
+su doc
 reader
-(n) người đọc, độc giả
+nguoi doc, doc gia
 ready
-(adj) sẵn sàng
+san sang
 real
-(adj) thực, thực tế, có thật
+thuc, thuc te, co that
 really
-(adv) thực, thực ra, thực sự
+thuc, thuc ra, thuc su
 realistic
-(adj) hiện thực
+hien thuc
 reality
-(n) sự thật, thực tế, thực tại
+su that, thuc te, thuc tai
 realize
-(v) thực hiện, thực hành
+thuc hien, thuc hanh
 rear
-(n) (adj) phía sau; ở đằng sau, ở đằng sau
+phia sau; o dang sau, o dang sau
 reason
-(n) lý do, lý lẽ
+ly do, ly le
 reasonable
-(adj) có lý, hợp lý
+co ly, hop ly
 reasonably
-(adv) hợp lý
+hop ly
 unreasonable
-(adj) vô lý
+vo ly
 recall
-(v) gọi về, triệu hồi; nhặc lại, gợi lại
+goi ve, trieu hoi; nhac lai, goi lai
 receipt
-(n) công thức; đơn thuốc
+cong thuc; don thuoc
 receive
-(v) nhận, lĩnh, thu
+nhan, linh, thu
 recent
-(adj) gần đây, mới đây
+gan day, moi day
 recently
-(adv) gần đây, mới đây
+gan day, moi day
 reception
-(n) sự nhận, sự tiếp nhận, sự đón tiếp
+su nhan, su tiep nhan, su don tiep
 reckon
-(v) tính, đếm
+tinh, dem
 recognition
-(n) sự công nhận, sự thừa nhận
+su cong nhan, su thua nhan
 recognize
-(v) nhận ra, nhận diện; công nhận, thừa nhận
+nhan ra, nhan dien; cong nhan, thua nhan
 recommend
-(v) giới thiệu, tiến cử; đề nghị, khuyên bảo
+gioi thieu, tien cu; de nghi, khuyen bao
 record
-(n) (v) bản ghi, sự ghi, bản thu, sự thu; thu, ghi chép
+ban ghi, su ghi, ban thu, su thu; thu, ghi chep
 recording
-(n) sự ghi, sự thu âm
+su ghi, su thu am
 recover
-(v) lấy lại, giành lại
+lay lai, gianh lai
 reduce
-(v) giảm, giảm bớt
+giam, giam bot
 reduction
-(n) sự giảm giá, sự hạ giá
+su giam gia, su ha gia
 refer to
-(v) xem, tham khảo; ám chỉ, nhắc đến
+xem, tham khao; am chi, nhac den
 reference
-(n) sự tham khảo, hỏi ý kiến
+su tham khao, hoi y kien
 reflect
-(v) phản chiếu, phản hồi, phản ánh
+phan chieu, phan hoi, phan anh
 reform
-(v) (n) cải cách, cải thiện, cải tạo; sự cải cách, sự cải thiện, cải tạo
+cai cach, cai thien, cai tao; su cai cach, su cai thien, cai tao
 refrigerator
-tủ lạnh
+tu lanh
 refusal
-(n) sự từ chối, sự khước từ
+su tu choi, su khuoc tu
 refuse
-(v) từ chối, khước từ
+tu choi, khuoc tu
 regard
-(v) (n) nhìn, đánh giá; cái nhìn, sự quan tâm, sự chú ý (lời chúc tụng cuối thư)
-regarding
-(prep) về, về việc, đối với (vấn đề...)
-region
-(n) vùng, miền
+nhin, danh gia; cai nhin, su quan tam, su chu y ve, ve viec, doi voi vung, mien
 regional
-(adj) vùng, địa phương
+vung, dia phuong
 register
-(v) (n) đăng ký, ghi vào sổ; sổ, sổ sách, máy ghi
+dang ky, ghi vao so; so, so sach, may ghi
 regret
-(v) (n) đáng tiếc, hối tiếc; lòng thương tiếc, sự hối tiếc
+dang tiec, hoi tiec; long thuong tiec, su hoi tiec
 regular
-(adj) thường xuyên, đều đặn
+thuong xuyen, deu dan
 regularly
-(adv) đều đặn, thường xuyên
+deu dan, thuong xuyen
 regulation
-(n) sự điều chỉnh, điều lệ, quy tắc
+su dieu chinh, dieu le, quy tac
 reject
-(v) không chấp nhận, loại bỏ, bác bỏ
+khong chap nhan, loai bo, bac bo
 relate
-(v) kể lại, thuật lại; liên hệ, liên quan
+ke lai, thuat lai; lien he, lien quan
 related to
-(adj) có liên quan, có quan hệ với ai, cái gì
+co lien quan, co quan he voi ai, cai gi
 relation
-(n) mối quan hệ, sự liên quan, liên lạc
+moi quan he, su lien quan, lien lac
 relationship
-(n) mối quan hệ, mối liên lạc
+moi quan he, moi lien lac
 relative
-(adj) (n) có liên quan đến; người có họ, đại từ quan hệ
+co lien quan den; nguoi co ho, dai tu quan he
 relatively
-(adv) có liên quan, có quan hệ
+co lien quan, co quan he
 relax
-(v) giải trí, nghỉ ngơi
+giai tri, nghi ngoi
 relaxed
-(adj) thanh thản, thoải mái
+thanh than, thoai mai
 relaxing
-(adj) làm giảm, bớt căng thẳng
+lam giam, bot cang thang
 release
-(v) (n) làm nhẹ, bớt, thả, phóng thích, phát hành; sự giải thoát, thoát khỏi, sự thả
+lam nhe, bot, tha, phong thich, phat hanh; su giai thoat, thoat khoi, su tha
 relevant
-(adj) thích hợp, có liên quan
+thich hop, co lien quan
 relief
-(n) sự giảm nhẹ, sự làm cho khuây khỏa; sự trợ cấo; sự đền bù
+su giam nhe, su lam cho khuay khoa; su tro cao; su den bu
 religion
-(n) tôn giáo
+ton giao
 religious
-(adj) (thuộc) tôn giáo
+ton giao
 rely on
-(v) tin vào, tin cậy, tin tưởng vào
+tin vao, tin cay, tin tuong vao
 remain
-(v) còn lại, vẫn còn như cũ
+con lai, van con nhu cu
 remaining
-(adj) còn lại
+con lai
 remains
-(n) đồ thừa, cái còn lại
+do thua, cai con lai
 remark
-(n) (v) sự nhận xét, phê bình, sự để ý, chú ý; nhận xét, phê bình
+su nhan xet, phe binh, su de y, chu y; nhan xet, phe binh
 remarkable
-(adj) đáng chú ý, đáng để ý; khác thường
+dang chu y, dang de y; khac thuong
 remarkably
-(adv) đáng chú ý, đáng để ý; khác thường
+dang chu y, dang de y; khac thuong
 remember
-(v) nhớ, nhớ lại
+nho, nho lai
 remind
-(v) nhắc nhở, gợi nhớ
+nhac nho, goi nho
 remote
-(adj) xa, xa xôi, xa cách
+xa, xa xoi, xa cach
 removal
-(n) viêc di chuyển, việc dọn nhà, dời đi
+viec di chuyen, viec don nha, doi di
 remove
-(v) dời đi, di chuyển
+doi di, di chuyen
 rent
-(n) (v) sự thuê mướn; cho thuê, thuê
+su thue muon; cho thue, thue
 rented
-(adj) được thuê, được mướn
+duoc thue, duoc muon
 repair
-(v) (n) sửa chữa, chỉnh tu; sự sửa chữa, sự chỉnh tu
+sua chua, chinh tu; su sua chua, su chinh tu
 repeat
-(v) nhắc lại, lặp lại
+nhac lai, lap lai
 repeated
-(adj) được nhắc lại, được lặp lại
+duoc nhac lai, duoc lap lai
 repeatedly
-(adv) lặp đi lặp lại nhiều lần
+lap di lap lai nhieu lan
 replace
-(v) thay thế
+thay the
 reply
-(n) (v) sự trả lời, sự hồi âm; trả lời, hồi âm
+su tra loi, su hoi am; tra loi, hoi am
 report
-(v) (n) báo cáo, tường trình; bản báo cáo, bản tường trình
+bao cao, tuong trinh; ban bao cao, ban tuong trinh
 represent
-(v) miêu tả, hình dung; đại diện, thay mặt
+mieu ta, hinh dung; dai dien, thay mat
 representative
-(n) (adj) điều tiêu biểu, tượng trưng, mẫu; miêu tả, biểu hiện, đại diện
+dieu tieu bieu, tuong trung, mau; mieu ta, bieu hien, dai dien
 reproduce
-(v) tái sản xuất
+tai san xuat
 reputation
-(n) sự nổi tiếng, nổi danh
+su noi tieng, noi danh
 request
-(n) (v) lời thỉnh cầu, lời đề nghị, yêu cầu; thỉnh cầu
+loi thinh cau, loi de nghi, yeu cau; thinh cau
 require
-(v) đòi hỏi, yêu cầu, quy định
+doi hoi, yeu cau, quy dinh
 requirement
-(n) nhu cầu, sự đòi hỏi; luật lệ, thủ tục
+nhu cau, su doi hoi; luat le, thu tuc
 rescue
-(v) (n) giải thoát, cứu nguy; sự giải thoát, sự cứu nguy
+giai thoat, cuu nguy; su giai thoat, su cuu nguy
 research
-(n) sự nghiên cứu
+su nghien cuu
 reservation
-(n) sự hạn chế, điều kiện hạn chế
+su han che, dieu kien han che
 reserve
-(v) (n) dự trữ, để dành, đặt trước, đăng ký trước; sự dự trữ, sự để dành, sự đặt trước
+du tru, de danh, dat truoc, dang ky truoc; su du tru, su de danh, su dat truoc
 resident
-(n) (adj) người sinh sống, trú ngụ, khách trọ; có nhà ở, cư trú, thường trú
+nguoi sinh song, tru ngu, khach tro; co nha o, cu tru, thuong tru
 resist
-(v) chống lại, phản đổi, kháng cự
+chong lai, phan doi, khang cu
 resistance
-(n) sự chống lại, sự phản đối, sự kháng cự
+su chong lai, su phan doi, su khang cu
 resolve
-(v) quyết định, kiên quyết (làm gì); giải quyết (vấn đề, khó khăn)
-resort
-(n) kế sách, phương kế
+quyet dinh, kien quyet ke sach, phuong ke
 resource
-(n) tài nguyên; kế sách, thủ đoạn
+tai nguyen; ke sach, thu doan
 respect
-(n) (v) sự kính trọng, sự lễ phép; tôn trọng, kính trọng, khâm phục
+su kinh trong, su le phep; ton trong, kinh trong, kham phuc
 respond
-(v) hưởng ứng, phản ứng lại, trả lời
+huong ung, phan ung lai, tra loi
 response
-(n) sự trả lời, câu trả lời, sự hưởng ứng, sự đáp lại
+su tra loi, cau tra loi, su huong ung, su dap lai
 responsibility
-(n) trách nhiệm, sự chịu trách nhiệm
+trach nhiem, su chiu trach nhiem
 responsible
-(adj) chịu trách nhiệm về, chịu trách nhiệm trước ai,cái gì
+chiu trach nhiem ve, chiu trach nhiem truoc ai,cai gi
 rest
-(n) (v) sự nghỉ ngơi, lúc nghỉ; nghỉ, nghỉ ngơi
+su nghi ngoi, luc nghi; nghi, nghi ngoi
 the rest
-vật, cái còn lại, những người, cái khác
+vat, cai con lai, nhung nguoi, cai khac
 restaurant
-(n) nhà hàng ăn, hiệu ăn
+nha hang an, hieu an
 restore
-(v) hoàn lại, trả lại; sửa chữa lại, phục hồi lại
+hoan lai, tra lai; sua chua lai, phuc hoi lai
 restrict
-(v) hạn chế, giới hạn
+han che, gioi han
 restricted
-(adj) bị hạn chế, có giới hạn; vùng cấm
+bi han che, co gioi han; vung cam
 restriction
-(n) sự hạn chế, sự giới hạn
+su han che, su gioi han
 result
-(n) (v) kết quả; bởi, do.. mà ra, kết quả là...
+ket qua; boi, do.. ma ra, ket qua la...
 retain
-(v) giữ lại, nhớ được
+giu lai, nho duoc
 retire
-(v) rời bỏ, rút về; thôi, nghỉ việc, về hưu
+roi bo, rut ve; thoi, nghi viec, ve huu
 retired
-(adj) ẩn dật, hẻo lánh, đã về hưu, đã nghỉ việc
+an dat, heo lanh, da ve huu, da nghi viec
 retirement
-(n) sự ẩn dật, nơi hẻo lánh, sự về hưu, sự nghỉ việc
+su an dat, noi heo lanh, su ve huu, su nghi viec
 return
-(v) (n) trở lại, trở về; sự trở lại, sự trở về
+tro lai, tro ve; su tro lai, su tro ve
 reveal
-(v) bộc lộ, biểu lộ, tiết lộ; phát hiện, khám phá
+boc lo, bieu lo, tiet lo; phat hien, kham pha
 reverse
-(v) (n) đảo, ngược lại; điều trái ngược, mặt trái
+dao, nguoc lai; dieu trai nguoc, mat trai
 review
-(n) (v) sự xem lại, sự xét lại; làm lại, xem xét lại
+su xem lai, su xet lai; lam lai, xem xet lai
 revise
-(v) đọc lại, xem lại, sửa lại, ôn lại
+doc lai, xem lai, sua lai, on lai
 revision
-(n) sự xem lại, sự đọc lại, sự sửa lại, sự ôn lại
+su xem lai, su doc lai, su sua lai, su on lai
 revolution
-(n) cuộc cách mạng
+cuoc cach mang
 reward
-(n) (v) sự thưởng, phần thưởng; thưởng, thưởng công
+su thuong, phan thuong; thuong, thuong cong
 rhythm
-(n) nhịp điệu
+nhip dieu
 rice
-(n) gạo, thóc, cơm; cây lúa
+gao, thoc, com; cay lua
 rich
-(adj) giàu, giàu có
+giau, giau co
 rid
-(v) giải thoát
+giai thoat
 get rid of
-tống khứ
+tong khu
 ride
-(v) (n) đi, cưỡi (ngựa); sự đi, đường đi
-riding
-(n) môn thể thao cưỡi ngựa, sự đi xe (bus, điện, xe đạp)
-rider
-(n) người cưỡi ngựa, người đi xe đạp
+di, cuoi mon the thao cuoi ngua, su di xe nguoi cuoi ngua, nguoi di xe dap
 ridiculous
-(adj) buồn cười, lố bịch, lố lăng
+buon cuoi, lo bich, lo lang
 right
-(adj) (adv) (n) thẳng, phải, tốt; ngay, đúng; điều thiện, điều phải, bên phải
+thang, phai, tot; ngay, dung; dieu thien, dieu phai, ben phai
 rightly
-(adv) đúng, phải, có lý
+dung, phai, co ly
 ring
-(n) (v) chiếc nhẫn, đeo nhẫn cho ai
+chiec nhan, deo nhan cho ai
 rise
-(n) (v) sự lên, sự tăng lương, thăng cấp; dậy, đứng lên, mọc (mặt trời), thành đạt
-risk
-(n) (v) sự liều, mạo hiểm; liều
+su len, su tang luong, thang cap; day, dung len, moc su lieu, mao hiem; lieu
 rival
-(n) (adj) đối thủ, địch thủ; đối địch, cạnh tranh
+doi thu, dich thu; doi dich, canh tranh
 road
-(n) con đường, đường phố
+con duong, duong pho
 rob
-(v) cướp, lấy trộm
+cuop, lay trom
 rock
-(n) đá
+da
 role
-(n) vai (diễn), vai trò
-roll
-(n) (v) cuốn, cuộn, sự lăn tròn; lăn, cuốn, quấn, cuộn
+vai cuon, cuon, su lan tron; lan, cuon, quan, cuon
 romantic
-(adj) lãng mạn
+lang man
 roof
-(n) mái nhà, nóc
+mai nha, noc
 root
-(n) gốc, rễ
+goc, re
 rope
-(n) dây cáp, dây thừng, xâu, chuỗi
+day cap, day thung, xau, chuoi
 rough
-(adj) gồ ghề, lởm chởm
+go ghe, lom chom
 roughly
-(adv) gồ ghề, lởm chởm
+go ghe, lom chom
 round
-(adj) (adv) (n)tròn, vòng quanh, xung quanh
-rounded
-(adj) bị làm thành tròn; phát triển đầy đủ
+bi lam thanh tron; phat trien day du
 route
-(n) đường đi, lộ trình, tuyến đường
+duong di, lo trinh, tuyen duong
 routine
-(n) (adj) thói thường, lệ thường, thủ tục; thường lệ, thông thường
+thoi thuong, le thuong, thu tuc; thuong le, thong thuong
 row
-(n) hàng, dãy
+hang, day
 royal
-(adj) (thuộc) vua, nữ hoàng, hoàng gia
+vua, nu hoang, hoang gia
 rub
-(v) cọ xát, xoa bóp, nghiền, tán
+co xat, xoa bop, nghien, tan
 rubber
-(n) cao su
+cao su
 rubbish
-(n) vật vô giá trị, bỏ đi, rác rưởi
+vat vo gia tri, bo di, rac ruoi
 rude
-(adj) bất lịch sự, thô lỗ; thô sơ, đơn giản
+bat lich su, tho lo; tho so, don gian
 rudely
-(adv) bất lịch sự, thô lỗ; thô sơ, đơn giản
+bat lich su, tho lo; tho so, don gian
 ruin
-(v) (n) làm hỏng, làm đổ nát, làm phá sản; sự hỏng, sự đổ nát, sự phá sản
+lam hong, lam do nat, lam pha san; su hong, su do nat, su pha san
 ruined
-(adj) bị hỏng, bị đổ nát, bị phá sản
+bi hong, bi do nat, bi pha san
 rule
-(n) (v) quy tắc, điều lệ, luật lệ; cai trị, chỉ huy, điều khiển
+quy tac, dieu le, luat le; cai tri, chi huy, dieu khien
 ruler
-(n) người cai trị, người trị vì; thước kẻ
+nguoi cai tri, nguoi tri vi; thuoc ke
 rumour
-(n) tin đồn, lời đồn
+tin don, loi don
 running
-(n) sự chạy, cuộc chạy đua
+su chay, cuoc chay dua
 runner
-(n) người chạy
+nguoi chay
 rural
-(adj) (thuộc) nông thôn, vùng nông thôn
+nong thon, vung nong thon
 rush
-(v) (n) xông lên, lao vào, xô đẩy; sự xông lên, sự lao vào, sự xô đẩy
+xong len, lao vao, xo day; su xong len, su lao vao, su xo day
 sack
-(n) (v) bào tải; đóng bao, bỏ vào bao
+bao tai; dong bao, bo vao bao
 sad
-(adj) buồn, buồn bã
+buon, buon ba
 sadly
-(adv) một cách buồn bã, đáng buồn là, không may mà
+mot cach buon ba, dang buon la, khong may ma
 sadness
-(n) sự buồn rầu, sự buồn bã
+su buon rau, su buon ba
 safe
-(adj) an toàn, chắc chắn, đáng tin
+an toan, chac chan, dang tin
 safely
-(adv) an toàn, chắc chắn, đáng tin
+an toan, chac chan, dang tin
 safety
-(n) sự an toàn, sự chắc chăn
+su an toan, su chac chan
 sail
-(v) (n) đi tàu, thuyền, nhổ neo; buồm, cánh buồm, chuyến đi bằng thuyền buồm
+di tau, thuyen, nho neo; buom, canh buom, chuyen di bang thuyen buom
 sailing
-(n) sự đi thuyền
+su di thuyen
 sailor
-(n) thủy thủ
+thuy thu
 salad
-(n) sa lát (xà lách trộng dầu dấm); rau sống
-salary
-(n) tiền lương
+sa lat tien luong
 sale
-(n) việc bán hàng
+viec ban hang
 salt
-(n) muối
+muoi
 salty
-(adj) chứ vị muối, có muối, mặn
+chu vi muoi, co muoi, man
 same
-(adj) pro(n) đều đều, đơn điệu; cũng như thế, vẫn cái đó
+prodeu deu, don dieu; cung nhu the, van cai do
 sample
-(n) mẫu, hàng mẫu
+mau, hang mau
 sand
-(n) cát
+cat
 satisfaction
-(n) sự làm cho thỏa mãn, toại nguyện; sự trả nợ, bồi thường
+su lam cho thoa man, toai nguyen; su tra no, boi thuong
 satisfy
-(v) làm thỏa mãn, hài lòng; trả (nợ), chuộc tội
-satisfied
-(adj) cảm thấy hài lòng, vừa ý, thoả mãn
+lam thoa man, hai long; tra cam thay hai long, vua y, thoa man
 satisfying
-(adj) đem lại sự thỏa mãn, làm thỏa mãn, làm vừa ý
+dem lai su thoa man, lam thoa man, lam vua y
 sauce
-(n) nước xốt, nước chấm
+nuoc xot, nuoc cham
 save
-(v) cứu, lưu
+cuu, luu
 saving
-(n) sự cứu, sự tiết kiệm
+su cuu, su tiet kiem
 scale
-(n) vảy (cá..)
-scare
-(v) (n) làm kinh hãi, sợ hãi, dọa; sự sợ hãi, sự kinh hoàng
+vay lam kinh hai, so hai, doa; su so hai, su kinh hoang
 scared
-(adj) bị hoảng sợ, bị sợ hãi
+bi hoang so, bi so hai
 scene
-(n) cảnh, phong cảnh
+canh, phong canh
 schedule
-(n) (v) kế hoạch làm việc, bản liệt kê; lên thời khóa biểu, lên kế hoạch
+ke hoach lam viec, ban liet ke; len thoi khoa bieu, len ke hoach
 scheme
-(n) sự sắp xếp, sự phối hợp; kế hoạch thực hiện; lược đồ, sơ đồ
+su sap xep, su phoi hop; ke hoach thuc hien; luoc do, so do
 school
-(n) đàn cá, bầy cá, trường học
+dan ca, bay ca, truong hoc
 science
-(n) khoa học, khoa học tự nhiên
+khoa hoc, khoa hoc tu nhien
 scientific
-(adj) (thuộc) khoa học, có tính khoa học
+khoa hoc, co tinh khoa hoc
 scientist
-(n) nhà khoa học
+nha khoa hoc
 scissors
-(n) cái kéo
+cai keo
 score
-(n) (v) điểm số, bản thắng, tỷ số; đạt được, thành công, cho điểm
+diem so, ban thang, ty so; dat duoc, thanh cong, cho diem
 scratch
-(v) (n) cào, làm xước da; sự cào, sự trầy xước da
+cao, lam xuoc da; su cao, su tray xuoc da
 scream
-(v) (n) gào thét, kêu lên; tiếng thét, tiếng kêu to
+gao thet, keu len; tieng thet, tieng keu to
 screen
-(n) màn che, màn ảnh, màn hình; phim ảnh nói chung
+man che, man anh, man hinh; phim anh noi chung
 screw
-(n) (v) đinh vít, đinh ốc; bắt vít, bắt ốc
+dinh vit, dinh oc; bat vit, bat oc
 seal
-(n) (v) hải cẩu; săn hải cẩu
+hai cau; san hai cau
 search
-(n) (v) sự tìm kiếm, sự thăm dò, sự điều tra; tìm kiếm, thăm dò, điều tra
+su tim kiem, su tham do, su dieu tra; tim kiem, tham do, dieu tra
 season
-(n) mùa
+mua
 seat
-(n) ghế, chỗ ngồi
+ghe, cho ngoi
 second
-(adv) (n) thứ hai, ở vị trí thứ 2, thứ nhì; người về nhì
+thu hai, o vi tri thu 2, thu nhi; nguoi ve nhi
 secondary
-(adj) trung học, thứ yếu
+trung hoc, thu yeu
 secret
-(adj) (n) bí mật; điều bí mật
+bi mat; dieu bi mat
 secretly
-(adv) bí mật, riêng tư
+bi mat, rieng tu
 secretary
-(n) thư ký
+thu ky
 section
-(n) mục, phần
+muc, phan
 sector
-(n) khu vực, lĩnh vực
+khu vuc, linh vuc
 secure
-(adj) (v) chắc chắn, đảm bảo; bảo đảm, giữ an ninh
+chac chan, dam bao; bao dam, giu an ninh
 security
-(n) sự an toàn, sự an ninh
+su an toan, su an ninh
 see
-(v) nhìn, nhìn thấy, quan sát
+nhin, nhin thay, quan sat
 seed
-(n) hạt, hạt giống
+hat, hat giong
 seek
-(v) tìm, tìm kiếm, theo đuổi,đòi hỏi
+tim, tim kiem, theo duoi,doi hoi
 seem
-(v) có vẻ như, dường như
+co ve nhu, duong nhu
 select
-(v) chọn lựa, chọn lọc
+chon lua, chon loc
 selection
-(n) sự lựa chọn, sự chọc lọc
+su lua chon, su choc loc
 self
-(n) bản thân mình
+ban than minh
 sell
-(v) bán
+ban
 senate
-(n) thượng nghi viện, ban giám hiệu
+thuong nghi vien, ban giam hieu
 senator
-(n) thượng nghị sĩ
+thuong nghi si
 send
-(v) gửi, phái đi
+gui, phai di
 senior
-(adj) (n) nhiều tuổi hơn, dành cho trẻ em trên 11t, sinh viên năm cuối trường trung học, cao đẳng
+nhieu tuoi hon, danh cho tre em tren 11t, sinh vien nam cuoi truong trung hoc, cao dang
 sense
-(n) giác quan, tri giác, cảm giác
+giac quan, tri giac, cam giac
 sensible
-(adj) có óc xét đoán; hiểu, nhận biết được
+co oc xet doan; hieu, nhan biet duoc
 sensitive
-(adj) dễ bị thương, dễ bị hỏng; dễ bị xúc phạm
+de bi thuong, de bi hong; de bi xuc pham
 sentence
-(n) câu
+cau
 separate
-(adj) (v) khác nhau, riêng biệt; làm rời, tách ra, chia tay
+khac nhau, rieng biet; lam roi, tach ra, chia tay
 separated
-(adj) ly thân
+ly than
 separately
-(adv) không cùng nhau, thành người riêng, vật riêng
+khong cung nhau, thanh nguoi rieng, vat rieng
 separation
-(n) sự chia cắt, phân ly, sự chia tay, ly thân
+su chia cat, phan ly, su chia tay, ly than
 series
-(n) loạt, dãy, chuỗi
+loat, day, chuoi
 serious
-(adj) đứng đắn, nghiêm trang
+dung dan, nghiem trang
 seriously
-(adv) đứng đắn, nghiêm trang
+dung dan, nghiem trang
 servant
-(n) người hầu, đầy tớ
+nguoi hau, day to
 serve
-(v) phục vụ, phụng sự
+phuc vu, phung su
 service
-(n) sự phục vụ, sự hầu hạ
+su phuc vu, su hau ha
 session
-(n) buổi họp, phiên họp, buổi, phiên
+buoi hop, phien hop, buoi, phien
 set
-(n) (v) bộ, bọn, đám, lũ; đặt để, bố trí
+bo, bon, dam, lu; dat de, bo tri
 settle
-(v) giải quyết, dàn xếp, hòa giải, đặt, bố trí
+giai quyet, dan xep, hoa giai, dat, bo tri
 several
-(adj) pro(n) nhiều hơn ba; vài; dăm ba, riêng; cá nhân
+pronhieu hon ba; vai; dam ba, rieng; ca nhan
 severe
-(adj) khắt khe, gay gắt; giản dị, mộc mạc
+khat khe, gay gat; gian di, moc mac
 severely
-(adv) khắt khe, gay gắt; giản dị, mộc mạc
+khat khe, gay gat; gian di, moc mac
 sew
-(v) may, khâu
+may, khau
 sewing
-(n) sự khâu, sự may vá
+su khau, su may va
 sex
-(n) giới, giống
+gioi, giong
 sexual
-(adj) giới tính, các vấn đề sinh lý
+gioi tinh, cac van de sinh ly
 sexually
-(adv) giới tính, các vấn đề sinh lý
+gioi tinh, cac van de sinh ly
 shade
-(n) bóng, bóng tối
+bong, bong toi
 shadow
-(n) bóng, bóng tối, bóng râm, bóng má
+bong, bong toi, bong ram, bong ma
 shake
-(v) (n) rung, lắc, giũ; sự rung, sự lắc, sự giũ
+rung, lac, giu; su rung, su lac, su giu
 shall
-(v) dự đoán tương lai: sẽ
+du doan tuong lai: se
 shallow
-(adj) nông, cạn
+nong, can
 shame
-(n) sự xấu hổ, thẹn thùng, sự ngượng
+su xau ho, then thung, su nguong
 shape
-(n) (v) hình, hình dạng, hình thù
+hinh, hinh dang, hinh thu
 shaped
-(adj) có hình dáng được chỉ rõ
+co hinh dang duoc chi ro
 share
-(v) (n) đóng góp, tham gia, chia sẻ; phần đóng góp, phần tham gia, chia sẻ
+dong gop, tham gia, chia se; phan dong gop, phan tham gia, chia se
 sharp
-(adj) sắc, nhọn, bén
+sac, nhon, ben
 sharply
-(adv) sắc, nhọn, bén
+sac, nhon, ben
 shave
-(v) cạo (râu), bào, đẽo (gỗ)
-sheep
-(n) con cừu
+cao con cuu
 sheet
-(n) chăn, khăn trải giường; lá, tấm, phiến, tờ
+chan, khan trai giuong; la, tam, phien, to
 shelf
-(n) kệ, ngăn, giá
+ke, ngan, gia
 shell
-(n) vỏ, mai; vẻ bề ngoài
+vo, mai; ve be ngoai
 shelter
-(n) (v) sự nương tựa, sự che chở, sự ẩn náu; che chở, bảo vệ
+su nuong tua, su che cho, su an nau; che cho, bao ve
 shift
-(v) (n) đổi chỗ, dời chỗ, chuyển, giao; sự thay đổi, sự luân phiên
+doi cho, doi cho, chuyen, giao; su thay doi, su luan phien
 shine
-(v) chiếu sáng, tỏa sáng
+chieu sang, toa sang
 shiny
-(adj) sáng chói, bóng
+sang choi, bong
 ship
-(n) tàu, tàu thủy
+tau, tau thuy
 shirt
-(n) áo sơ mi
+ao so mi
 shock
-(v) (n) sự đụng chạm, va chạm, sự kích động, sự choáng
+su dung cham, va cham, su kich dong, su choang
 shocking
-(adj) gây ra căm phẫn, tồi tệ, gây kích động
+gay ra cam phan, toi te, gay kich dong
 shocked
-(adj) bị kích động, bị va chạm, bị sốc
+bi kich dong, bi va cham, bi soc
 shoe
-(n) giày
+giay
 shoot
-(v) vụt qua, chạy qua, ném, phóng, bắn; đâm ra, trồi ra
+vut qua, chay qua, nem, phong, ban; dam ra, troi ra
 shooting
-(n) sự bắn, sự phóng đi
+su ban, su phong di
 shop
-(n) (v) cửa hàng; đi mua hàng, đi chợ
+cua hang; di mua hang, di cho
 shopping
-(n) sự mua sắm
+su mua sam
 short
-(adj) ngắn, cụt
+ngan, cut
 shortly
-(adv) trong thời gian ngắn, sớm
+trong thoi gian ngan, som
 shot
-(n) đạn, viên đạn
+dan, vien dan
 shoulder
-(n) vai
+vai
 shout
-(v) (n) hò hét, reo hò; sự la hét, sự hò reo
+ho het, reo ho; su la het, su ho reo
 show
-(v) (n) biểu diễn, trưng bày; sự biểu diễn, sự bày tỏ
+bieu dien, trung bay; su bieu dien, su bay to
 shower
-(n) vòi hoa sen, sự tắm vòi hoa sen
+voi hoa sen, su tam voi hoa sen
 shut
-(v) (adj) đóng, khép, đậy; tính khép kín
+dong, khep, day; tinh khep kin
 shy
-(adj) nhút nhát, e thẹn
+nhut nhat, e then
 sick
-(adj) ốm, đau, bệnh
+om, dau, benh
 be sick
-bị ốm
+bi om
 feel sick
-buồn nôn
+buon non
 side
-(n) mặt, mặt phẳng
+mat, mat phang
 sideways
-(adj) (adv) ngang, từ một bên; sang bên
+ngang, tu mot ben; sang ben
 sight
-(n) cảnh đẹp; sự nhìn
+canh dep; su nhin
 sign
-(n) (v) dấu, dấu hiệu, kí hiệu; đánh dấu, viết ký hiệu
+dau, dau hieu, ki hieu; danh dau, viet ky hieu
 signal
-(n) (v) dấu hiệu, tín hiệu; ra hiệu, báo hiệu
+dau hieu, tin hieu; ra hieu, bao hieu
 signature
-(n) chữ ký
+chu ky
 significant
-(adj) nhiều ý nghĩa, quan trọng
+nhieu y nghia, quan trong
 significantly
-(adv) đáng kể
+dang ke
 silence
-(n) sự im lặng, sự yên tĩnh
+su im lang, su yen tinh
 silent
-(adj) im lặng, yên tĩnh
+im lang, yen tinh
 silk
-(n) tơ, chỉ, lụa
+to, chi, lua
 silly
-(adj) ngớ ngẩn, ngu ngốc, khờ dại
+ngo ngan, ngu ngoc, kho dai
 silver
-(n) (adj) bạc, đồng bạc; làm bằng bạc, trắng như bạc
+bac, dong bac; lam bang bac, trang nhu bac
 similar
-(adj) giống như, tương tự như
+giong nhu, tuong tu nhu
 similarly
-(adv) tương tự, giống nhau
+tuong tu, giong nhau
 simple
-(adj) đơn, đơn giản, dễ dàng
+don, don gian, de dang
 simply
-(adv) một cách dễ dàng, giản dị
+mot cach de dang, gian di
 since
-(adv) từ, từ khi; từ khi, từ lúc đó; từ đó, từ lúc ấy
+tu, tu khi; tu khi, tu luc do; tu do, tu luc ay
 sincere
-(adj) thật thà, thẳng thắng, chân thành
+that tha, thang thang, chan thanh
 sincerely
-(adv) một cách chân thành
-Yours sincerely
-bạn chân thành của anh, chị.. (viết ở cuối thư)
+mot cach chan thanh
 sing
-(v) hát, ca hát
+hat, ca hat
 singing
-(n) sự hát, tiếng hát
+su hat, tieng hat
 singer
-(n) ca sĩ
+ca si
 single
-(adj) đơn, đơn độc, đơn lẻ
+don, don doc, don le
 sink
-(v) chìm, lún, đắm
+chim, lun, dam
 sir
-(n) xưng hô lịch sự Ngài, Ông
+xung ho lich su Ngai, Ong
 sit
-(v) ngồi
+ngoi
 sit down
-ngồi xuống
+ngoi xuong
 site
-(n) chỗ, vị trí
+cho, vi tri
 situation
-(n) hoàn cảnh, địa thế, vị trí
+hoan canh, dia the, vi tri
 size
-(n) cỡ
+co
 sized
-đã được định cỡ
+da duoc dinh co
 skilful
-(adj) tài giỏi, khéo tay
+tai gioi, kheo tay
 skilfully
-(adv) tài giỏi, khéo tay
+tai gioi, kheo tay
 skill
-(n) kỹ năng, kỹ sảo
+ky nang, ky sao
 skilled
-(adj) có kỹ năng, có kỹ sảo, khẻo tay; có kinh nghiệm, lành nghề
+co ky nang, co ky sao, kheo tay; co kinh nghiem, lanh nghe
 skin
-(n) da, vỏ
+da, vo
 skirt
-(n) váy, đầm
+vay, dam
 sky
-(n) trời, bầu trời
+troi, bau troi
 sleep
-(v) (n) ngủ; giấc ngủ
+ngu; giac ngu
 sleeve
-(n) tay áo, ống tay
+tay ao, ong tay
 slice
-(n) (v) miếng, lát mỏng; cắt ra thành miếng mỏng, lát mỏng
+mieng, lat mong; cat ra thanh mieng mong, lat mong
 slide
-(v) trượtc, chuyển động nhẹ, lướt qua
+truotc, chuyen dong nhe, luot qua
 slight
-(adj) mỏng manh, thon, gầy
+mong manh, thon, gay
 slightly
-(adv) mảnh khảnh, mỏng manh, yếu ớt
+manh khanh, mong manh, yeu ot
 slip
-(v) trượt, tuột, trôi qua, chạy qua
+truot, tuot, troi qua, chay qua
 slope
-(n) (v) dốc, đường dốc, độ dốc; nghiêng, dốc
+doc, duong doc, do doc; nghieng, doc
 slow
-(adj) chậm, chậm chạp
+cham, cham chap
 slowly
-(adv) một cách chậm chạp, chậm dần
+mot cach cham chap, cham dan
 smart
-(adj) mạnh, ác liệt,khéo léo, nhanh trí
+manh, ac liet,kheo leo, nhanh tri
 smash
-(v) (n) đập, vỡ tan thành mảnh; sự đập, vỡ tàn thành mảnh
+dap, vo tan thanh manh; su dap, vo tan thanh manh
 smell
-(v) (n) ngửi; sự ngửi, khứu giác
+ngui; su ngui, khuu giac
 smile
-(v) (n) cười, mỉm cười; nụ cười, vẻ tươi cười
+cuoi, mim cuoi; nu cuoi, ve tuoi cuoi
 smoke
-(n) (v) khói, hơi thuốc; hút thuốc, bốc khói, hơi
+khoi, hoi thuoc; hut thuoc, boc khoi, hoi
 smoking
-(n) sự hút thuốc
+su hut thuoc
 smooth
-(adj) nhẵn, trơn, mượt mà
+nhan, tron, muot ma
 smoothly
-(adv) một cách êm ả, trôi chảy
+mot cach em a, troi chay
 snake
-(n) con rắn; người nham hiểm, xảo trá
+con ran; nguoi nham hiem, xao tra
 snow
-(n) (v) tuyết; tuyết rơi
+tuyet; tuyet roi
 so
-(adv) (conj) như vậy, như thế; vì thế, vì vậy, vì thế cho nên
+nhu vay, nhu the; vi the, vi vay, vi the cho nen
 so that
-để, để cho, để mà
+de, de cho, de ma
 soap
-(n) xà phòng
+xa phong
 social
-(adj) có tính xã hội
+co tinh xa hoi
 socially
-(adv) có tính xã hội
+co tinh xa hoi
 society
-(n) xã hội
+xa hoi
 sock
-(n) tất ngắn, miếng lót giày
+tat ngan, mieng lot giay
 soft
-(adj) mềm, dẻo
+mem, deo
 softly
-(adv) một cách mềm dẻo
+mot cach mem deo
 software
-(n) phần mềm (máy tính)
-soil
-(n) đất trồng; vết bẩn
+phan mem dat trong; vet ban
 soldier
-(n) lính, quân nhân
+linh, quan nhan
 solid
-(adj) (n) rắn; thể rắn, chất rắn
+ran; the ran, chat ran
 solution
-(n) sự giải quyết, giải pháp
+su giai quyet, giai phap
 solve
-(v) giải, giải thích, giải quyết
+giai, giai thich, giai quyet
 some
-pro(n) một it, một vài
+promot it, mot vai
 somehow
-(adv) không biết làm sao, bằng cách này hay cách khác
+khong biet lam sao, bang cach nay hay cach khac
 somebody
-pro(n) người nào đó
+pronguoi nao do
 something
-pro(n) một điều gì đó, một việc gì đó, một cái gì đó
+promot dieu gi do, mot viec gi do, mot cai gi do
 sometimes
-(adv) thỉnh thoảng, đôi khi
+thinh thoang, doi khi
 somewhat
-(adv) đến mức độ nào đó, hơi, một chút
+den muc do nao do, hoi, mot chut
 somewhere
-(adv) nơi nào đó. đâu đó
+noi nao do. dau do
 soon
-(adv) sớm, chẳng bao lâu nữa
+som, chang bao lau nua
 as soon as
 ngay khi
 sore
-(adj) đau, nhức
+dau, nhuc
 sorry
-(adj) xin lỗi, lấy làm tiếc, lấy làm buồn
+xin loi, lay lam tiec, lay lam buon
 sort
-(n) (v) thứ, hạng loại; lựa chọn, sắp xếp, phân loại
+thu, hang loai; lua chon, sap xep, phan loai
 soul
-(n) tâm hồn, tâm trí, linh hồn
+tam hon, tam tri, linh hon
 sound
-(n) (v) âm thanh; nghe
+am thanh; nghe
 soup
-(n) xúp, canh, cháo
+xup, canh, chao
 sour
-(adj) chua, có vị giấm
+chua, co vi giam
 source
-(n) nguồn
+nguon
 south
-(n) (adj) (adv) phương Nam, hướng Nam; ở phía Nam
+phuong Nam, huong Nam; o phia Nam
 southern
-(adj) thuộc phương Nam
+thuoc phuong Nam
 space
-(n) khoảng trống, khoảng cách
+khoang trong, khoang cach
 spare
-(adj) (n) thừa thãi, dự trữ, rộng rãi; đồ dự trữ, đồ dự phòng
+thua thai, du tru, rong rai; do du tru, do du phong
 speak
-(v) nói
+noi
 spoken
-(adj) nói theo 1 cách nào đó
+noi theo 1 cach nao do
 speaker
-(n) người nói, người diễn thuyết
+nguoi noi, nguoi dien thuyet
 special
-(adj) đặc biệt, riêng biệt
+dac biet, rieng biet
 specially
-(adv) đặc biệt, riêng biệt
+dac biet, rieng biet
 specialist
-(n) chuyên gia, chuyên viên
+chuyen gia, chuyen vien
 specific
-(adj) đặc trưng, riêng biệt
+dac trung, rieng biet
 specifically
-(adv) đặc trưng, riêng biệt
+dac trung, rieng biet
 speech
-(n) sự nói, khả năng nói, lời nói, cách nói, bài nói
+su noi, kha nang noi, loi noi, cach noi, bai noi
 speed
-(n) tốc độ, vận tốc
+toc do, van toc
 spell
-(v) (n) đánh vần; sự thu hút, sự quyến rũ, say mê
+danh van; su thu hut, su quyen ru, say me
 spelling
-(n) sự viết chính tả
+su viet chinh ta
 spend
-(v) tiêu, xài
+tieu, xai
 spice
-(n) gia vị
+gia vi
 spicy
-(adj) có gia vị
+co gia vi
 spider
-(n) con nhện
+con nhen
 spin
-(v) quay, quay tròn
+quay, quay tron
 spirit
-(n) tinh thần, tâm hồn, linh hồn
+tinh than, tam hon, linh hon
 spiritual
-(adj) (thuộc) tinh thần, linh hồn
+tinh than, linh hon
 spite
-(n) sự giận, sự hận thù
+su gian, su han thu
 in spite of
-mặc dù, bất chấp
+mac du, bat chap
 split
-(v) (n) chẻ, tách, chia ra; sự chẻ, sự tách, sự chia ra
+che, tach, chia ra; su che, su tach, su chia ra
 spoil
-(v) cướp, cướp đọat
+cuop, cuop doat
 spoon
-(n) cái thìa
+cai thia
 spot
-(n) dấu, đốm, vết
+dau, dom, vet
 spray
-(n) (v) máy, ống, bình phụt, bơm, phun; bơm, phun, xịt
+may, ong, binh phut, bom, phun; bom, phun, xit
 spread
-(v) trải, căng ra, bày ra; truyền bá
+trai, cang ra, bay ra; truyen ba
 spring
-(n) mùa xuân
+mua xuan
 square
-(adj) (n) vuông, vuông vắn; dạng hình vuông, hình vuông
+vuong, vuong van; dang hinh vuong, hinh vuong
 squeeze
-(v) (n) ép, vắt, xiết; sự ép, sự vắt, sự xiết
+ep, vat, xiet; su ep, su vat, su xiet
 stable
-(adj) (n) ổn định, bình tĩnh, vững vàng; chuồng ngưa
+on dinh, binh tinh, vung vang; chuong ngua
 staff
-(n) gậy quyền, quyền trượng, nhân viên, cán bộ
+gay quyen, quyen truong, nhan vien, can bo
 stage
-(n) tầng, bệ
+tang, be
 stair
-(n) bậc thang
+bac thang
 stamp
-(n) (v) tem; dán tem
+tem; dan tem
 stand
-(v) (n) đứng, sự đứng
+dung, su dung
 stand up
-đứng dậy
+dung day
 standard
-(n) (adj) tiêu chuẩn, chuẩn, mãu; làm tiêu chuẩn, phù hợp với tiêu chuẩn
+tieu chuan, chuan, mau; lam tieu chuan, phu hop voi tieu chuan
 star
-(n) (v) ngôi sao, dán sao, trang trí hình sao, đánh dấu sao
+ngoi sao, dan sao, trang tri hinh sao, danh dau sao
 stare
-(v) (n) nhìn chằm chằm; sự nhìn chằm chằm
+nhin cham cham; su nhin cham cham
 start
-(v) (n) bắt đầu, khởi động; sự bắt đầu, sự khởi đầu, khởi hành
+bat dau, khoi dong; su bat dau, su khoi dau, khoi hanh
 state
-(n) (adj) (v) nhà nước, quốc gia, chính quyền; (thuộc) nhà nước, phát biểu
+nha nuoc, quoc gia, chinh quyen; nha nuoc, phat bieu
 statement
-(n) sự bày tỏ, sự phát biểu; sự tuyên bố, sự trình bày
+su bay to, su phat bieu; su tuyen bo, su trinh bay
 station
-(n) trạm, điểm, đồn
+tram, diem, don
 statue
-(n) tượng
+tuong
 status
-(n) tình trạng, địa vị, thân phận
+tinh trang, dia vi, than phan
 stay
-(v) (n) ở lại, lưu lại; sự ở lại, sự lưu lại
+o lai, luu lai; su o lai, su luu lai
 steady
-(adj) vững chắc, vững vàng, kiến định
+vung chac, vung vang, kien dinh
 steadily
-(adv) vững chắc, vững vàng, kiên định
+vung chac, vung vang, kien dinh
 unsteady
-(adj) không đúng mực, không chắc, không vững
+khong dung muc, khong chac, khong vung
 steal
-(v) ăn cắp, ăn trộm
+an cap, an trom
 steam
-(n) hơi nước
+hoi nuoc
 steel
-(n) thép, ngành thép
+thep, nganh thep
 steep
-(adj) dốc, dốc đứng
+doc, doc dung
 steeply
-(adv) dốc, cheo leo
+doc, cheo leo
 steer
-(v) lái (tàu, ô tô...), hướng dẫn; hướng theo
-step
-(n) (v) bước; bước, bước đi
+lai buoc; buoc, buoc di
 stick
-(v) (n) đâm, thọc, chọc, cắm, dính; cái gậy, qua củi, cán
+dam, thoc, choc, cam, dinh; cai gay, qua cui, can
 stick out for
-đòi, đạt được cái gì
+doi, dat duoc cai gi
 sticky
-(adj) dính, nhớt
+dinh, nhot
 stiff
-(adj) cứng, cứng rắn, kiên quyết
+cung, cung ran, kien quyet
 stiffly
-(adv) cứng, cứng rắn, kiên quyết
+cung, cung ran, kien quyet
 still
-(adv) (adj) đứng yên; vẫn, vẫn còn
+dung yen; van, van con
 sting
-(v) (n) châm, chích, đốt; ngòi, vòi (ong, muỗi), nọc (rắn); sự châm, chích
-stir
-(v) khuấy, đảo
+cham, chich, dot; ngoi, voi khuay, dao
 stock
-(n) kho sự trữ, hàng dự trữ, vốn
+kho su tru, hang du tru, von
 stomach
-(n) dạ dày
+da day
 stone
-(n) đá
+da
 stop
-(v) (n) dừng, ngừng, nghỉ, thôi; sự dừng, sự ngừng, sự đỗ lại
+dung, ngung, nghi, thoi; su dung, su ngung, su do lai
 store
-(n) (v) cửa hàng, kho hàng; tích trữ, cho vào kho
+cua hang, kho hang; tich tru, cho vao kho
 storm
-(n) cơn giông, bão
+con giong, bao
 story
-(n) chuyện, câu chuyện
+chuyen, cau chuyen
 stove
-(n) bếp lò, lò sưởi
+bep lo, lo suoi
 straight
-(adv) (adj) thẳng, không cong
+thang, khong cong
 strain
-(n) sự căng thẳng, sự căng
+su cang thang, su cang
 strange
-(adj) xa lạ, chưa quen
+xa la, chua quen
 strangely
-(adv) lạ, xa lạ, chưa quen
+la, xa la, chua quen
 stranger
-(n) người lạ
+nguoi la
 strategy
-(n) chiến lược
+chien luoc
 stream
-(n) dòng suối
+dong suoi
 street
-(n) phố, đườmg phố
+pho, duomg pho
 strength
-(n) sức mạnh, sức khỏe
+suc manh, suc khoe
 stress
-(n) (v) sự căng thẳng; căng thẳng, ép, làm căng
+su cang thang; cang thang, ep, lam cang
 stressed
-(adj) bị căng thẳng, bị ép, bị căng
+bi cang thang, bi ep, bi cang
 stretch
-(v) căng ra, duỗi ra, kéo dài ra
+cang ra, duoi ra, keo dai ra
 strict
-(adj) nghiêm khắc, chặt chẽ, khắt khe
+nghiem khac, chat che, khat khe
 strictly
-(adv) một cách nghiêm khắc
+mot cach nghiem khac
 strike
-(v) (n) đánh, đập, bãi công, đình công; cuộc bãi công, cuộc đình công
+danh, dap, bai cong, dinh cong; cuoc bai cong, cuoc dinh cong
 striking
-(adj) nổi bật, gây ấn tượng
+noi bat, gay an tuong
 string
-(n) dây, sợi dây
+day, soi day
 strip
-(v) (n) cởi, lột (quần áo); sự cởi quần áo
-stripe
-(n) sọc, vằn, viền
+coi, lot soc, van, vien
 striped
-(adj) có sọc, có vằn
+co soc, co van
 stroke
-(n) (v) cú đánh, cú đòn; cái vuốt ve, sự vuốt ve; vuốt ve
+cu danh, cu don; cai vuot ve, su vuot ve; vuot ve
 strong
-(adj) khỏe, mạnh, bền, vững, chắc chắn
+khoe, manh, ben, vung, chac chan
 strongly
-(adv) khỏe, chắc chắn
+khoe, chac chan
 structure
-(n) kết cấu, cấu trúc
+ket cau, cau truc
 struggle
-(v) (n) đấu tranh; cuộc đấu tranh, cuộc chiến đấu
+dau tranh; cuoc dau tranh, cuoc chien dau
 studio
-(n) xưởng phim, trường quay; phòng thu
+xuong phim, truong quay; phong thu
 study
-(n) (v) sự học tập, sự nghiên cứu; học tập, nghiên cứu
+su hoc tap, su nghien cuu; hoc tap, nghien cuu
 stuff
-(n) chất liệu, chất
+chat lieu, chat
 stupid
-(adj) ngu ngốc, ngu đần, ngớ ngẩn
+ngu ngoc, ngu dan, ngo ngan
 style
-(n) phong cách, kiểu, mẫu, loại
+phong cach, kieu, mau, loai
 subject
-(n) chủ đề, đề tài; chủ ngữ
+chu de, de tai; chu ngu
 substance
-(n) chất liệu; bản chất; nội dung
+chat lieu; ban chat; noi dung
 substantial
-(adj) thực tế, đáng kể, quan trọng
+thuc te, dang ke, quan trong
 substantially
-(adv) về thực chất, về căn bản
+ve thuc chat, ve can ban
 substitute
-(n) (v) người, vật thay thế; thay thế
+nguoi, vat thay the; thay the
 succeed
-(v) nối tiếp, kế tiếp; kế nghiệp, kế vị
+noi tiep, ke tiep; ke nghiep, ke vi
 success
-(n) sự thành công, sự thành đạt
+su thanh cong, su thanh dat
 successful
-(adj) thành công, thắng lợi, thành đạt
+thanh cong, thang loi, thanh dat
 successfully
-(adv) thành công, thắng lợi, thành đạt
+thanh cong, thang loi, thanh dat
 unsuccessful
-(adj) không thành công, thất bại
+khong thanh cong, that bai
 such
-pro(n) như thế, như vậy, như là
+pronhu the, nhu vay, nhu la
 such as
-đến nỗi, đến mức
+den noi, den muc
 suck
-(v) bú, hút; hấp thụ, tiếp thu
+bu, hut; hap thu, tiep thu
 sudden
-(adj) thình lình, đột ngột
+thinh linh, dot ngot
 suddenly
-(adv) thình lình, đột ngột
+thinh linh, dot ngot
 suffer
-(v) chịu đựng, chịu thiệt hại, đau khổ
+chiu dung, chiu thiet hai, dau kho
 suffering
-(n) sự đau đớn, sự đau khổ
+su dau don, su dau kho
 sufficient for
-(adj) đủ, thích đáng
+du, thich dang
 sufficiently
-(adv) đủ, thích đáng
+du, thich dang
 sugar
-(n) đường
+duong
 suggest
-(v) đề nghị, đề xuất; gợi
+de nghi, de xuat; goi
 suggestion
-(n) sự đề nghị, sự đề xuất, sự khêu gợi
+su de nghi, su de xuat, su kheu goi
 suit
-(n) (v) bộ com lê, trang phục; thích hợp, quen, hợp với
+bo com le, trang phuc; thich hop, quen, hop voi
 suited
-(adj) hợp, phù hợp, thích hợp với
+hop, phu hop, thich hop voi
 suitable
-(adj) hợp, phù hợp, thích hợp với
+hop, phu hop, thich hop voi
 suitcase
-(n) va li
+va li
 sum
-(n) tổng, toàn bộ
+tong, toan bo
 summary
-(n) bản tóm tắt
+ban tom tat
 summer
-(n) mùa hè
+mua he
 superior
-(n) (adj) cao hơn, mạnh hơn,người cấp trên,thượng cấp
+cao hon, manh hon,nguoi cap tren,thuong cap
 supermarket
-(n) siêu thị
+sieu thi
 supply
-(n) (v) sự cung cấp, nguồn cung cấp; cung cấp, đáp ứng, tiếp tế
+su cung cap, nguon cung cap; cung cap, dap ung, tiep te
 support
-(n) (v) sự chống đỡ, sự ủng hộ; chống đỡ, ủng hộ
+su chong do, su ung ho; chong do, ung ho
 supporter
-(n) vật chống đỡ; người cổ vũ, người ủng hộ
+vat chong do; nguoi co vu, nguoi ung ho
 suppose
-(v) cho rằng, tin rằng, nghĩ rằng
+cho rang, tin rang, nghi rang
 sure
-(adj) (adv) chắc chắn, xác thực
+chac chan, xac thuc
 make sure
-chắc chắn, làm cho chắc chắn
+chac chan, lam cho chac chan
 surely
-(adv) chắc chắn
+chac chan
 surface
-(n) mặt, bề mặt
+mat, be mat
 surname
-(n) họ
+ho
 surprise
-(n) (v) sự ngạc nhiên, sự bất ngờ; làm ngạc nhiên
+su ngac nhien, su bat ngo; lam ngac nhien
 surprising
-(adj) làm ngạc nhiên, làm bất ngờ
+lam ngac nhien, lam bat ngo
 surprisingly
-(adv) làm ngạc nhiên, làm bất ngờ
+lam ngac nhien, lam bat ngo
 surprised at
-(adj) ngạc nhiên
+ngac nhien
 surround
-(v) vây quanh, bao quanh
+vay quanh, bao quanh
 surrounding
-(adj) bao quanh, vây quanh; ngoại vi
+bao quanh, vay quanh; ngoai vi
 surroundings
-(n) vùng xung quanh, môi trường xung quanh
+vung xung quanh, moi truong xung quanh
 survey
-(n) (v) sự nhìn chung, sự khảo sát; quan sát, nghiên cứu
+su nhin chung, su khao sat; quan sat, nghien cuu
 survive
-(v) sống lâu hơn, tiếp tục sống, sống sót
+song lau hon, tiep tuc song, song sot
 suspect
-(v) (n) nghi ngờ, hoài nghi; người khả nghi, người bị tình nghi
+nghi ngo, hoai nghi; nguoi kha nghi, nguoi bi tinh nghi
 suspicion
-(n) sự nghi ngờ, sự ngờ vực
+su nghi ngo, su ngo vuc
 suspicious
-(adj) có sự nghi ngờ, tỏ ra nghi ngờ, khả nghi
+co su nghi ngo, to ra nghi ngo, kha nghi
 swallow
-(v) nuốt, nuốt chửng
+nuot, nuot chung
 swear
-(v) chửi rủa, nguyền rủa; thề, hứa
+chui rua, nguyen rua; the, hua
 swearing
-(n) lời thề, lời nguyền rủa, lời thề hứa
+loi the, loi nguyen rua, loi the hua
 sweat
-(n) (v) mồ hôi; đổ mồ hô
+mo hoi; do mo ho
 sweater
-(n) người ra mồ hôi,kẻ bóc lột lao động
+nguoi ra mo hoi,ke boc lot lao dong
 sweep
-(v) quét
+quet
 sweet
-(adj) (n) ngọt, có vị ngọt; sự ngọt bùi, đồ ngọt
+ngot, co vi ngot; su ngot bui, do ngot
 swell
-(v) phồng, sưng lên
+phong, sung len
 swelling
-(n) sự sưng lên, sự phồng ra
+su sung len, su phong ra
 swollen
-(adj) sưng phồng, phình căng
+sung phong, phinh cang
 swim
-(v) bơi lội
+boi loi
 swimming
-(n) sự bơi lội
+su boi loi
 swimming pool
-(n) bể nước
+be nuoc
 swing
-(n) (v) sự đu đưa, lúc lắc; đánh đu, đu đưa, lúc lắc
+su du dua, luc lac; danh du, du dua, luc lac
 switch
-(n) (v) công tắc, roi; tắt, bật, đánh bằng gậy, roi
+cong tac, roi; tat, bat, danh bang gay, roi
 switch sth off
-ngắt điện
+ngat dien
 switch sth on
-bật điện
+bat dien
 swell
-(v) phồng lên, sưng lên
+phong len, sung len
 symbol
-(n) biểu tượng, ký hiệu
+bieu tuong, ky hieu
 sympathetic
-(adj) đồng cảm, đáng mến, dễ thương
+dong cam, dang men, de thuong
 sympathy
-(n) sự đồng cảm, sự đồng ý
+su dong cam, su dong y
 system
-(n) hệ thống, chế độ
+he thong, che do
 table
-(n) cái bàn
+cai ban
 tablet
-(n) tấm, bản, thẻ phiến
+tam, ban, the phien
 tackle
-(v) (n) giải quyết, khắc phục, bàn thảo; đồ dùng,dụng cụ
+giai quyet, khac phuc, ban thao; do dung,dung cu
 tail
-(n) đuôi, đoạn cuối
+duoi, doan cuoi
 take
-(v) sự cầm nắm, sự lấy
+su cam nam, su lay
 take sth off
-cởi, bỏ cái gì, lấy đi cái gì
+coi, bo cai gi, lay di cai gi
 take sth over
-chở, chuyển cái gì; tiếp quản, kế tục cái gì
+cho, chuyen cai gi; tiep quan, ke tuc cai gi
 talk
-(v) (n) nói chuyện, trò chuyện; cuộc trò chuyện, cuộc thảo luận
+noi chuyen, tro chuyen; cuoc tro chuyen, cuoc thao luan
 tank
-(n) thùng, két, bể
+thung, ket, be
 tap
-(v) (n) mở vòi, đóng vồi; vòi, khóa
+mo voi, dong voi; voi, khoa
 tape
-(n) băng, băng ghi âm; dải, dây
+bang, bang ghi am; dai, day
 target
-(n) bia, mục tiêu, đích
+bia, muc tieu, dich
 task
-(n) nhiệm vụ, nghĩa vụ, bài tập, công tác, công việc
+nhiem vu, nghia vu, bai tap, cong tac, cong viec
 taste
-(n) (v) vị, vị giác; nếm
+vi, vi giac; nem
 tax
-(n) (v) thuế; đánh thuế
+thue; danh thue
 tea
-(n) cây chè, trà, chè
+cay che, tra, che
 teach
-(v) dạy
+day
 teaching
-(n) sự dạy, công việc dạy học
+su day, cong viec day hoc
 teacher
-(n) giáo viên
+giao vien
 team
-(n) đội, nhóm
+doi, nhom
 tear
-(v) (n) xé, làm rắch; chỗ rách, miếng xe; nước mắt
+xe, lam rach; cho rach, mieng xe; nuoc mat
 technical
-(adj) (thuộc) kỹ thuật, chuyên môn
+ky thuat, chuyen mon
 technique
-(n) kỹ sảo, kỹ thuật, phương pháp kỹ thuật
+ky sao, ky thuat, phuong phap ky thuat
 technology
-(n) kỹ thuật học, công nghệ học
+ky thuat hoc, cong nghe hoc
 telephone
-(n) (v) máy điện thoại, gọi điện thoại
+may dien thoai, goi dien thoai
 television
-(n) vô tuyến truyền hình
+vo tuyen truyen hinh
 tell
-(v) nói, nói với
+noi, noi voi
 temperature
-(n) nhiệt độ
+nhiet do
 temporary
-(n) tạm thời, nhất thời, lâm thời
+tam thoi, nhat thoi, lam thoi
 temporarily
-(adv) tính chất tạm thời, nhất thời
+tinh chat tam thoi, nhat thoi
 tend
-(v) trông nom, chăm sóc, giữ gìn, hầu hạ
+trong nom, cham soc, giu gin, hau ha
 tendency
-(n) xu hướng, chiều hướng, khuynh hướng
+xu huong, chieu huong, khuynh huong
 tension
-(n) sự căng, độ căng, tình trạng căng
+su cang, do cang, tinh trang cang
 tent
-(n) lều, rạp
+leu, rap
 term
-(n) giới hạn, kỳ hạn, khóa, kỳ học
+gioi han, ky han, khoa, ky hoc
 terrible
-(adj) khủng khiếp, ghê sợ
+khung khiep, ghe so
 terribly
-(adv) tồi tệ, không chịu nổi
+toi te, khong chiu noi
 test
-(n) (v) bài kiểm tra, sự thử nghiệm, xét nghiệm; kiểm tra
+bai kiem tra, su thu nghiem, xet nghiem; kiem tra
 text
-(n) nguyên văn, bản văn, chủ đề, đề tài
+nguyen van, ban van, chu de, de tai
 than
-(conj) hơn
+hon
 thank
-(v) cám ơn
+cam on
 thanks
-(n) sự cảm ơn, lời cảm ơn
+su cam on, loi cam on
 that
-pro(n) (conj) người ấy, đó, vật ấy, đó; rằng, là
+pronguoi ay, do, vat ay, do; rang, la
 the
-cái, con, người, ấy này, duy nhất
+cai, con, nguoi, ay nay, duy nhat
 theatre
-(n) rạp hát, nhà hát
+rap hat, nha hat
 theme
-(n) đề tài, chủ đề
+de tai, chu de
 themselves
-pro(n) tự chúng, tự họ, tự
+protu chung, tu ho, tu
 then
-(adv) khi đó, lúc đó, tiếp đó
+khi do, luc do, tiep do
 theory
-(n) lý thuyết, học thuyết
+ly thuyet, hoc thuyet
 there
-(adv) ở nơi đó, tại nơi đó
+o noi do, tai noi do
 therefore
-(adv) bởi vậy, cho nên, vì thế
+boi vay, cho nen, vi the
 thick
-(adj) dày; đậm
+day; dam
 thickly
-(adv) dày; dày đặc; thành lớp dày
+day; day dac; thanh lop day
 thickness
-(n) tính chất dày, độ dày, bề dày
+tinh chat day, do day, be day
 thief
-(n) kẻ trộm, kẻ cắp
+ke trom, ke cap
 thin
-(adj) mỏng, mảnh
+mong, manh
 thing
-(n) cái, đồ, vật
+cai, do, vat
 think
-(v) nghĩ, suy nghĩ
+nghi, suy nghi
 thinking
-(n) sự suy nghĩ, ý nghĩ
+su suy nghi, y nghi
 thirsty
-(adj) khát, cảm thấy khát
+khat, cam thay khat
 this
-pro(n) cái này, điều này, việc này
+procai nay, dieu nay, viec nay
 thorough
-(adj) cẩn thận, kỹ lưỡng
+can than, ky luong
 thoroughly
-(adv) kỹ lưỡng, thấu đáo, triệt để
+ky luong, thau dao, triet de
 though
-(adv) dù, dù cho, mặc dù; mặc dù, tuy nhiên, tuy vậy
+du, du cho, mac du; mac du, tuy nhien, tuy vay
 thought
-(n) sự suy nghĩ, khả năng suy nghĩ; ý nghĩ, tư tưởng, tư duy
+su suy nghi, kha nang suy nghi; y nghi, tu tuong, tu duy
 thread
-(n) chỉ, sợi chỉ, sợi dây
+chi, soi chi, soi day
 threat
-(n) sự đe dọa, lời đe dọa
+su de doa, loi de doa
 threaten
-(v) dọa, đe dọa
+doa, de doa
 threatening
-(adj) sự đe dọa, sự hăm dọa
+su de doa, su ham doa
 throat
-(n) cổ, cổ họng
+co, co hong
 through
-(adv) qua, xuyên qua
+qua, xuyen qua
 throughout
-(adv) khắp nơi, từ đầu đến cuối, suốt
+khap noi, tu dau den cuoi, suot
 throw
-(v) ném, vứt, quăng
+nem, vut, quang
 throw sth away
-ném đi, vứt đi, liệng đi
+nem di, vut di, lieng di
 thumb
-(n) ngón tay cái
+ngon tay cai
 thus
-(adv) như vậy, như thế, do đó
+nhu vay, nhu the, do do
 ticket
-(n) vé
+ve
 tidy
-(adj) (v) sạch sẽ, ngăn nắp, gọn gàng
+sach se, ngan nap, gon gang
 untidy
-(adj) không gọn gàng, không ngăn nắp, lộn xộn
+khong gon gang, khong ngan nap, lon xon
 tie
-(v) (n) buộc, cột, trói; dây buộc, dây trói, dây giày
+buoc, cot, troi; day buoc, day troi, day giay
 tie sth up
-có quan hệ mật thiết, gắn chặt
+co quan he mat thiet, gan chat
 tight
-(adj) (adv) kín, chặt, chật
+kin, chat, chat
 tightly
-(adv) chặc chẽ, sít sao
+chac che, sit sao
 till
-cho đến khi, tới lúc mà
+cho den khi, toi luc ma
 time
-(n) thời gian, thì giờ
+thoi gian, thi gio
 timetable
-(n) kế hoạch làm việc, thời gian biểu
+ke hoach lam viec, thoi gian bieu
 tin
-(n) thiếc
+thiec
 tiny
-(adj) rất nhỏ, nhỏ xíu
+rat nho, nho xiu
 tip
-(n) (v) đầu, mút, đỉnh, chóp; bịt đầu, lắp đầu vào
+dau, mut, dinh, chop; bit dau, lap dau vao
 tire
-(v) (n) làm mệt mỏi, trở nên mệt nhọc; lốp, vỏ xe
+lam met moi, tro nen met nhoc; lop, vo xe
 tiring
-(adj) sự mệt mỏi, sự mệt nhọc
+su met moi, su met nhoc
 tired
-(adj) mệt, muốn ngủ, nhàm chán
+met, muon ngu, nham chan
 title
-(n) đầu đề, tiêu đề; tước vị, tư cách
+dau de, tieu de; tuoc vi, tu cach
 toe
-(n) ngón chân (người)
-together
-(adv) cùng nhau, cùng với
+ngon chan cung nhau, cung voi
 toilet
-(n) nhà vệ sinh; sự trang điểm (rửa mặt, ăn mặc, chải tóc...)
-tomato
-(n) cà chua
+nha ve sinh; su trang diem ca chua
 tomorrow
-(adv) (n) vào ngày mai; ngày mai
+vao ngay mai; ngay mai
 ton
-(n) tấn
+tan
 tone
-(n) tiếng, giọng
+tieng, giong
 tongue
-(n) lưỡi
+luoi
 tonne
-(n) tấn
+tan
 tool
-(n) dụng cụ, đồ dùng
+dung cu, do dung
 tooth
-(n) răng
+rang
 top
-(n) (adj) chóp, đỉnh; đứng đầu, trên hết
+chop, dinh; dung dau, tren het
 topic
-(n) đề tài, chủ đề
+de tai, chu de
 total
-(adj) (n) tổng cộng, toàn bộ; tổng số, toàn bộ số lượng
+tong cong, toan bo; tong so, toan bo so luong
 totally
-(adv) hoàn toàn
+hoan toan
 touch
-(v) (n) sờ, mó, tiếp xúc; sự sờ, sự mó, sự tiếp xúc
+so, mo, tiep xuc; su so, su mo, su tiep xuc
 tough
-(adj) chắc, bền, dai
+chac, ben, dai
 tour
-(n) (v) cuộc đi du lịch, cuộc đi dạo, chuyến du lịch; đi du lịch
+cuoc di du lich, cuoc di dao, chuyen du lich; di du lich
 tourist
-(n) khách du lịch
+khach du lich
 towards
-(prep) theo hướng, về hướng
+theo huong, ve huong
 towel
-(n) khăn tắm, khăn lau
+khan tam, khan lau
 tower
-(n) tháp
+thap
 town
-(n) thị trấn, thị xã, thành phố nhỏ
+thi tran, thi xa, thanh pho nho
 toy
-(n) (adj) đồ chơi, đồ trang trí; thể loại đồ chơi
+do choi, do trang tri; the loai do choi
 trace
-(v) (n) phát hiện, tìm thấy, vạch, chỉ ra, phác họa; dấu, vết
+phat hien, tim thay, vach, chi ra, phac hoa; dau, vet
 track
-(n) phần của đĩa; đường mòn, đường đua
+phan cua dia; duong mon, duong dua
 trade
-(n) (v) thương mại, buôn bán; buôn bán, trao đổi
+thuong mai, buon ban; buon ban, trao doi
 trading
-(n) sự kinh doanh, việc mua bán
+su kinh doanh, viec mua ban
 tradition
-(n) truyền thống
+truyen thong
 traditional
-(adj) theo truyền thống, theo lối cổ
+theo truyen thong, theo loi co
 traditionally
-(adv) (thuộc) truyền thống, là truyền thống
+truyen thong, la truyen thong
 traffic
-(n) sự đi lại, sự giao thông, sự chuyển động
+su di lai, su giao thong, su chuyen dong
 train
-(n) (v) xe lửa, tàu hỏa; dạy, rèn luyện, đào tạo
+xe lua, tau hoa; day, ren luyen, dao tao
 training
-(n) sự dạy dỗ, sự huấn luyện, sự đào tạo
+su day do, su huan luyen, su dao tao
 transfer
-(v) (n) dời, di chuyển; sự di chuyển, sự dời chỗ
+doi, di chuyen; su di chuyen, su doi cho
 transform
-(v) thay đổi, biến đổi
+thay doi, bien doi
 translate
-(v) dịch, biên dịch, phiên dịch
+dich, bien dich, phien dich
 translation
-(n) sự dịch
+su dich
 transparent
-(adj) trong suốt; dễ hiểu, sáng sủa
+trong suot; de hieu, sang sua
 transport
-(v) (n) sự vận chuyển, sự vận tải;chuyên chở, phương tiện đi lại
+su van chuyen, su van tai;chuyen cho, phuong tien di lai
 trap
-(n) (v) đồ đạc, hành lý; bẫy, cạm bãy; bẫy, giữ, chặn lạ
+do dac, hanh ly; bay, cam bay; bay, giu, chan la
 travel
-(v) (n) đi lại, đi du lịch, di chuyển; sự đi, những chuyến đi
+di lai, di du lich, di chuyen; su di, nhung chuyen di
 traveller
-(n) người đi, lữ khách
+nguoi di, lu khach
 treat
-(v) đối xử, đối đãi, cư xử
+doi xu, doi dai, cu xu
 treatment
-(n) sự đối xử, sự đối đãi, sự cư xử (với người nào)
-trend
-(n) phương hướng, xu hướng, chiều hướng
+su doi xu, su doi dai, su cu xu phuong huong, xu huong, chieu huong
 trial
-(n) sự thử nghiệm, cuộc thử nghiệm
+su thu nghiem, cuoc thu nghiem
 triangle
-(n) hình tam giác
+hinh tam giac
 trick
-(n) (v) mưu mẹo, thủ đoạn, trò lừa gạt; lừa, lừa gạt
+muu meo, thu doan, tro lua gat; lua, lua gat
 trip
-(n) (v) cuộc dạo chơi, cuộc du ngoạn; đi dạo, du ngoạn
+cuoc dao choi, cuoc du ngoan; di dao, du ngoan
 tropical
-(adj) nhiệt đới
+nhiet doi
 trouble
-(n) điều lo lắng, điều muộn phiền
+dieu lo lang, dieu muon phien
 trousers
-(n) quần
+quan
 truck
-(n) rau quả tươi
+rau qua tuoi
 true
-(adj) đúng, thật
+dung, that
 truly
-(adv) đúng sự thật, đích thực, thực sự
+dung su that, dich thuc, thuc su
 yours truly
-lời kết thúc thư (bạn chân thành của...)
-trust
-(n) (v) niềm tin, sự phó thác; tin, tin cậy, phó thác
+loi ket thuc thu niem tin, su pho thac; tin, tin cay, pho thac
 truth
-(n) sự thật
+su that
 try
-(v) thử, cố gắng
+thu, co gang
 tube
-(n) ống, tuýp
+ong, tuyp
 tuesday
-thứ 3
+thu 3
 tune
-(n) (v) điệu, giai điệu; lên dây, so dây (đàn)
-tunnel
-(n) đường hầm, hang
+dieu, giai dieu; len day, so day duong ham, hang
 turn
-(v) (n) quay, xoay, vặn; sự quay, vòng quay
+quay, xoay, van; su quay, vong quay
 twice
-(adv) hai lần
+hai lan
 twin
-(n) (adj) sinh đôi, tạo thành cặp; cặp song sinh
+sinh doi, tao thanh cap; cap song sinh
 twist
-(v) (n) xoắn, cuộn, quắn; sự xoắn, vòng xoắn
+xoan, cuon, quan; su xoan, vong xoan
 twisted
-(adj) được xoắn, được cuộn
+duoc xoan, duoc cuon
 type
-(n) (v) loại, kiểu, mẫu; phân loại, xếp loại
+loai, kieu, mau; phan loai, xep loai
 typical
-(adj) tiêu biểu, điển hình, đặc trưng
+tieu bieu, dien hinh, dac trung
 typically
-(adv) điển hình, tiêu biểu
+dien hinh, tieu bieu
 tyre
-(n) lốp, vỏ xe
+lop, vo xe
 ugly
-(adj) xấu xí, xấu xa
+xau xi, xau xa
 ultimate
-(adj) cuối cùng, sau cùng
+cuoi cung, sau cung
 ultimately
-(adv) cuối cùng, sau cùng
+cuoi cung, sau cung
 umbrella
-(n) ô, dù
+o, du
 unable
-(adj) không thể, không có khẳ năng
+khong the, khong co kha nang
 unacceptable
-(adj) không thể chấp nhận
+khong the chap nhan
 uncertain
-(adj) không chắc chắn, khôn biết rõ ràng
+khong chac chan, khon biet ro rang
 uncle
-(n) chú, bác
+chu, bac
 uncomfortable
-(adj) bất tiện, không tiện lợi
+bat tien, khong tien loi
 unconscious
-(adj) bất tỉnh, ngất đi
+bat tinh, ngat di
 uncontrolled
-(adj) không bị kiềm chế, không bị kiểm tra
+khong bi kiem che, khong bi kiem tra
 under
-(adv) dưới, ở dưới; ở phía dưới, về phía dưới
+duoi, o duoi; o phia duoi, ve phia duoi
 underground
-(adj) (adv) dưới mặt đất, ngầm dưới đất; ngầm
+duoi mat dat, ngam duoi dat; ngam
 underneath
-(prep) (adv) dưới, bên dưới
+duoi, ben duoi
 understand
-(v) hiểu, nhận thức
+hieu, nhan thuc
 understanding
-(n) trí tuệ, sự hiểu biết
+tri tue, su hieu biet
 underwater
-(adj) (adv) ở dưới mặt nước, dưới mặt nước
+o duoi mat nuoc, duoi mat nuoc
 undo
-tháo, gỡ, xóa, hủy bỏ
+thao, go, xoa, huy bo
 underwear
-(n) quần lót
+quan lot
 unemployed
-(adj) không dùng, thất nghiệp
+khong dung, that nghiep
 unemployment
-(n) sự thất nghiệp, tình trạng thất nghiệp
+su that nghiep, tinh trang that nghiep
 unexpected
-(adj) bất ngờ, đột ngột, gây ngạc nhiên
+bat ngo, dot ngot, gay ngac nhien
 unexpectedly
-(adv) bất ngờ, đột ngột, gây ngạc nhiên
+bat ngo, dot ngot, gay ngac nhien
 unfair
-(adj) gian lận, không công bằng; bất lợi
+gian lan, khong cong bang; bat loi
 unfairly
-(adv) gian lận, không công bằng; bất lợi
+gian lan, khong cong bang; bat loi
 unfortunate
-(adj) không may, rủi ro, bất hạnh
+khong may, rui ro, bat hanh
 unfortunately
-(adv) một cách đáng tiếc, một cách không may
+mot cach dang tiec, mot cach khong may
 unfriendly
-đối địch, không thân thiện
+doi dich, khong than thien
 unhappiness
-(n) nỗi buồn, sự bất hạnh
+noi buon, su bat hanh
 unhappy
-(adj) buồn rầu, khốn khổ
+buon rau, khon kho
 uniform
-(n) (adj) đồng phục; đều, giống nhau, đồng dạng
+dong phuc; deu, giong nhau, dong dang
 unimportant
-(adj) không quan trọng
+khong quan trong
 union
-(n) liên hiệp, sự đoàn kết, sự hiệp nhất
+lien hiep, su doan ket, su hiep nhat
 unique
-(adj) độc nhất vô nhị
+doc nhat vo nhi
 unit
-(n) đơn vị
+don vi
 unite
-(v) liên kết, hợp nhất, hợp lại, kết thân
+lien ket, hop nhat, hop lai, ket than
 united
-(adj) liên minh, đoàn kết, chung, thống nhất
+lien minh, doan ket, chung, thong nhat
 universe
-(n) vũ trụ
+vu tru
 university
-(n) trường đại học
+truong dai hoc
 unkind
-(adj) không tốt, độc ác, tàn nhẫn
+khong tot, doc ac, tan nhan
 unknown
-(adj) không biết, không được nhận ra
+khong biet, khong duoc nhan ra
 unless
-(conj) trừ phi, trừ khi, nếu không
+tru phi, tru khi, neu khong
 unlike
-không giống, khác
+khong giong, khac
 unlikely
-(adj) không có thể xảy ra, không chắc chắn; không có thực
+khong co the xay ra, khong chac chan; khong co thuc
 unload
-(v) tháo, dỡ
+thao, do
 unlucky
-(adj) không gặp may, bất hạnh
+khong gap may, bat hanh
 unnecessary
-(adj) không cần thiết, không mong muốn
+khong can thiet, khong mong muon
 unpleasant
-(adj) không dễ chịu, khó chịu
+khong de chiu, kho chiu
 unreasonable
-(adj) vô lý
+vo ly
 unsteady
-(adj) không đúng mực, không chắc, không vững
+khong dung muc, khong chac, khong vung
 unsuccessful
-(adj) không thành công, thất bại
+khong thanh cong, that bai
 untidy
-(adj) không gọn gàng, không ngăn nắp, lộn xộn
+khong gon gang, khong ngan nap, lon xon
 until
-(conj) (prep) trước khi, cho đến khi
+truoc khi, cho den khi
 unusual
-hiếm, khác thường
+hiem, khac thuong
 unwilling
-(adj) không muốn làm điều gì; miễn cưỡng; bất đắc dĩ
+khong muon lam dieu gi; mien cuong; bat dac di
 unwillingly
-(adv) miễn cưỡng; bất đắc dĩ
+mien cuong; bat dac di
 up
-(adv) (prep) ở trên, lên trên, lên
+o tren, len tren, len
 upon
-(prep) trên, ở trên
+tren, o tren
 upper
-(adj) cao hơn
+cao hon
 upset
-(v) (adj) làm đổ, đánh đổ
+lam do, danh do
 upsetting
-(adj) tính đánh đổ, làm đổ
+tinh danh do, lam do
 upside down
-(adv) lộn ngược
+lon nguoc
 upstairs
-(adv) (adj) (n) ở tên gác, cư ngụ ở tầng gác; tầng trên
+o ten gac, cu ngu o tang gac; tang tren
 upward
-(adj) lên, hướng lên, đi lên
+len, huong len, di len
 urban
-(adj) (thuộc) thành phố, khu vực
+thanh pho, khu vuc
 urge
-(v) (n) thúc, giục, giục giã; sự thúc đẩy, sự thôi thúc
+thuc, giuc, giuc gia; su thuc day, su thoi thuc
 urgent
-(adj) gấp, khẩn cấp
+gap, khan cap
 use
-(v) (n) sử dụng, dùng; sự dùng, sự sử dụng
+su dung, dung; su dung, su su dung
 used
-(adj) đã dùng, đã sử dụng
+da dung, da su dung
 used to sth
-sử dụng cái gì, sử dụng để làm cái gì
+su dung cai gi, su dung de lam cai gi
 used to doing sth
-sử dụng gì, sử dụng để làm gì
+su dung gi, su dung de lam gi
 used to
-(v) đã quen dùng
+da quen dung
 useful
-(adj) hữu ích, giúp ích
+huu ich, giup ich
 useless
-(adj) vô ích, vô dụng
+vo ich, vo dung
 user
-(n) người dùng, người sử dụng
+nguoi dung, nguoi su dung
 usual
-(adj) thông thường, thường dùng
+thong thuong, thuong dung
 usually
-(adv) thường thường
+thuong thuong
 unusual
-(adj) hiếm, khác thường, đáng chú ý
+hiem, khac thuong, dang chu y
 unusually
-(adv) cực kỳ, khác thường
+cuc ky, khac thuong
 vacation
-(n) kỳ nghỉ hè, kỳ nghỉ lễ; ngày nghỉ, ngày lễ
+ky nghi he, ky nghi le; ngay nghi, ngay le
 valid
-(adj) chắc chắn, hiệu quả, hợp lý
+chac chan, hieu qua, hop ly
 valley
-(n) thung lũng
+thung lung
 valuable
-(adj) có giá trị lớn, đáng giá
+co gia tri lon, dang gia
 value
-(n) (v) giá trị, ước tính, định giá
+gia tri, uoc tinh, dinh gia
 van
-(n) tiền đội, quân tiên phong; xe tải
+tien doi, quan tien phong; xe tai
 variation
-(n) sự biến đổi, sự thay đổi mức độ, sự khác nhau
+su bien doi, su thay doi muc do, su khac nhau
 variety
-(n) sự đa dạng, trạng thái khác nhau
+su da dang, trang thai khac nhau
 various
-(adj) khác nhau, thuộc về nhiều loại
+khac nhau, thuoc ve nhieu loai
 vary
-(v) thay đổi, làm cho khác nhau, biến đổi
+thay doi, lam cho khac nhau, bien doi
 varied
-(adj) thuộc nhiều loại khác nhau, những vẻ đa dạng
+thuoc nhieu loai khac nhau, nhung ve da dang
 vast
-(adj) rộng lớn, mênh mông
+rong lon, menh mong
 vegetable
-(n) rau, thực vật
+rau, thuc vat
 vehicle
-(n) xe cộ
+xe co
 venture
-(n) (v) sự án kinh doanh, công việc kinh doanh; liều, mạo hiểm, cả gan
+su an kinh doanh, cong viec kinh doanh; lieu, mao hiem, ca gan
 version
-(n) bản dịch sang một ngôn ngữ khác
+ban dich sang mot ngon ngu khac
 vertical
-(adj) thẳng đứng, đứng
+thang dung, dung
 via
-(prep) qua, theo đường
+qua, theo duong
 victim
-(n) nạn nhân
+nan nhan
 victory
-(n) chiến thắng
+chien thang
 video
-(n) video
+video
 view
-(n) (v) sự nhìn, tầm nhìn; nhìn thấy, xem, quan sát
+su nhin, tam nhin; nhin thay, xem, quan sat
 village
-(n) làng, xã
+lang, xa
 violence
-(n) sự ác liệt, sự dữ dội; bạo lực
+su ac liet, su du doi; bao luc
 violent
-(adj) mãnh liệt, mạnh mẽ, hung dữ
+manh liet, manh me, hung du
 violently
-(adv) mãnh liệt, dữ dội
+manh liet, du doi
 virtually
-(adv) thực sự, hầu như, gần như
+thuc su, hau nhu, gan nhu
 virus
-(n) vi rút
+vi rut
 visible
-(adj) hữu hình, thấy được
+huu hinh, thay duoc
 vision
-(n) sự nhìn, thị lực
+su nhin, thi luc
 visit
-(v) (n) đi thăm hỏi, đến chơi, tham quan; sự đi thăm,
+di tham hoi, den choi, tham quan; su di tham,
 visitor
-(n) khách, du khách
+khach, du khach
 vital
-(adj) (thuộc) sự sống, cần cho sự sống
+su song, can cho su song
 vocabulary
-(n) từ vựng
+tu vung
 voice
-(n) tiếng, giọng nói
+tieng, giong noi
 volume
-(n) thế tích, quyển, tập
+the tich, quyen, tap
 vote
-(n) (v) sự bỏ phiếu, sự bầu cử; bỏ phiếu, bầu cử
+su bo phieu, su bau cu; bo phieu, bau cu
 wage
-(n) tiền lương, tiền công
+tien luong, tien cong
 waist
-(n) eo, chỗ thắt lưng
+eo, cho that lung
 wait
-(v) chờ đợi
+cho doi
 waiter
-(n) người hầu bàn, người đợi, người trông chờ
+nguoi hau ban, nguoi doi, nguoi trong cho
 waitress
-(n) người nữ hầu bàn
+nguoi nu hau ban
 wake
-(v) thức dậy, tỉnh thức
+thuc day, tinh thuc
 walk
-(v) (n) đi, đi bộ; sự đi bộ, sự đi dạo
+di, di bo; su di bo, su di dao
 walking
-(n) sự đi, sự đi bộ
+su di, su di bo
 wall
-(n) tường, vách
+tuong, vach
 wallet
-(n) cái ví
+cai vi
 wander
-(v) (n) đi lang thang; sự đi lang thang
+di lang thang; su di lang thang
 want
-(v) muốn
+muon
 war
-(n) chiến tranh
+chien tranh
 warm
-(adj) (v) ấm, ấm áp; làm cho nóng, hâm nóng
+am, am ap; lam cho nong, ham nong
 warmth
-(n) trạng thái ấm, sự ấm áp; hơi ấm
+trang thai am, su am ap; hoi am
 warn
-(v) báo cho biết, cảnh báo
+bao cho biet, canh bao
 warning
-(n) sự báo trước, lời cảnh báo
+su bao truoc, loi canh bao
 wash
-(v) rửa, giặt
+rua, giat
 washing
-(n) sự tắm rửa, sự giặt
+su tam rua, su giat
 waste
-(v) (n) (adj) lãng phí, uổng phí; vùng hoang vu, sa mạc; bỏ hoang
+lang phi, uong phi; vung hoang vu, sa mac; bo hoang
 watch
-(v) (n) đồng hồ, nhìn, theo dõi, quan sát; sự canh gác, sự canh phòng
+dong ho, nhin, theo doi, quan sat; su canh gac, su canh phong
 water
-(n) nước
+nuoc
 wave
-(n) (v) sóng, gợn nước; gợn sóng, uốn thành sóng
+song, gon nuoc; gon song, uon thanh song
 way
-(n) đường, đường đi
+duong, duong di
 weak
-(adj) yếu, yếu ớt
+yeu, yeu ot
 weakness
-(n) tình trạng yếu đuối, yếu ớt
+tinh trang yeu duoi, yeu ot
 wealth
-(n) sự giàu có, sự giàu sang
+su giau co, su giau sang
 weapon
-(n) vũ khí
+vu khi
 wear
-(v) mặc, mang, đeo
+mac, mang, deo
 weather
-(n) thời tiết
+thoi tiet
 web
-(n) mạng, lưới
+mang, luoi
 website
-(n) không gian liên tới với Internet
+khong gian lien toi voi Internet
 wedding
-(n) lễ cưới, hôn lễ
+le cuoi, hon le
 wednesday
-(n) thứ 4
+thu 4
 week
-(n) tuần, tuần lễ
+tuan, tuan le
 weekend
-(n) cuối tuần
+cuoi tuan
 weekly
-(adj) mỗi tuần một lần, hàng tuần
+moi tuan mot lan, hang tuan
 weigh
-(v) cân, cân nặng
+can, can nang
 weight
-(n) trọng lượng
+trong luong
 welcome
-(v) (adj) (n) chào mừng, hoan nghênh
+chao mung, hoan nghenh
 well
-(adv) (adj) tốt, giỏi; ôi, may quá!
+tot, gioi; oi, may qua!
 as well as
-cũng, cũng như
+cung, cung nhu
 west
-(n) (adj) (adv) phía Tây, theo phía tây, về hướng tây
+phia Tay, theo phia tay, ve huong tay
 western
-(adj) về phía tây, của phía tây
+ve phia tay, cua phia tay
 wet
-(adj) ướt, ẩm ướt
+uot, am uot
 whatever
-pro (n) bất cứ thứ gì, bất kể thứ gì
+pro bat cu thu gi, bat ke thu gi
 wheel
-(n) bánh xe
+banh xe
 whenever
-(conj) bất cứ lúc nào, lúc nào
+bat cu luc nao, luc nao
 whereas
-(conj) nhưng ngược lại, trong khi
+nhung nguoc lai, trong khi
 wherever
-(conj) ở bất cứ nơi nào, ở bất cứ nơi đâu
+o bat cu noi nao, o bat cu noi dau
 whether
-(conj) có..không; có... chăng; không biết có.. không
+co..khong; co... chang; khong biet co.. khong
 while
-(conj) (n) trong lúc, trong khi; lúc, chốc, lát
+trong luc, trong khi; luc, choc, lat
 whilst
-(conj) trong lúc, trong khi
+trong luc, trong khi
 whisper
-(v) (n) nói thì thầm, xì xào; tiếng nói thì thầm, tiếng xì xào
+noi thi tham, xi xao; tieng noi thi tham, tieng xi xao
 whistle
-(n) (v) sự huýt sáo, sự thổi còi; huýt sáo, thổi còi
+su huyt sao, su thoi coi; huyt sao, thoi coi
 whoever
-pro (n) ai, người nào, bất cứ ai, bất cứ người nào, dù ai
+pro ai, nguoi nao, bat cu ai, bat cu nguoi nao, du ai
 whole
-(adj) (n) bình an vô sự, không suy suyển, không hư hỏng; toàn bộ, tất cả, toàn thể
+binh an vo su, khong suy suyen, khong hu hong; toan bo, tat ca, toan the
 white
-(adj) (n) trắng; màu trắng
+trang; mau trang
 whose
-pro (n) của ai
+pro cua ai
 wide
-(adj) rộng, rộng lớn
+rong, rong lon
 widely
-(adv) nhiều, xa; rộng rãi
+nhieu, xa; rong rai
 width
-(n) tính chất rộng, bề rộng
+tinh chat rong, be rong
 wild
-(adj) dại, hoang
+dai, hoang
 wildly
-(adv) dại, hoang
+dai, hoang
 will
-(v) (n) sẽ; ý chí, ý định
+y chi, y dinh
 willing
-(adj) bằng lòng, vui lòng, muốn
+bang long, vui long, muon
 willingly
-(adv) sẵn lòng, tự nguyện
+san long, tu nguyen
 unwilling
-(adj) không muốn làm điều gì; miễn cưỡng; bất đắc dĩ
+khong muon lam dieu gi; mien cuong; bat dac di
 unwillingly
-(adv) miễn cưỡng; bất đắc dĩ
+mien cuong; bat dac di
 willingness
-(n) sự bằng lòng, sự vui lòng
+su bang long, su vui long
 win
-(v) chiếm, đọat, thu được
+chiem, doat, thu duoc
 winning
-(adj) đang dành thắng lợi, thắng cuộc
+dang danh thang loi, thang cuoc
 wind
-(n) (v) gió, quấn lại, cuộn lại
+gio, quan lai, cuon lai
 wind sth up
-lên dây, quấn, giải quyết
+len day, quan, giai quyet
 wine
-(n) rượu, đồ uống
+ruou, do uong
 wing
-(n) cánh, sự bay, sự cất cánh
+canh, su bay, su cat canh
 winner
-(n) người thắng cuộc
+nguoi thang cuoc
 winter
-(n) mùa đông
+mua dong
 wire
-(n) dây (kim loại)
-wise
-(adj) khôn ngoan, sáng suốt, thông thái
+day khon ngoan, sang suot, thong thai
 wish
-(v) (n) ước, mong muốn; sự mong ước, lòng mong muốn
+uoc, mong muon; su mong uoc, long mong muon
 with
-(prep) với, cùng
+voi, cung
 withdraw
-(v) rút, rút khỏi, rút lui
+rut, rut khoi, rut lui
 within
-(prep) trong vong thời gian, trong khoảng thời gian
+trong vong thoi gian, trong khoang thoi gian
 without
-(prep) không, không có
+khong, khong co
 witness
-(n) (v) sự làm chứng, bằng chứng; chứng kiến, làm chứng
+su lam chung, bang chung; chung kien, lam chung
+
