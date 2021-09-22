@@ -6,9 +6,6 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 public class translate {
-    private String sourceWord = "";
-    private String sourceLang = "";
-    private String targetLang = "";
 
     private String targetWord;
     private String audio;
@@ -17,35 +14,15 @@ public class translate {
     private List<String> definition = new ArrayList<String>();
     private List<String> example = new ArrayList<String>();
     private List<List<String>> synonyms = new ArrayList<List<String>>();
-    
-    /**
-     * Constructor 1.
-     */
-
-    translate() {
-        this.sourceWord = "";
-        this.sourceLang = "";
-        this.targetLang = "";
-    }
 
     /**
-     * Constructor 2.
-     * @param sourceWord the source word
-     * @param sourceLang the source language
-     * @param targetLang the target language
+     * Translate source word.
+     * @param sourceWord the word to be translated
+     * @param sourceLang the language of the source word
+     * @param targetLang the language of the target word
      */
 
-    translate(String sourceWord, String sourceLang, String targetLang) {
-        this.sourceWord = sourceWord;
-        this.sourceLang = sourceLang;
-        this.targetLang = targetLang;
-    }
-
-    /**
-     * Translate the source word.
-     */
-
-    public void translateWord() {
+    public void translateWord(String sourceWord, String sourceLang, String targetLang) {
         translateAPI api = new translateAPI(sourceWord, sourceLang, targetLang);
         JSONObject jsonObject = api.getJsonObject();
         this.targetWord = jsonObject.get("targetWord").toString();
@@ -112,9 +89,7 @@ public class translate {
     }
 
     public static void main(String[] args) {
-        translate translate = new translate("hello", "en", "vi");
-        translate.translateWord();
-        System.out.println(translate.getAudio());
+
     }
     
 }
