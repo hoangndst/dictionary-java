@@ -1,4 +1,4 @@
-package com.translater.cli;
+package com.translator.cli;
 
 import java.util.HashMap;
 
@@ -26,6 +26,7 @@ public class Dictionary {
     public void removeWord(String sourceWord) {
         words.remove(sourceWord.toLowerCase());
     }
+    
     /**
      * Translates a word from the dictionary.
      * @param sourceWord

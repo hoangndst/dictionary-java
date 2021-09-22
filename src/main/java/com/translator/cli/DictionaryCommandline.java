@@ -1,4 +1,5 @@
-package com.translater.cli;
+package com.translator.cli;
+import java.io.IOException;
 
 public class DictionaryCommandline {
     private DictionaryManagement dictionaryManagement = new DictionaryManagement();
@@ -9,8 +10,8 @@ public class DictionaryCommandline {
         });
     }
 
-    public void dictionaryBasic() {
-        dictionaryManagement.insertFromCommandLine();
+    public void dictionaryBasic() throws IOException {
+
         showAllWords();
     }
 }

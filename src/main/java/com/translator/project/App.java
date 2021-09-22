@@ -1,4 +1,4 @@
-package com.translater.project;
+package com.translator.project;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

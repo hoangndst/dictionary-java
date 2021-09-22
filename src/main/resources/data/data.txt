@@ -1,0 +1,25 @@
+zouave	@zouave /zu:'ɑ:v/\n*  danh từ\n- (sử học) lính zuavơ (lính bộ binh ở An-giê-ri)
+zounds	@zounds /zaundz/\n*  thán từ\n- (từ cổ,nghĩa cổ) ối!, ủa!, ôi chao!
+zucchini	* danh từ\n- (thực vật học) cây bí; quả bí
+zulu	@zulu\n* danh từ\n- người Zulu ở Nam Phi\n- ngôn ngữ Zulu\n* tính từ\n- thuộc về người Zulu
+Zurich Gold Pool	@Chuyên ngành kinh tế\n-Liên doanh vàng Zurich
+zwitterion	@Chuyên ngành kỹ thuật\n@Lĩnh vực: hóa học & vật liệu\n-icon lưỡng tính\n@Lĩnh vực: y học\n-iôn lưỡng tính
+zygal	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-hình cái ách
+zygapophysus	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-mỏm khớp đốt sống
+zygoma	@zygoma /zai'goumə/\n*  danh từ,  số nhiều zygomata\n*  (giải phẫu) xương gò má\n@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cung gò má\n-xương gò má
+zygomata	@zygomata /zai'goumətə/\n*  danh từ số nhiều của zygoma
+zygomatic arch	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-cung gò má (như zygomaticus)
+zygomatic bone	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-xương gò má (mỏm gò má)
+zygomatico-orbital	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc xương gò má hốc (ổ) mắt
+zygomaticofacial	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc xương gò má mặt
+zygomaticotemporal	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc xương gò má thái dương
+zygomaxillary	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-thuộc xương gò má hàm
+zygomorphic	@zygomorphic /,zaigə'mɔ:fik/ (zygomorphous) /,zaigə'mɔ:fəs/\n*  tính từ\n- đối xứng hai bên
+zygomorphous	@zygomorphous /,zaigə'mɔ:fik/ (zygomorphous) /,zaigə'mɔ:fəs/\n*  tính từ\n- đối xứng hai bên
+zygoneure	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tế bào thần kinh liên kết
+zygophyte	@zygophyte\n* danh từ\n- (thực vật) thực vật tiếp hợp
+zygosis	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-sự tiếp hợp giao tử
+zygosity	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-tình trạng tiếp hợp giao tử
+zygosphere	@Chuyên ngành kỹ thuật\n@Lĩnh vực: y học\n-giao tử
+zygospore	@zygospore /'zaigəspɔ:/\n*  danh từ\n- (thực vật học) bào tử tiếp hợp
+zygote	@zygote /'zaigout/\n*  danh từ\n- (thực vật học) hợp tử\n@Chuyên ngành kỹ thuật\n-hợp tử
