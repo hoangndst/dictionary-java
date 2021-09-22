@@ -1,4 +1,5 @@
-package com.translater.cli;
+package com.translator.cli;
+
 
 public class Word {
     private String sourceWord; 
