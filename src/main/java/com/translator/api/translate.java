@@ -42,11 +42,9 @@ public class translate {
             }
         }
         JSONArray exampleArray = jsonObject.getJSONArray("example");
-        if (exampleArray instanceof JSONArray) {
-            if (exampleArray.length() > 0) {
-                for (int i = 0; i < exampleArray.length(); i++) {
-                    this.example.add(exampleArray.get(i).toString());
-                }
+        if (exampleArray.length() > 0) {
+            for (int i = 0; i < exampleArray.length(); i++) {
+                this.example.add(exampleArray.get(i).toString());
             }
         }
         JSONArray synonymsArray = jsonObject.getJSONArray("synonyms");
