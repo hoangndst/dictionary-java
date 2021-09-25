@@ -1,2 +1,2 @@
-# dictionary-java
-OOP Project
+# Introduction
+OOP Project. UET-VNU.
