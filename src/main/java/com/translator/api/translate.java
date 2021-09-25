@@ -32,19 +32,21 @@ public class translate {
         JSONArray typeArray = jsonObject.getJSONArray("type");
         if (typeArray.length() > 0) {
             for (int i = 0; i < typeArray.length(); i++) {
-                this.type.add(typeArray.getString(i));
+                this.type.add(typeArray.get(i).toString());
             }
         }
         JSONArray definitionArray = jsonObject.getJSONArray("definition");
         if (definitionArray.length() > 0) {
             for (int i = 0; i < definitionArray.length(); i++) {
-                this.definition.add(definitionArray.getString(i));
+                this.definition.add(definitionArray.get(i).toString());
             }
         }
         JSONArray exampleArray = jsonObject.getJSONArray("example");
-        if (exampleArray.length() > 0) {
-            for (int i = 0; i < exampleArray.length(); i++) {
-                this.example.add(exampleArray.getString(i));
+        if (exampleArray instanceof JSONArray) {
+            if (exampleArray.length() > 0) {
+                for (int i = 0; i < exampleArray.length(); i++) {
+                    this.example.add(exampleArray.get(i).toString());
+                }
             }
         }
         JSONArray synonymsArray = jsonObject.getJSONArray("synonyms");
@@ -53,7 +55,7 @@ public class translate {
                 JSONArray synonymsArray2 = synonymsArray.getJSONArray(i);
                 List<String> synonymsList = new ArrayList<>();
                 for (int j = 0; j < synonymsArray2.length(); j++) {
-                    synonymsList.add(synonymsArray2.getString(j));
+                    synonymsList.add(synonymsArray2.get(j).toString());
                 }
                 this.synonyms.add(synonymsList);
             }
@@ -89,7 +91,14 @@ public class translate {
     }
 
     public static void main(String[] args) {
-
+        translate word = new translate();
+        word.translateWord("cat", "en", "vi");
+        System.out.println(word.getTargetWord());
+        System.out.println(word.getAudio());
+        System.out.println(word.getPronounce());
+        System.out.println(word.getType());
+        System.out.println(word.getDefinition());
+        System.out.println(word.getExample());
+        System.out.println(word.getSynonyms());
     }
-    
 }
