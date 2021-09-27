@@ -25,7 +25,7 @@ public class DictionaryManagement {
     while (numsOfWords > 0) {
       String wordSource = scanner.nextLine();
       String wordTarget = scanner.nextLine();
-      Word newWord = new Word(wordSource.toLowerCase(), wordTarget);
+      Word newWord = new Word(wordSource, wordTarget);
       dictionary.insert(newWord);
       numsOfWords--;
     }
@@ -36,19 +36,13 @@ public class DictionaryManagement {
     String path = "data.txt";
     BufferedReader bufferedReader =
         new BufferedReader(new InputStreamReader(new FileInputStream(path)));
-    String line1 = bufferedReader.readLine();
-    String line2 = bufferedReader.readLine();
-    while (line1 != null && line2 != null) {
-      String wordSource = line1;
-      String wordTarget = line2;
-      Word newWord = new Word(wordSource.toLowerCase(), wordTarget);
-      for (Map.Entry<String, String> e : dictionary.getWords().entrySet()) {
-        if (e.getKey() != wordSource) {
-          dictionary.insert(newWord);
-        }
-      }
-      line1 = bufferedReader.readLine();
-      line2 = bufferedReader.readLine();
+    String wordSource = bufferedReader.readLine();
+    String wordTarget = bufferedReader.readLine();
+    while (wordSource != null && wordTarget != null) {
+      Word newWord = new Word(wordSource, wordTarget);
+      dictionary.insert(newWord);
+      wordSource = bufferedReader.readLine();
+      wordTarget = bufferedReader.readLine();
     }
     bufferedReader.close();
   }
@@ -61,9 +55,9 @@ public class DictionaryManagement {
     switch (choose) {
       case 1: {
         System.out.print("Nhap tu tieng Anh can tim: ");
-        String findWord = scanner.nextLine();
+        String findWord = scanner.nextLine().trim().toLowerCase();
         for (Map.Entry<String, String> e : dictionary.getWords().entrySet()) {
-          if (e.getKey() == findWord) {
+          if (e.getKey().equals(findWord)) {
             exist = true;
             System.out.println("Nghia cua tu la: " + e.getValue());
           }
@@ -75,7 +69,7 @@ public class DictionaryManagement {
       }
       case 2: {
         System.out.print("Nhap nghia cua tu can tim: ");
-        String findWord = scanner.nextLine();
+        String findWord = scanner.nextLine().trim().toLowerCase();
         for (Map.Entry<String, String> e : dictionary.getWords().entrySet()) {
           if (e.getValue().contains(findWord)) {
             exist = true;
@@ -94,14 +88,14 @@ public class DictionaryManagement {
   public void dictionaryEdit() {
     Scanner scanner = new Scanner(System.in);
     System.out.print("Nhap tu tieng Anh can cap nhat: ");
-    String editWord = scanner.nextLine();
+    String editWord = scanner.nextLine().trim().toLowerCase();
     boolean exist = false;
     for (Map.Entry<String, String> e : dictionary.getWords().entrySet()) {
-      if (e.getKey() == editWord) {
+      if (e.getKey().equals(editWord)) {
         exist = true;
         System.out.print("Nhap nghia moi cua tu: ");
         String newMeaning = scanner.nextLine();
-        e.setValue(newMeaning);
+        dictionary.getWords().replace(editWord, newMeaning);
         System.out.println("Da cap nhat tu dien!!");
       }
     }
@@ -117,6 +111,7 @@ public class DictionaryManagement {
     Date date = java.util.Calendar.getInstance().getTime();
     DateFormat dateFormat = new SimpleDateFormat("yyyy-mm-dd hh:mm:ss");
     String strDate = dateFormat.format(date);
+    bw.write("Dictionary was exported to file at: ");
     bw.write(strDate);
     bw.newLine();
     for (Map.Entry<String, String> e : dictionary.getWords().entrySet()) {
