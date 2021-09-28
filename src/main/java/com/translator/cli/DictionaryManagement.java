@@ -21,9 +21,12 @@ public class DictionaryManagement {
 
   public void insertFromCommandLine() {
     Scanner scanner = new Scanner(System.in);
+    System.out.print("Nhap so luong tu can them vao tu dien: ");
     int numsOfWords = scanner.nextInt();
     while (numsOfWords > 0) {
+      System.out.print("Nhap tu tieng Anh: ");
       String wordSource = scanner.nextLine();
+      System.out.print("Nhap nghia cua tu: ");
       String wordTarget = scanner.nextLine();
       Word newWord = new Word(wordSource, wordTarget);
       dictionary.insert(newWord);
@@ -48,19 +51,18 @@ public class DictionaryManagement {
   }
 
   public void dictionaryLookup() {
-    System.out.println("1. Tra nghia tieng Viet\t\t\t2. Tim tu tieng Anh");
+    System.out.println("1. Tim kiem Anh - Viet\t\t\t2. Tim kiem Viet - Anh");
     Scanner scanner = new Scanner(System.in);
     boolean exist = false;
+    System.out.print("Nhap lua chon: ");
     int choose = scanner.nextInt();
     switch (choose) {
       case 1: {
         System.out.print("Nhap tu tieng Anh can tim: ");
         String findWord = scanner.nextLine().trim().toLowerCase();
-        for (Map.Entry<String, String> e : dictionary.getWords().entrySet()) {
-          if (e.getKey().equals(findWord)) {
-            exist = true;
-            System.out.println("Nghia cua tu la: " + e.getValue());
-          }
+        if (dictionary.getWords().containsKey(findWord)) {
+          exist = true;
+          System.out.println("Nghia cua tu la: " + dictionary.getWords().get(findWord));
         }
         scanner.close();
         if (!exist) {
@@ -73,7 +75,7 @@ public class DictionaryManagement {
         for (Map.Entry<String, String> e : dictionary.getWords().entrySet()) {
           if (e.getValue().contains(findWord)) {
             exist = true;
-            System.out.println("Tu can tim la: " + e.getValue());
+            System.out.println("Tu can tim la: " + e.getKey());
             break;
           }
         }
@@ -87,22 +89,18 @@ public class DictionaryManagement {
 
   public void dictionaryEdit() {
     Scanner scanner = new Scanner(System.in);
-    System.out.print("Nhap tu tieng Anh can cap nhat: ");
+    System.out.print("Nhap tu tieng Anh can chinh sua: ");
     String editWord = scanner.nextLine().trim().toLowerCase();
-    boolean exist = false;
-    for (Map.Entry<String, String> e : dictionary.getWords().entrySet()) {
-      if (e.getKey().equals(editWord)) {
-        exist = true;
-        System.out.print("Nhap nghia moi cua tu: ");
-        String newMeaning = scanner.nextLine();
-        dictionary.getWords().replace(editWord, newMeaning);
-        System.out.println("Da cap nhat tu dien!!");
-      }
-    }
-    scanner.close();
-    if (!exist) {
+    if (dictionary.getWords().containsKey(editWord)) {
+      System.out.print("Nhap nghia moi cua tu: ");
+      String newMeaning = scanner.nextLine();
+      dictionary.getWords().replace(editWord, newMeaning);
+      System.out.println("Da cap nhat tu dien!!");
+    } else {
       System.out.println("Khong tim thay tu!!");
     }
+    scanner.close();
+
   }
 
   public void dictionaryExportToFile() throws IOException {
