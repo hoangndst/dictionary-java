@@ -1,4 +1,4 @@
-package com.translator.project;
+package com.translator.gui;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -14,7 +14,7 @@ public class App extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception {
-        Parent root = FXMLLoader.load(getClass().getResource("/resourses/com/dictionary/project/primary.fxml"));
+        Parent root = FXMLLoader.load(getClass().getResource("C:/Users/hoang/Desktop/dictionary-java/src/main/resources/fxml/dashboard.fxml"));
         Scene scene = new Scene(root);
         primaryStage.initStyle(StageStyle.UNDECORATED);
         primaryStage.setScene(scene);
