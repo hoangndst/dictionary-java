@@ -1,4 +1,4 @@
-package com.translator.cli;
+package translator.cli;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
