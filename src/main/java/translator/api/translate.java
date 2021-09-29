@@ -1,4 +1,4 @@
-package com.translator.api;
+package translator.api;
 
 import java.util.ArrayList;
 import java.util.List;
