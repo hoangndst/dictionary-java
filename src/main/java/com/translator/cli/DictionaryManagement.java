@@ -13,6 +13,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class DictionaryManagement {
+
   private Dictionary dictionary = new Dictionary();
 
   public Dictionary getDictionary() {
@@ -53,7 +54,7 @@ public class DictionaryManagement {
   public void dictionaryLookup() {
     System.out.println("1. Tim kiem Anh - Viet\t\t\t2. Tim kiem Viet - Anh");
     Scanner scanner = new Scanner(System.in);
-    boolean exist = false;
+
     System.out.print("Nhap lua chon: ");
     int choose = scanner.nextInt();
     switch (choose) {
@@ -61,21 +62,20 @@ public class DictionaryManagement {
         System.out.print("Nhap tu tieng Anh can tim: ");
         String findWord = scanner.nextLine().trim().toLowerCase();
         if (dictionary.getWords().containsKey(findWord)) {
-          exist = true;
           System.out.println("Nghia cua tu la: " + dictionary.getWords().get(findWord));
-        }
-        scanner.close();
-        if (!exist) {
+        } else {
           System.out.println("Khong tim thay tu!!");
         }
+        scanner.close();
       }
       case 2: {
         System.out.print("Nhap nghia cua tu can tim: ");
         String findWord = scanner.nextLine().trim().toLowerCase();
+        boolean exist = false;
         for (Map.Entry<String, String> e : dictionary.getWords().entrySet()) {
           if (e.getValue().contains(findWord)) {
             exist = true;
-            System.out.println("Tu can tim la: " + e.getKey());
+            System.out.println("Tu can tim la: " + e.getValue());
             break;
           }
         }
@@ -85,7 +85,10 @@ public class DictionaryManagement {
         }
       }
     }
+
   }
+
+
 
   public void dictionaryEdit() {
     Scanner scanner = new Scanner(System.in);
@@ -100,7 +103,6 @@ public class DictionaryManagement {
       System.out.println("Khong tim thay tu!!");
     }
     scanner.close();
-
   }
 
   public void dictionaryExportToFile() throws IOException {

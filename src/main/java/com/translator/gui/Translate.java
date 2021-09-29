@@ -1,4 +1,4 @@
-package com.translator.project;
+package com.translator.gui;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
