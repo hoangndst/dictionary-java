@@ -5,7 +5,7 @@ public class Display {
 
   public void Run() {
     while (!exit) {
-      System.out.println();
+      System.out.println("");
     }
   }
 }
