@@ -49,7 +49,7 @@
     -fx-background-insets: 0px;
     -fx-text-fill: #bce4f9;
 }
-input-text .list-view {
+.input-text .list-view {
     background-color: #171d20;
     -fx-background-color: #171d20;
     -fx-background-radius: 5px;

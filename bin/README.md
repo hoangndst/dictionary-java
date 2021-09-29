@@ -1,2 +1,0 @@
-# dictionary-java
-OOP Project

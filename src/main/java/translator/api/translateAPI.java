@@ -1,4 +1,4 @@
-package com.translator.api;
+package translator.api;
 
 import java.io.BufferedReader;
 import java.io.IOException;
