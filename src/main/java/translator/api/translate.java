@@ -1,5 +1,6 @@
 package translator.api;
 
+import translator.Models.Word;
 import java.util.ArrayList;
 import java.util.List;
 import org.json.JSONArray;
@@ -7,46 +8,64 @@ import org.json.JSONObject;
 
 public class translate {
 
-    private String targetWord;
-    private String audio;
-    private String pronounce;
-    private List<String> type = new ArrayList<String>();
-    private List<String> definition = new ArrayList<String>();
-    private List<String> example = new ArrayList<String>();
-    private List<List<String>> synonyms = new ArrayList<List<String>>();
+    private Word word = new Word();
+    private String sourceWord;
+    private String sourceLang;
+    private String targetLang;
+
+    /**
+     * Constructor.
+     * @param sourceWord the word to translate.
+     * @param sourceLang the source language.
+     * @param targetLang the target language.
+     */
+
+    public translate(String sourceWord, String sourceLang, String targetLang) {
+        this.sourceWord = sourceWord;
+        this.sourceLang = sourceLang;
+        this.targetLang = targetLang;
+    }
 
     /**
      * Translate source word.
-     * @param sourceWord the word to be translated
-     * @param sourceLang the language of the source word
-     * @param targetLang the language of the target word
      */
 
-    public void translateWord(String sourceWord, String sourceLang, String targetLang) {
+    public void translateWord() {
         translateAPI api = new translateAPI(sourceWord, sourceLang, targetLang);
+        word.setSourceWord(sourceWord);
         JSONObject jsonObject = api.getJsonObject();
-        this.targetWord = jsonObject.get("targetWord").toString();
-        this.audio = jsonObject.get("audio").toString();
-        this.pronounce = jsonObject.get("pronounce").toString();
+        word.setTargetWord(jsonObject.get("targetWord").toString());
+        word.setAudio(jsonObject.get("audio").toString());
+        word.setPronounce(jsonObject.get("pronounce").toString());
 
         JSONArray typeArray = jsonObject.getJSONArray("type");
+        List<String> type = new ArrayList<String>();
         if (typeArray.length() > 0) {
             for (int i = 0; i < typeArray.length(); i++) {
-                this.type.add(typeArray.get(i).toString());
+                type.add(typeArray.get(i).toString());
             }
         }
+        word.setType(type);
+
+        List<String> definition = new ArrayList<String>();
         JSONArray definitionArray = jsonObject.getJSONArray("definition");
         if (definitionArray.length() > 0) {
             for (int i = 0; i < definitionArray.length(); i++) {
-                this.definition.add(definitionArray.get(i).toString());
+                definition.add(definitionArray.get(i).toString());
             }
         }
+        word.setDefinition(definition);
+
+        List<String> example = new ArrayList<String>();
         JSONArray exampleArray = jsonObject.getJSONArray("example");
         if (exampleArray.length() > 0) {
             for (int i = 0; i < exampleArray.length(); i++) {
-                this.example.add(exampleArray.get(i).toString());
+                example.add(exampleArray.get(i).toString());
             }
         }
+        word.setExample(example);
+
+        List<List<String>> synonyms = new ArrayList<List<String>>();
         JSONArray synonymsArray = jsonObject.getJSONArray("synonyms");
         if (synonymsArray.length() > 0) {
             for (int i = 0; i < synonymsArray.length(); i++) {
@@ -55,48 +74,31 @@ public class translate {
                 for (int j = 0; j < synonymsArray2.length(); j++) {
                     synonymsList.add(synonymsArray2.get(j).toString());
                 }
-                this.synonyms.add(synonymsList);
+                synonyms.add(synonymsList);
             }
         }
+        word.setSynonyms(synonyms);
     }
 
-    public List<String> getType() {
-        return type;
-    }
-
-    public List<String> getDefinition() {
-        return definition;
-    }
-
-    public List<String> getExample() {
-        return example;
-    }
-
-    public List<List<String>> getSynonyms() {
-        return synonyms;
-    }
-
-    public String getTargetWord() {
-        return targetWord;
-    }
-
-    public String getAudio() {
-        return audio;
-    }
-
-    public String getPronounce() {
-        return pronounce;
+    /**
+     * Get the translated word.
+     * @return the translated word
+     */
+    public Word getWord() {
+        return word;
     }
 
     public static void main(String[] args) {
-        translate word = new translate();
-        word.translateWord("cat", "en", "vi");
-        System.out.println(word.getTargetWord());
-        System.out.println(word.getAudio());
-        System.out.println(word.getPronounce());
-        System.out.println(word.getType());
-        System.out.println(word.getDefinition());
-        System.out.println(word.getExample());
-        System.out.println(word.getSynonyms());
+        translate word = new translate("hola", "", "vi");
+        word.translateWord();
+        Word word1 = word.getWord();
+        System.out.println(word1.getSourceWord());
+        System.out.println(word1.getTargetWord());
+        System.out.println(word1.getAudio());
+        System.out.println(word1.getPronounce());
+        System.out.println(word1.getType());
+        System.out.println(word1.getDefinition());
+        System.out.println(word1.getExample());
+        System.out.println(word1.getSynonyms());
     }
 }
