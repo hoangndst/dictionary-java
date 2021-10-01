@@ -33,11 +33,11 @@ public class DictionaryCommandline {
   public void dictionarySearcher() {
     System.out.println("Nhap tu can tim:");
     Scanner scanner = new Scanner(System.in);
-    String searchWord = scanner.nextLine();
+    String searchWord = scanner.nextLine().trim().toLowerCase();
     System.out.println("Danh sach cac tu chua \" " + searchWord + "\" la: ");
     for (Map.Entry<String, String> e : dictionaryManagement.getDictionary().getWords().entrySet()) {
       if (e.getValue().contains(searchWord)) {
-        System.out.println(e.getValue() + ", ");
+        System.out.print(e.getValue() + ", ");
       }
     }
     scanner.close();
