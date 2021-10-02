@@ -1,4 +1,4 @@
-package com.translator.cli;
+package translator.cli;
 
 public class Display {
   boolean exit = false;

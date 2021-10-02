@@ -8,9 +8,6 @@ import javafx.fxml.FXML;
 import javafx.scene.input.MouseEvent;
 public class DashboardController {
 
-    private SelectionLanguage selectionLanguage = new SelectionLanguage();
-
-
     @FXML
     private ResourceBundle resources;
 
@@ -48,11 +45,8 @@ public class DashboardController {
 
     @FXML
     void initialize() {
-        selectionLanguage.initialize();
-        
         assert copyTargetButton != null : "fx:id=\"copyTargetButton\" was not injected: check your FXML file 'demo.fxml'.";
         assert copySourceButton != null : "fx:id=\"copySourceButton\" was not injected: check your FXML file 'demo.fxml'.";
         assert audioButton != null : "fx:id=\"audioButton\" was not injected: check your FXML file 'demo.fxml'.";
-
     }
 }

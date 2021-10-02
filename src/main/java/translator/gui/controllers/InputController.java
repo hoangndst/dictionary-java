@@ -8,7 +8,6 @@ import javafx.fxml.FXML;
 import javafx.scene.control.TextField;
 
 public class InputController {
-    private String textInput;
 
     @FXML
     private ResourceBundle resources;
@@ -24,13 +23,16 @@ public class InputController {
 
     @FXML
     void inputText(ActionEvent event) {
-        textInput = inputTextBox.getText();
-        System.err.println(textInput);
+
     }
 
     @FXML
     void textListView(ActionEvent event) {
 
+    }   
+
+    public String getInputText() {
+        return inputTextBox.getText();
     }
 
     @FXML
@@ -40,4 +42,3 @@ public class InputController {
 
     }
 }
-
