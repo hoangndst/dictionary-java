@@ -19,7 +19,11 @@ public class OutputController {
 
     @FXML
     void outputText(MouseEvent event) {
-        outputTextBox.setText("This \n is \n a \n test");
+        
+    }
+
+    public void setOutputText(String text) {
+        outputTextBox.setText(text);
     }
 
     @FXML

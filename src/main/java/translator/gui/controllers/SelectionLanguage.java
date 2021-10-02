@@ -2,11 +2,11 @@ package translator.gui.controllers;
 
 import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXComboBox;
-import java.net.URL;
 import java.util.HashMap;
-import java.util.ResourceBundle;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+import java.net.URL;
+import java.util.ResourceBundle;
 
 public class SelectionLanguage {
     private String sourceLang;
@@ -28,14 +28,10 @@ public class SelectionLanguage {
     private URL location;
 
     @FXML
-    private JFXComboBox<String> selectSourceBox = new JFXComboBox<String>() {{
-        getItems().addAll(languages.keySet());
-    }};
+    private JFXComboBox<String> selectSourceBox;
 
     @FXML
-    private JFXComboBox<String> selectTargetBox = new JFXComboBox<String>() {{
-        getItems().addAll(languages.keySet());
-    }};
+    private JFXComboBox<String> selectTargetBox;
 
     @FXML
     private JFXButton swapButton;
@@ -85,5 +81,7 @@ public class SelectionLanguage {
         assert selectSourceBox != null : "fx:id=\"selectSourceBox\" was not injected: check your FXML file 'SelectionLanguage.fxml'.";
         assert selectTargetBox != null : "fx:id=\"selectTargetBox\" was not injected: check your FXML file 'SelectionLanguage.fxml'.";
         assert swapButton != null : "fx:id=\"swapButton\" was not injected: check your FXML file 'SelectionLanguage.fxml'.";
+        assert undoButton != null : "fx:id=\"undoButton\" was not injected: check your FXML file 'SelectionLanguage.fxml'.";
+        assert redoButton != null : "fx:id=\"redoButton\" was not injected: check your FXML file 'SelectionLanguage.fxml'.";
     }
 }
