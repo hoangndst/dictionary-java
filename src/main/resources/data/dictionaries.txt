@@ -165,7 +165,7 @@ xe cuu thuong, xe cap cuu
 among
 giua, o giua
 amount
-so luong, so nhieu; len toi lam cho vui, thich, lam buon cuoi,thich thu
+so luong, so nhieu
 analysis
 su phan tich
 ancient
@@ -261,7 +261,7 @@ tu dong
 autumn
 mua thu co the dung duoc, co gia tri, hieu luc
 average
-adj., trung binh, so trung binh, muc trung binh
+trung binh, so trung binh, muc trung binh
 avoid
 tranh, tranh xa
 awake
@@ -345,7 +345,7 @@ thit bo
 beer
 ruou bia
 before
-prep., conj., truoc, dang truoc
+truoc, dang truoc
 begin
 bat dau, khoi dau
 behalf
@@ -1992,8 +1992,6 @@ geography
 dia ly, khoa dia ly
 get
 duoc, co duoc
-get on
-leo, treo len nguoi khong lo, nguoi phi thuong; khong lo, phi thuong
 gift
 qua tang
 give
@@ -3501,7 +3499,6 @@ hai long
 pleasure
 niem vui thich, dieu thich thu, dieu thu vi; y muon, y thich
 plenty
-pro
 nhieu, su thua; su sung tuc, su phong phu
 plot
 manh dat nho, so do, do thi, do an; ve so do, dung do an
