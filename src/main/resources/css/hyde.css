@@ -9,51 +9,12 @@
     -fx-background-radius: 0px;
 }
 
-.combo-box-source {
-    background-color: #2a3439;
-    -fx-background-color: #2a3439;    ;
-    -fx-background-radius: 8px 0px 0px 8px;
-}
-.combo-box-target {
-    background-color: #2a3439;
-    -fx-background-color: #2a3439;
-    -fx-background-radius: 0px 8px 8px 0px;
-}
-
-.combo-box-source .arrow {
-    background-color: #bce4f9;
-    -fx-background-color: #bce4f9;
-}
-
-.combo-box-target .arrow {
-    background-color: #bce4f9;
-    -fx-background-color: #bce4f9;
-}
-
-.swap-button {
-    background-color: #2a3439;
-    -fx-background-color: #2a3439;
-    -fx-background-radius: 0px;
-}
-
-/* .input-text {
-    background-color: #171d20;
-    -fx-background-color: #171d20;
-    -fx-background-radius: 5px;
-    -fx-background-insets: 0px;
-} */
-.input-text .text-field {
+.input-text {
     background-color: #171d20;
     -fx-background-color: #171d20;
     -fx-background-radius: 5px;
     -fx-background-insets: 0px;
     -fx-text-fill: #bce4f9;
-}
-.input-text .list-view {
-    background-color: #171d20;
-    -fx-background-color: #171d20;
-    -fx-background-radius: 5px;
-    -fx-background-insets: 0px;
 }
 
 .output-text {

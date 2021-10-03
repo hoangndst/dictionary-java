@@ -1,7 +1,10 @@
 package translator.cli;
 
+import java.util.ArrayList;
+import java.util.List;
 
 public class Word {
+  
   private String sourceWord;
   private String targetWord;
 
@@ -42,3 +45,4 @@ public class Word {
     this.targetWord = targetWord;
   }
 }
+
