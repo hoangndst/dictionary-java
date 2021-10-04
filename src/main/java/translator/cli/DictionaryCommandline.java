@@ -1,6 +1,8 @@
 package translator.cli;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
@@ -8,15 +10,12 @@ public class DictionaryCommandline {
   private DictionaryManagement dictionaryManagement = new DictionaryManagement();
 
   public void showAllWords() {
-    System.out.println("No\t| " + "English\t\t\t| " + "Vietnamese");
+    System.out.printf("%-8s| %-20s\t| %s\n", "No", "English", "Vietnamese");
     int x = 0;
     for (Map.Entry<String, String> e : dictionaryManagement.getDictionary().getWords().entrySet()) {
       x++;
-      System.out.println(x + "\t| " + e.getKey() + "\t\t\t| " + e.getValue());
+      System.out.printf("%-8d| %-20s\t| %s\n", x, e.getKey(), e.getValue());
     }
-    // dictionaryManagement.getDictionary().getWords().entrySet().forEach(e -> {
-    // System.out.println(e.getKey() + ": " + e.getValue());
-    // });
   }
 
   public void dictionaryBasic() throws IOException {
@@ -31,15 +30,23 @@ public class DictionaryCommandline {
   }
 
   public void dictionarySearcher() {
-    System.out.println("Nhap tu can tim:");
+    System.out.print("Nhap tu can tim bat dau bang: ");
     Scanner scanner = new Scanner(System.in);
     String searchWord = scanner.nextLine().trim().toLowerCase();
-    System.out.println("Danh sach cac tu chua \" " + searchWord + "\" la: ");
+    List<String> listWords = new ArrayList<>();
+    System.out.println("Danh sach cac tu chua \"" + searchWord + "\" la: ");
     for (Map.Entry<String, String> e : dictionaryManagement.getDictionary().getWords().entrySet()) {
-      if (e.getValue().contains(searchWord)) {
-        System.out.print(e.getValue() + ", ");
+      if (e.getKey().length() > searchWord.length()) {
+        String temp = e.getKey().substring(0, searchWord.length());
+        if (searchWord.equals(temp)) {
+          listWords.add(e.getKey());
+        }
       }
     }
-    scanner.close();
+    if (!listWords.isEmpty()) {
+      System.out.print(listWords);
+    } else {
+      System.out.print("Khong co tu nao bat dau voi \"" + searchWord + "\"!");
+    }
   }
 }
