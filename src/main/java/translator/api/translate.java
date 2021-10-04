@@ -70,7 +70,7 @@ public class translate {
         if (synonymsArray.length() > 0) {
             for (int i = 0; i < synonymsArray.length(); i++) {
                 JSONArray synonymsArray2 = synonymsArray.getJSONArray(i);
-                List<String> synonymsList = new ArrayList<>();
+                List<String> synonymsList = new ArrayList<String>();
                 for (int j = 0; j < synonymsArray2.length(); j++) {
                     synonymsList.add(synonymsArray2.get(j).toString());
                 }
@@ -89,7 +89,7 @@ public class translate {
     }
 
     public static void main(String[] args) {
-        translate word = new translate("hola", "", "vi");
+        translate word = new translate("play", "", "vi");
         word.translateWord();
         Word word1 = word.getWord();
         System.out.println(word1.getSourceWord());

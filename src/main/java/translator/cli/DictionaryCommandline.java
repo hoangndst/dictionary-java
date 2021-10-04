@@ -33,7 +33,7 @@ public class DictionaryCommandline {
     System.out.print("Nhap tu can tim bat dau bang: ");
     Scanner scanner = new Scanner(System.in);
     String searchWord = scanner.nextLine().trim().toLowerCase();
-    List<String> listWords = new ArrayList<>();
+    List<String> listWords = new ArrayList<String>();
     System.out.println("Danh sach cac tu chua \"" + searchWord + "\" la: ");
     for (Map.Entry<String, String> e : dictionaryManagement.getDictionary().getWords().entrySet()) {
       if (e.getKey().length() > searchWord.length()) {
