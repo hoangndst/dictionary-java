@@ -56,14 +56,14 @@
                   </JFXButton>
                </children>
             </AnchorPane>
-            <AnchorPane layoutX="19.0" layoutY="13.0" prefHeight="200.0" prefWidth="200.0">
+            <AnchorPane layoutX="21.0" layoutY="14.0" prefHeight="200.0" prefWidth="200.0">
                <children>
-                  <fx:include source="InputText.fxml" />
+                  <fx:include fx:id="InputText" source="InputText.fxml" />
                </children>
             </AnchorPane>
-            <AnchorPane layoutX="407.0" layoutY="13.0" prefHeight="347.0" prefWidth="370.0">
+            <AnchorPane layoutX="407.0" layoutY="11.0" prefHeight="200.0" prefWidth="200.0">
                <children>
-                  <fx:include source="OutputText.fxml" />
+                  <fx:include fx:id="OutputText" source="OutputText.fxml" />
                </children>
             </AnchorPane>
          </children>

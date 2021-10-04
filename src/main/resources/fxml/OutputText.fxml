@@ -3,8 +3,7 @@
 <?import com.jfoenix.controls.JFXTextArea?>
 <?import javafx.scene.text.Font?>
 
-
-<JFXTextArea fx:id="outputTextBox" editable="false" focusColor="#405aa800" onDragDetected="#outputText" prefHeight="352.0" prefWidth="370.0" styleClass="output-text" stylesheets="@../css/hyde.css" unFocusColor="#4d4d4d00" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="translator.gui.controllers.OutputController">
+<JFXTextArea fx:id="OutputTextArea" editable="false" focusColor="#405aa800" onDragDetected="#outputText" prefHeight="352.0" prefWidth="370.0" styleClass="output-text" stylesheets="@../css/hyde.css" unFocusColor="#4d4d4d00" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="translator.gui.controllers.OutputController">
    <font>
       <Font name="Segoe UI" size="12.0" />
    </font>

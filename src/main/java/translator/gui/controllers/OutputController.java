@@ -15,20 +15,19 @@ public class OutputController {
     private URL location;
 
     @FXML
-    private JFXTextArea outputTextBox;
+    private JFXTextArea OutputTextArea;
 
     @FXML
     void outputText(MouseEvent event) {
-        
     }
 
     public void setOutputText(String text) {
-        outputTextBox.setText(text);
+        OutputTextArea.setText(text);
     }
 
     @FXML
     void initialize() {
-        assert outputTextBox != null : "fx:id=\"outputTextBox\" was not injected: check your FXML file 'OutputText.fxml'.";
 
+        assert OutputTextArea != null : "fx:id=\"OutputTextArea\" was not injected: check your FXML file 'OutputText.fxml'.";
     }
 }
