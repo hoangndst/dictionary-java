@@ -6,7 +6,7 @@
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.Pane?>
 
-<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="42.0" prefWidth="800.0" styleClass="trans" stylesheets="@../css/selectLang.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="translator.gui.controllers.SelectionLanguage">
+<Pane fx:id="SelectionLanguage" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="42.0" prefWidth="800.0" styleClass="trans" stylesheets="@../css/selectLang.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="translator.gui.controllers.SelectionLanguage">
    <children>
       <JFXComboBox fx:id="selectSourceBox" focusColor="#405aa800" layoutX="257.0" layoutY="5.0" onAction="#selectSource" prefHeight="33.0" prefWidth="120.0" styleClass="combo-box-source" stylesheets="@../css/hyde.css" unFocusColor="#4d4d4d00" />
       <JFXComboBox fx:id="selectTargetBox" focusColor="#405aa800" layoutX="423.0" layoutY="5.0" onAction="#selectTarget" prefHeight="33.0" prefWidth="120.0" styleClass="combo-box-target" stylesheets="@../css/hyde.css" unFocusColor="#4d4d4d00" />
