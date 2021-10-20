@@ -17,7 +17,7 @@ import java.net.URL;
  * author: hoangndst
  */
 
-public class translateAPI {
+public class TranslateAPI {
     public static HttpURLConnection connection;
     private String sourceWord;
     private String sourceLang;
@@ -30,7 +30,7 @@ public class translateAPI {
      * @param targetLang the language of the target word
      */
 
-    translateAPI(String sourceWord, String sourceLang, String targetLang) {
+    TranslateAPI(String sourceWord, String sourceLang, String targetLang) {
         this.sourceWord = sourceWord;
         this.sourceLang = sourceLang;
         this.targetLang = targetLang;
@@ -93,7 +93,7 @@ public class translateAPI {
         return jsonObject;
     }
     public static void main(String[] args) {
-        translateAPI translateAPI = new translateAPI("hello", "en", "vi");
+        TranslateAPI translateAPI = new TranslateAPI("hello", "en", "vi");
         JSONObject jsonObject = translateAPI.getJsonObject();
         List<String> example = new ArrayList<String>();
         JSONArray exampleArray = jsonObject.getJSONArray("example");

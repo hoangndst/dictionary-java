@@ -15,8 +15,8 @@ public class App extends Application {
     public void start(Stage primaryStage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("../../fxml/demo.fxml"));
         primaryStage.setTitle("Translator");
+        primaryStage.getIcons().add(new javafx.scene.image.Image("file:src/main/resources/assert/icon.png"));
         primaryStage.setScene(new Scene(root, 800, 500));
         primaryStage.show();
     }
 }
-        
