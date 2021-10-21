@@ -22,7 +22,6 @@ import javafx.scene.Scene;
 import javafx.scene.input.Clipboard;
 import javafx.scene.input.ClipboardContent;
 import javafx.scene.input.KeyCode;
-import javafx.scene.input.KeyEvent;
 import javafx.scene.input.MouseEvent;
 import java.util.HashMap;
 import translator.api.Translate;
@@ -86,6 +85,9 @@ public class DashboardController implements Initializable{
     private JFXButton aboutButton;
 
     @FXML
+    private JFXButton translateButton;
+
+    @FXML
     private JFXComboBox<String> selectSourceBox;
 
     @FXML
@@ -124,6 +126,11 @@ public class DashboardController implements Initializable{
         clipboard.setContent(content);
     }
 
+
+    @FXML
+    void translate(ActionEvent event) {
+        run();
+    }
 
     // @FXML
     // void inputText(ActionEvent event) {
@@ -234,13 +241,6 @@ public class DashboardController implements Initializable{
 
     @Override
     public void initialize(URL arg0, ResourceBundle arg1) {
-
-        // InputTextField.setOnKeyPressed(event -> {
-        //     if (event.getCode().equals(KeyCode.ENTER)) {
-        //         run();
-        //         event.consume();
-        //     }
-        // });
 
         InputTextField.setOnKeyPressed(event -> {
             if (event.isShiftDown()) {

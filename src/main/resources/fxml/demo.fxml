@@ -97,6 +97,11 @@
                         </ImageView>
                      </graphic>
                   </JFXButton>
+                  <JFXButton fx:id="translateButton" ellipsisString="" graphicTextGap="0.0" layoutX="238.0" layoutY="6.0" onAction="#translate" prefHeight="34.0" prefWidth="118.0" ripplerFill="#bce4f9" styleClass="button-default" text="Translate">
+                     <font>
+                        <Font name="Segoe UI Bold" size="14.0" />
+                     </font>
+                  </JFXButton>
                </children>
             </AnchorPane>
             <AnchorPane layoutX="21.0" layoutY="11.0" prefHeight="349.0" prefWidth="370.0">
