@@ -7,8 +7,14 @@ Dictionary Java project for UET-VNU OOP course. Online dictionary, multi-languag
 Contributor: [@hoangndst](https://github.com/hoangndst), [@naslth](https://github.com/naslth).
 
 ### Demo Image
-![GUI Demo](demo/dashboard.png)
 
+- Translate Word: Type, Pronunciation, Definition, Synonym, Example and Audio in English.
+
+    ![GUI Demo](demo/dashboard.png)
+
+- Translate Sentence
+
+    ![GUI Demo](demo/sentence.png)
 
 ### Results obtained after calling Translate API
 
