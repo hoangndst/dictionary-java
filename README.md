@@ -14,7 +14,7 @@ Contributor: [@hoangndst](https://github.com/hoangndst), [@naslth](https://githu
 
 ```json
 {
-  "sourseWord": "king",
+  "sourceWord": "king",
   "source": "",
   "target": "vi",
   "targetWord": "nhà vua",
