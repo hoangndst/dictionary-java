@@ -17,6 +17,7 @@ public class App extends Application {
         primaryStage.setTitle("Translator");
         primaryStage.getIcons().add(new javafx.scene.image.Image("file:src/main/resources/assert/icon.png"));
         primaryStage.setScene(new Scene(root, 800, 500));
+        primaryStage.resizableProperty().setValue(false);
         primaryStage.show();
     }
 }

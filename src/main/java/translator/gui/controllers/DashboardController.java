@@ -36,7 +36,6 @@ public class DashboardController implements Initializable{
     
     private Stack <Word> history = new Stack<>();
     private Stack <Word> future = new Stack<>();
-    private int historySize = 5;
 
     private final HashMap<String, String> languages = new HashMap<String, String>() {{
         put("English", "en");
@@ -159,7 +158,7 @@ public class DashboardController implements Initializable{
 
     @FXML
     void bookMark(ActionEvent event) {
-        int words = InputTextField.getText().split("\\s+").length;
+        int words = this.word.getSourceWord().split("\\s+").length;
         if (words == 1) {
             Database database = new Database();
             database.createTable(this.word.getSourceWord(), this.word.getTargetWord(), this.word.getString(), this.word.getAudio(), selectTargetBox.getValue());
@@ -178,6 +177,7 @@ public class DashboardController implements Initializable{
             Scene scene = new Scene(root1);
             stage.setScene(scene);
             stage.setTitle("Bookmark");
+            stage.setResizable(false);
             stage.getIcons().add(new javafx.scene.image.Image("file:src/main/resources/assert/icon.png"));
             stage.show();
             showBMButton.setDisable(true);
@@ -240,6 +240,7 @@ public class DashboardController implements Initializable{
             Scene scene = new Scene(root1);
             stage.setScene(scene);
             stage.setTitle("About");
+            stage.setResizable(false);
             stage.getIcons().add(new javafx.scene.image.Image("file:src/main/resources/assert/icon.png"));
             stage.show();
             aboutButton.setDisable(true);
@@ -256,7 +257,9 @@ public class DashboardController implements Initializable{
             future.clear();
             history.push(this.word);
         }
-        Translate trans = new Translate(InputTextField.getText(), "", targetLang);
+        String source = InputTextField.getText();
+        source = source.trim();
+        Translate trans = new Translate(source, "", targetLang);
         trans.translateWord();
         this.word = trans.getWord();
     }
@@ -268,7 +271,7 @@ public class DashboardController implements Initializable{
         if (flag) {
             InputTextField.setText(this.word.getSourceWord());
         }
-        int words = InputTextField.getText().split("\\s+").length;
+        int words = this.word.getSourceWord().split("\\s+").length;
         if (words == 1) {
             longOutputTextArea.setDisable(true);
             OutputTextArea.setText(this.word.getTargetWord());
@@ -295,12 +298,20 @@ public class DashboardController implements Initializable{
         } else {
             redoButton.setDisable(true);
         }
+        String target = this.word.getTargetWord();
+        target = target.replaceAll("\\s+", "");
+        if (!target.equals("") && !target.equals("null")) {
+            bookMarkButton.setDisable(false);
+        } else {
+            bookMarkButton.setDisable(true);
+        }
     }
 
     @Override
     public void initialize(URL arg0, ResourceBundle arg1) {
         redoButton.setDisable(true);
         undoButton.setDisable(true);
+        bookMarkButton.setDisable(true);
         InputTextField.setOnKeyPressed(event -> {
             if (event.isShiftDown()) {
                 if (event.getCode().equals(KeyCode.ENTER)) {

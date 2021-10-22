@@ -57,3 +57,19 @@
     -fx-background-color: #2a3439;
     -fx-background-radius: 0px;
 }
+
+.swap-button:hover {
+    background-color: #414d53;
+    -fx-background-color: #414d53;
+}
+
+.combo-box-popup .list-cell:hover {
+    background-color: #414d53;
+    -fx-background-color: #414d53;
+}
+
+.combo-box-popup .list-cell:hover .cell {
+    background-color: #414d53;
+    -fx-background-color: #414d53;
+    -fx-background-radius: 8px 0px 0px 8px;
+}
