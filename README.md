@@ -8,13 +8,19 @@ Contributor: [@hoangndst](https://github.com/hoangndst), [@naslth](https://githu
 
 ### Demo Image
 
-- Translate Word: Type, Pronunciation, Definition, Synonym, Example and Audio in English.
+Translate Word: Type, Pronunciation, Definition, Synonym, Example and Audio in English.
 
-    ![GUI Demo](demo/dashboard.png)
+![GUI Demo](demo/dashboard.png)
 
-- Translate Sentence
+Translate Sentence
 
-    ![GUI Demo](demo/sentence.png)
+![GUI Demo](demo/sentence.png)
+
+Bookmark
+Add and remove bookmark.
+One word can have multiple bookmark with different language.
+
+![Bookmark](demo/bookmark.png)
 
 ### Results obtained after calling Translate API
 
@@ -62,6 +68,23 @@ Contributor: [@hoangndst](https://github.com/hoangndst), [@naslth](https://githu
   "audio": "//ssl.gstatic.com/dictionary/static/sounds/20200429/king--1_gb_1.mp3"
 }
 ```
+
+### Database
+ Bookmark data has been stored in SQLite database.
+
+  Schema
+  ``` sql
+  CREATE TABLE "bookmark" (
+	"time"	TEXT,
+	"source"	TEXT,
+	"target"	TEXT, 
+    "info"	TEXT, 
+    "audio"	TEXT, 
+    "targetLang"	TEXT)
+  ```
+  
+  ![db](demo/sql.png)
+
 
 ### Libraries
 - [JavaFX](https://openjfx.io/)

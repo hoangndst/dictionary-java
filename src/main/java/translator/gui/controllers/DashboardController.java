@@ -12,8 +12,6 @@ import javafx.scene.media.Media;
 import javafx.scene.media.MediaPlayer;
 import javafx.stage.Stage;
 import javafx.event.ActionEvent;
-import javafx.event.Event;
-import javafx.event.EventHandler;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
@@ -23,8 +21,10 @@ import javafx.scene.input.Clipboard;
 import javafx.scene.input.ClipboardContent;
 import javafx.scene.input.KeyCode;
 import javafx.scene.input.MouseEvent;
+
 import java.util.HashMap;
 import translator.api.Translate;
+import translator.Models.Database;
 import translator.Models.Word;
 
 public class DashboardController implements Initializable{
@@ -41,6 +41,15 @@ public class DashboardController implements Initializable{
         put("Italian", "it");
         put("Spanish", "es");
         put("Vietnamese", "vi");
+        put("Chinese (Simplified)", "zh-CN");
+        put("Chinese (Traditional)", "zh-TW");
+        put("Japanese", "ja");
+        put("Korean", "ko");
+        put("Portuguese", "pt");
+        put("Russian", "ru");
+        put("Turkish", "tr");
+        put("Thai", "th");
+        put("Lao", "lo");
     }};
 
     public void setWord(Word word) {
@@ -88,6 +97,12 @@ public class DashboardController implements Initializable{
     private JFXButton translateButton;
 
     @FXML
+    private JFXButton bookMarkButton;
+
+    @FXML
+    private JFXButton showBMButton;
+
+    @FXML
     private JFXComboBox<String> selectSourceBox;
 
     @FXML
@@ -132,32 +147,46 @@ public class DashboardController implements Initializable{
         run();
     }
 
-    // @FXML
-    // void inputText(ActionEvent event) {
-    //     System.out.println(InputTextField.getText());
-    //     int words = InputTextField.getText().split("\\s+").length;
-    //     System.out.println(words);
-    //     Trans();
-    //     if (words == 1) {
-    //         OutputTextArea.setText(this.word.getTargetWord());
-    //         stringTextArea.setText(this.word.getString());
-    //         if (!this.word.getAudio().equals("none")) {
-    //             audioButton.setDisable(false);
-    //         } else {
-    //             audioButton.setDisable(true);
-    //         }
-    //     } else {
-    //         longOutputTextArea.setText(this.word.getTargetWord());
-    //     }
-    // }
-
     @FXML
     void outputText(MouseEvent event) {
+    
     }
 
     @FXML
     void redo(ActionEvent event) {
 
+    }
+
+    @FXML
+    void bookMark(ActionEvent event) {
+        int words = InputTextField.getText().split("\\s+").length;
+        if (words == 1) {
+            Database database = new Database();
+            database.createTable(this.word.getSourceWord(), this.word.getTargetWord(), this.word.getString(), this.word.getAudio(), selectTargetBox.getValue());
+            database.close();
+        } else {
+            System.err.println("Please enter a single word");
+        }
+    }
+
+    @FXML
+    void showBookMark(ActionEvent event) {
+        try {
+            FXMLLoader loader = new FXMLLoader(getClass().getResource("../../../fxml/Bookmark.fxml"));	
+		    Parent root1 = loader.load();	
+            Stage stage = new Stage();
+            Scene scene = new Scene(root1);
+            stage.setScene(scene);
+            stage.setTitle("Bookmark");
+            stage.getIcons().add(new javafx.scene.image.Image("file:src/main/resources/assert/icon.png"));
+            stage.show();
+            showBMButton.setDisable(true);
+            stage.setOnCloseRequest((WindowEvent) -> {
+                showBMButton.setDisable(false);
+            });
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
     @FXML
@@ -259,6 +288,7 @@ public class DashboardController implements Initializable{
         selectTargetBox.setValue("Vietnamese");
         sourceLang = languages.get(selectSourceBox.getValue());
         targetLang = languages.get(selectTargetBox.getValue());
+    
     }
 
 }

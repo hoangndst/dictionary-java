@@ -47,3 +47,25 @@
     -fx-background-insets: 0px;  
     -fx-text-fill: #bce4f9;
 }
+
+.list-cell {
+    -fx-background-color: #171d20;
+    -fx-background-radius: 3px;
+    -fx-text-fill: #bce4f9;
+    -fx-font-size: 15px;
+    -fx-font-family: "Segoe UI Regular";
+}
+
+.list-cell:filled:selected:focused, .list-cell:filled:selected {
+    -fx-background-color: linear-gradient(#328BDB 0%, #207BCF 25%, #1973C9 75%, #0A65BF 100%);
+    -fx-text-fill: white;
+}
+
+.list-cell:even {
+    -fx-background-color: #2a3439;
+}
+
+.list-cell:filled:hover {
+    -fx-background-color: #0093ff;
+    -fx-text-fill: white;
+}

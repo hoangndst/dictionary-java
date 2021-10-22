@@ -27,8 +27,8 @@
                         </ImageView>
                      </graphic>
                   </JFXButton>
-                  <JFXComboBox fx:id="selectSourceBox" focusColor="#405aa800" layoutX="257.0" layoutY="5.0" onAction="#selectSource" prefHeight="33.0" prefWidth="120.0" styleClass="combo-box-source" stylesheets="@../css/hyde.css" unFocusColor="#4d4d4d00" />
-                  <JFXComboBox fx:id="selectTargetBox" focusColor="#405aa800" layoutX="423.0" layoutY="5.0" onAction="#selectTarget" prefHeight="33.0" prefWidth="120.0" styleClass="combo-box-target" stylesheets="@../css/hyde.css" unFocusColor="#4d4d4d00" />
+                  <JFXComboBox fx:id="selectSourceBox" focusColor="#405aa800" layoutX="232.0" layoutY="5.0" onAction="#selectSource" prefHeight="33.0" prefWidth="145.0" styleClass="combo-box-source" stylesheets="@../css/hyde.css" unFocusColor="#4d4d4d00" />
+                  <JFXComboBox fx:id="selectTargetBox" focusColor="#405aa800" layoutX="423.0" layoutY="5.0" onAction="#selectTarget" prefHeight="33.0" prefWidth="145.0" styleClass="combo-box-target" stylesheets="@../css/hyde.css" unFocusColor="#4d4d4d00" />
                   <JFXButton fx:id="swapButton" ellipsisString="" graphicTextGap="0.0" layoutX="380.0" layoutY="5.0" onAction="#swap" prefHeight="33.0" prefWidth="40.0" ripplerFill="#bce4f7" styleClass="swap-button" stylesheets="@../css/hyde.css">
                      <graphic>
                         <ImageView fitHeight="18.0" fitWidth="18.0" pickOnBounds="true" preserveRatio="true">
@@ -56,6 +56,15 @@
                         </ImageView>
                      </graphic>
                   </JFXButton>
+                  <JFXButton fx:id="showBMButton" ellipsisString="" graphicTextGap="0.0" layoutX="687.0" layoutY="5.0" onAction="#showBookMark" prefHeight="34.0" prefWidth="35.0" ripplerFill="#bce4f9" styleClass="button-default">
+                     <graphic>
+                        <ImageView fitHeight="18.0" fitWidth="18.0" onDragDetected="#undo" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../assert/bookmark.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </JFXButton>
                </children>
             </Pane>
          </children>
@@ -71,6 +80,15 @@
                         <ImageView fitHeight="18.0" fitWidth="18.0" pickOnBounds="true" preserveRatio="true">
                            <image>
                               <Image url="@../assert/copy.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </JFXButton>
+                  <JFXButton fx:id="bookMarkButton" ellipsisString="" graphicTextGap="0.0" layoutX="14.0" layoutY="6.0" onAction="#bookMark" prefHeight="34.0" prefWidth="35.0" ripplerFill="#bce4f9" styleClass="button-default" text="Button">
+                     <graphic>
+                        <ImageView fitHeight="18.0" fitWidth="18.0" onDragDetected="#undo" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../assert/plus-circle.png" />
                            </image>
                         </ImageView>
                      </graphic>
@@ -108,7 +126,7 @@
                <children>
                   <VBox prefHeight="346.0" prefWidth="370.0">
                      <children>
-                        <JFXTextArea fx:id="InputTextField" focusColor="#405aa800" prefHeight="106.0" prefWidth="352.0" styleClass="input-text" unFocusColor="#4d4d4d00">
+                        <JFXTextArea fx:id="InputTextField" focusColor="#405aa800" prefHeight="203.0" prefWidth="370.0" styleClass="input-text" unFocusColor="#4d4d4d00">
                            <font>
                               <Font name="Segoe UI Bold" size="12.0" />
                            </font>
