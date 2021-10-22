@@ -29,8 +29,8 @@ public class Word {
      */
 
     public Word() {
-        this.sourceWord = "";
-        this.targetWord = "";
+        this.sourceWord = "null";
+        this.targetWord = "null";
     }
     
     /**

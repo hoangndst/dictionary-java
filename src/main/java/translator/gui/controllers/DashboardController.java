@@ -7,6 +7,7 @@ import com.jfoenix.controls.JFXTextArea;
 import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
+import java.util.Stack;
 
 import javafx.scene.media.Media;
 import javafx.scene.media.MediaPlayer;
@@ -33,6 +34,9 @@ public class DashboardController implements Initializable{
     private String sourceLang;
     private String targetLang;
     
+    private Stack <Word> history = new Stack<>();
+    private Stack <Word> future = new Stack<>();
+    private int historySize = 5;
 
     private final HashMap<String, String> languages = new HashMap<String, String>() {{
         put("English", "en");
@@ -144,17 +148,13 @@ public class DashboardController implements Initializable{
 
     @FXML
     void translate(ActionEvent event) {
-        run();
+        Trans();
+        update(false);
     }
 
     @FXML
     void outputText(MouseEvent event) {
     
-    }
-
-    @FXML
-    void redo(ActionEvent event) {
-
     }
 
     @FXML
@@ -214,8 +214,21 @@ public class DashboardController implements Initializable{
     }
 
     @FXML
-    void undo(MouseEvent event) {
+    void undo(ActionEvent event) {
+        if (history.size() > 0) {
+            future.push(this.word);
+            this.word = history.pop();
+            update(true);
+        }
+    }
 
+    @FXML
+    void redo(ActionEvent event) {
+        if (future.size() > 0) {
+            history.push(this.word);
+            this.word = future.pop();
+            update(true);
+        }
     }
 
     @FXML
@@ -239,19 +252,23 @@ public class DashboardController implements Initializable{
     }
 
     void Trans() {
-        stringTextArea.clear();
-        OutputTextArea.clear();
-        longOutputTextArea.clear();
+        if (!word.getSourceWord().equals("null")) {
+            future.clear();
+            history.push(this.word);
+        }
         Translate trans = new Translate(InputTextField.getText(), "", targetLang);
         trans.translateWord();
         this.word = trans.getWord();
     }
 
-    void run() {
-        System.out.println(InputTextField.getText());
+    void update(boolean flag) {
+        stringTextArea.clear();
+        OutputTextArea.clear();
+        longOutputTextArea.clear();
+        if (flag) {
+            InputTextField.setText(this.word.getSourceWord());
+        }
         int words = InputTextField.getText().split("\\s+").length;
-        System.out.println(words);
-        Trans();
         if (words == 1) {
             longOutputTextArea.setDisable(true);
             OutputTextArea.setText(this.word.getTargetWord());
@@ -266,15 +283,29 @@ public class DashboardController implements Initializable{
             longOutputTextArea.setDisable(false);
             longOutputTextArea.setText(this.word.getTargetWord());
         }
+
+        if (history.size() > 0) {
+            undoButton.setDisable(false);
+        } else {
+            undoButton.setDisable(true);
+        }
+
+        if (future.size() > 0) {
+            redoButton.setDisable(false);
+        } else {
+            redoButton.setDisable(true);
+        }
     }
 
     @Override
     public void initialize(URL arg0, ResourceBundle arg1) {
-
+        redoButton.setDisable(true);
+        undoButton.setDisable(true);
         InputTextField.setOnKeyPressed(event -> {
             if (event.isShiftDown()) {
                 if (event.getCode().equals(KeyCode.ENTER)) {
-                    run();
+                    Trans();
+                    update(false);
                     event.consume();
                 }
             }
