@@ -25,12 +25,15 @@
   </properties>
   <dependencies>
 
-    <!-- https://mvnrepository.com/artifact/org.fxmisc.richtext/richtextfx -->
+    <!-- https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc -->
     <dependency>
-      <groupId>org.fxmisc.richtext</groupId>
-      <artifactId>richtextfx</artifactId>
-      <version>0.4</version>
+      <groupId>org.xerial</groupId>
+      <artifactId>sqlite-jdbc</artifactId>
+      <version>3.36.0.3</version>
     </dependency>
+
+
+    <!-- https://mvnrepository.com/artifact/org.fxmisc.richtext/richtextfx -->
     
     <dependency>
       <groupId>org.openjfx</groupId>
