@@ -177,6 +177,11 @@ public class Word {
         this.synonyms = synonyms;
     }
 
+    /**
+     * String representation of Word.
+     * @return string representation of Word
+     */
+
     public String getString() {
         String result = "";
         try {
@@ -211,7 +216,5 @@ public class Word {
         }
         return result;
     }
-
-
 
 }

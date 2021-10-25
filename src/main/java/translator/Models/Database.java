@@ -5,9 +5,6 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.sql.Connection;
 import java.util.Date;
-
-import javafx.scene.Cursor;
-
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -19,7 +16,10 @@ public class Database {
     private Connection conn;
     private Statement stmt;
     private ResultSet rs;
-    private Cursor cursor;
+
+    /**
+     * Constructor 1.
+     */
 
     public Database() {
         try {
@@ -30,6 +30,10 @@ public class Database {
         }
     }
 
+    /**
+     *  Close the connection.
+     */
+
     public void close() {
         try {
             conn.close();
@@ -37,6 +41,15 @@ public class Database {
             System.out.println(e.getMessage());
         }
     }
+
+    /**
+     * Insert a new bookmark.
+     * @param source Source word
+     * @param target Target word 
+     * @param info information about word
+     * @param audio audio file url
+     * @param targetLang target language
+     */
 
     public void createTable(String source, String target, String info, String audio, String targetLang) {
         boolean tableExists = checkData(source, target);
@@ -58,6 +71,12 @@ public class Database {
         }
     }
 
+    /**
+     * Delete a bookmark.
+     * @param time time of bookmark
+     * @param source source word
+     */
+
     public void deleteTable(String time, String source) {
         try {
             PreparedStatement pstmt = conn.prepareStatement("DELETE FROM bookmark WHERE time = ? AND source = ?");
@@ -68,6 +87,11 @@ public class Database {
             System.out.println(e.getMessage());
         }
     }
+
+    /**
+     * Get all bookmarks.
+     * @return ArrayList of bookmarks
+     */
 
     public ArrayList<WordFromDB> getSourceList() {
         ArrayList<WordFromDB> sourceList = new ArrayList<>();
@@ -89,6 +113,12 @@ public class Database {
         return sourceList;
     }
 
+    /**
+     * Get bookmark by time and source word
+     * @param time time of bookmark
+     * @param source source word
+     */
+
     public String getTargetString(String time, String source) {
         String target = "";
         try {
@@ -104,6 +134,13 @@ public class Database {
         }
         return target;
     }
+
+    /**
+     * Get info of word by time and source word
+     * @param time time of bookmark
+     * @param source source word
+     * @return info of word
+     */
 
     public String getInfoString(String time, String source) {
         String info = "";
@@ -121,6 +158,12 @@ public class Database {
         return info;
     }
 
+    /**
+     * Get audio file url of word by time and source word
+     * @param source source word
+     * @return audio file url
+     */
+
     public String getAudioString(String source) {
         String audio = "";
         try {
@@ -133,6 +176,13 @@ public class Database {
         }
         return audio;
     }
+
+    /**
+     * Check if bookmark exists.
+     * @param source source word
+     * @param target target word
+     * @return true if bookmark exists
+     */
 
     public boolean checkData(String source, String target) {
         source = source.replace("\\s+", "").toLowerCase();
@@ -147,7 +197,7 @@ public class Database {
         return false; 
     }
 
-    String getTime() {
+    private String getTime() {
         Date date = new Date();
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         String time = sdf.format(date);
