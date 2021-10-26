@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import com.jfoenix.controls.JFXListView?>
+<?import com.jfoenix.controls.JFXTextArea?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="800.0" styleClass="sidebar" stylesheets="@../css/hyde.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="translator.gui.controllers.DashboardController">
+   <top>
+      <AnchorPane prefHeight="50.0" prefWidth="800.0" styleClass="sidebar" BorderPane.alignment="CENTER">
+         <children>
+            <Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="42.0" prefWidth="800.0" styleClass="trans" stylesheets="@../css/selectLang.css">
+               <children>
+                  <JFXButton fx:id="aboutButton" ellipsisString="" graphicTextGap="0.0" layoutX="730.0" layoutY="5.0" onAction="#about" prefHeight="34.0" prefWidth="35.0" ripplerFill="#bce4f9" styleClass="button-default">
+                     <graphic>
+                        <ImageView fitHeight="18.0" fitWidth="18.0" onDragDetected="#undo" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../assert/info.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </JFXButton>
+                  <JFXComboBox fx:id="selectSourceBox" focusColor="#405aa800" layoutX="232.0" layoutY="5.0" onAction="#selectSource" prefHeight="33.0" prefWidth="145.0" styleClass="combo-box-source" stylesheets="@../css/hyde.css" unFocusColor="#4d4d4d00" />
+                  <JFXComboBox fx:id="selectTargetBox" focusColor="#405aa800" layoutX="423.0" layoutY="5.0" onAction="#selectTarget" prefHeight="33.0" prefWidth="145.0" styleClass="combo-box-target" stylesheets="@../css/hyde.css" unFocusColor="#4d4d4d00" />
+                  <JFXButton fx:id="swapButton" ellipsisString="" graphicTextGap="0.0" layoutX="380.0" layoutY="5.0" onAction="#swap" prefHeight="33.0" prefWidth="40.0" ripplerFill="#bce4f7" styleClass="swap-button" stylesheets="@../css/hyde.css">
+                     <graphic>
+                        <ImageView fitHeight="18.0" fitWidth="18.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../assert/code.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </JFXButton>
+                  <JFXButton fx:id="undoButton" ellipsisString="" graphicTextGap="0.0" layoutX="22.0" layoutY="5.0" onAction="#undo" prefHeight="33.0" prefWidth="40.0" ripplerFill="#bce4f7" styleClass="combo-box-source" stylesheets="@../css/hyde.css">
+                     <graphic>
+                        <ImageView fitHeight="18.0" fitWidth="18.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../assert/arrow-left.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </JFXButton>
+                  <JFXButton fx:id="redoButton" ellipsisString="" graphicTextGap="0.0" layoutX="62.0" layoutY="5.0" onAction="#redo" prefHeight="33.0" prefWidth="40.0" ripplerFill="#bce4f7" styleClass="combo-box-target" stylesheets="@../css/hyde.css">
+                     <graphic>
+                        <ImageView fitHeight="18.0" fitWidth="18.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../assert/arrow-right.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </JFXButton>
+                  <JFXButton fx:id="showBMButton" ellipsisString="" graphicTextGap="0.0" layoutX="687.0" layoutY="5.0" onAction="#showBookMark" prefHeight="34.0" prefWidth="35.0" ripplerFill="#bce4f9" styleClass="button-default">
+                     <graphic>
+                        <ImageView fitHeight="18.0" fitWidth="18.0" onDragDetected="#undo" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../assert/bookmark.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </JFXButton>
+               </children>
+            </Pane>
+         </children>
+      </AnchorPane>
+   </top>
+   <center>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <children>
+            <AnchorPane layoutX="407.0" layoutY="382.0" prefHeight="47.0" prefWidth="370.0" styleClass="bottom-bar">
+               <children>
+                  <JFXButton fx:id="copyTargetButton" ellipsisString="" graphicTextGap="0.0" layoutX="320.0" layoutY="6.0" onAction="#copyTarget" prefHeight="34.0" prefWidth="35.0" ripplerFill="#bce4f9" styleClass="button-default">
+                     <graphic>
+                        <ImageView fitHeight="18.0" fitWidth="18.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../assert/copy.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </JFXButton>
+                  <JFXButton fx:id="bookMarkButton" ellipsisString="" graphicTextGap="0.0" layoutX="14.0" layoutY="6.0" onAction="#bookMark" prefHeight="34.0" prefWidth="35.0" ripplerFill="#bce4f9" styleClass="button-default" text="Button">
+                     <graphic>
+                        <ImageView fitHeight="18.0" fitWidth="18.0" onDragDetected="#undo" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../assert/plus-circle.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </JFXButton>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="21.0" layoutY="382.0" prefHeight="47.0" prefWidth="370.0" styleClass="bottom-bar">
+               <children>
+                  <JFXButton fx:id="copySourceButton" ellipsisString="" graphicTextGap="0.0" layoutX="12.0" layoutY="6.0" onAction="#copySource" prefHeight="34.0" prefWidth="35.0" ripplerFill="#bce4f9" styleClass="button-default">
+                     <graphic>
+                        <ImageView fitHeight="18.0" fitWidth="18.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../assert/copy.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </JFXButton>
+                  <JFXButton fx:id="audioButton" ellipsisString="" graphicTextGap="0.0" layoutX="59.0" layoutY="6.0" onAction="#audio" prefHeight="34.0" prefWidth="35.0" ripplerFill="#bce4f9" styleClass="button-default">
+                     <graphic>
+                        <ImageView fitHeight="18.0" fitWidth="18.0" onDragDetected="#undo" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../assert/headphones.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </JFXButton>
+                  <JFXButton fx:id="translateButton" ellipsisString="" graphicTextGap="0.0" layoutX="238.0" layoutY="6.0" onAction="#translate" prefHeight="34.0" prefWidth="118.0" ripplerFill="#bce4f9" styleClass="button-default" text="Translate">
+                     <font>
+                        <Font name="Segoe UI Bold" size="14.0" />
+                     </font>
+                  </JFXButton>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="21.0" layoutY="11.0" prefHeight="349.0" prefWidth="370.0">
+               <children>
+                  <VBox prefHeight="346.0" prefWidth="370.0">
+                     <children>
+                        <JFXTextArea fx:id="InputTextField" focusColor="#405aa800" prefHeight="203.0" prefWidth="370.0" styleClass="input-text" unFocusColor="#4d4d4d00">
+                           <font>
+                              <Font name="Segoe UI Bold" size="14.0" />
+                           </font>
+                        </JFXTextArea>
+                        <JFXListView fx:id="textListViewBox" onEditStart="#textListView" prefHeight="310.0" prefWidth="365.0" styleClass="sidebar" stylesheets="@../css/hyde.css" />
+                     </children>
+                  </VBox>
+               </children>
+            </AnchorPane>
+            <AnchorPane layoutX="407.0" layoutY="11.0" prefHeight="358.0" prefWidth="369.0" styleClass="output-text" stylesheets="@../css/hyde.css">
+               <children>
+                  <JFXTextArea fx:id="stringTextArea" editable="false" focusColor="#405aa800" layoutX="27.0" layoutY="66.0" prefHeight="286.0" prefWidth="338.0" styleClass="output-text" stylesheets="@../css/hyde.css" unFocusColor="#4d4d4d00">
+                     <font>
+                        <Font name="Segoe UI" size="14.0" />
+                     </font>
+                  </JFXTextArea>
+                  <JFXTextArea fx:id="OutputTextArea" editable="false" focusColor="#405aa800" layoutX="14.0" layoutY="14.0" onDragDetected="#outputText" prefHeight="36.0" prefWidth="354.0" styleClass="output-text" stylesheets="@../css/hyde.css" unFocusColor="#4d4d4d00" wrapText="true">
+                     <font>
+                        <Font name="Segoe UI Bold" size="20.0" />
+                     </font>
+                  </JFXTextArea>
+                  <JFXTextArea fx:id="longOutputTextArea" editable="false" focusColor="#405aa800" layoutX="15.0" layoutY="14.0" prefHeight="328.0" prefWidth="347.0" styleClass="trans" unFocusColor="#ffffff00">
+                     <font>
+                        <Font size="14.0" />
+                     </font>
+                  </JFXTextArea>
+               </children>
+            </AnchorPane>
+         </children>
+      </AnchorPane>
+   </center>
+</BorderPane>

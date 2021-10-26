@@ -1,19 +1,22 @@
 <br />
 <div align="center">
+<<<<<<< HEAD
   <a href="https://github.com/hoangndst/dictionary-java#readme">
     <img src="src/main/resources/assert/icon.png" alt="Logo" width="80" height="80">
   </a>
 
+=======
+  <img src="src/main/resources/assert/icon.png" alt="icon" width="80" height="80">
+>>>>>>> 70f10aeadd2242c29ed094d724f099b4da529ee9
   <h3 align="center"><strong>Dictionary</strong></h3>
-
   <p align="center">
     Multiple languages dictionary. OOP Project. <a href="https://uet.vnu.edu.vn/" target="_blank"><strong>UET-VNU</strong></a>
     <br />
-    <a href="https://github.com/hoangndst/dictionary-java#readme"><strong>Explore the docs</strong></a>
+    <a href="https://github.com/hoangndst/dictionary-java#readme target="_blank""><strong>Explore the docs</strong></a>
     <br />
-    <a href="https://github.com/hoangndst/dictionary-java#readme">View Demo</a>
+    <a href="https://github.com/hoangndst/dictionary-java#readme target="_blank"">View Demo</a>
     ·
-    <a href="https://github.com/hoangndst/dictionary-java/issues">Report Bug</a>
+    <a href="https://github.com/hoangndst/dictionary-java/issues target="_blank"">Report Bug</a>
 </div>
 
 
