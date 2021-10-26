@@ -54,7 +54,7 @@ public class DictionaryCommandline {
     Dictionary dict = new Dictionary();
     boolean out = false;
     while (!out) {
-      System.out.println("\t\t\tDictionary CLI");
+      System.out.println("\t\t\tDictionary CommandLine");
       System.out.println("1. Show all words in dictionary");
       System.out.println("2. Sync with dictionary data file");
       System.out.println("3. Translate");
