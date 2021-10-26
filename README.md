@@ -1,13 +1,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/hoangndst/dictionary-java#readme">
-    <img src="src\main\resources\assert\icon.png" alt="Logo" width="80" height="80">
+    <img src="src/main/resources/assert/icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center"><strong>Dictionary</strong></h3>
 
   <p align="center">
-    Multiple languages dictionary. OOP Project. <a href="https://uet.vnu.edu.vn/"><strong>UET-VNU</strong></a>
+    Multiple languages dictionary. OOP Project. <a href="https://uet.vnu.edu.vn/" target="_blank"><strong>UET-VNU</strong></a>
     <br />
     <a href="https://github.com/hoangndst/dictionary-java#readme"><strong>Explore the docs</strong></a>
     <br />
