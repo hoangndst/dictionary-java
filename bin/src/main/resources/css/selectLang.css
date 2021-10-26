@@ -1,0 +1,75 @@
+
+.trans {
+    background: transparent;
+    background-color: transparent;
+    -fx-background: transparent; 
+    -fx-background-color: transparent;     
+}
+
+.sidebar {
+    background-color: #1e2529;
+    -fx-background-color: #1e2529;
+    -fx-background-radius: 0px;
+}
+
+.combo-box-source {
+    background-color: #2a3439;
+    -fx-background-color: #2a3439;
+    -fx-background-radius: 8px 0px 0px 8px;
+}
+
+.combo-box-target {
+    background-color: #2a3439;
+    -fx-background-color: #2a3439;
+    -fx-text-fill: #ffffff;
+    -fx-background-radius: 0px 8px 8px 0px;
+}
+
+.combo-box-popup .list-view {
+    background-color: #2a3439;
+    -fx-background-color: #2a3439;
+}
+
+.combo-box .arrow {
+    background-color: #bce4f9;
+    -fx-background-color: #bce4f9;
+    
+}
+
+.combo-box .cell {
+    background-color: #2a3439;
+    -fx-background-color: #2a3439;
+    -fx-text-fill: #bce4f9;
+    -fx-background-radius: 8px 0px 0px 8px;
+    font: bold 14px "Segoe UI";
+    -fx-font: bold 14px "Segoe UI";
+}
+
+.combo-box .list-cell {
+    background-color: #2a3439;
+    -fx-background-color: #2a3439;
+    -fx-text-fill: #bce4f9;
+    -fx-background-radius: 8px 0px 0px 8px;
+}
+
+.swap-button {
+    background-color: #2a3439;
+    -fx-background-color: #2a3439;
+    -fx-background-radius: 0px;
+}
+
+.swap-button:hover {
+    background-color: #414d53;
+    -fx-background-color: #414d53;
+}
+
+.combo-box-popup .list-cell:hover {
+    background-color: #414d53;
+    -fx-background-color: #414d53;
+}
+
+.combo-box-popup .list-cell:hover .cell {
+    background-color: #414d53;
+    -fx-background-color: #414d53;
+    -fx-background-radius: 8px 0px 0px 8px;
+}

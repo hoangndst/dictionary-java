@@ -4,217 +4,235 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Word {
-    private String sourceWord;
-    private String targetWord;
-    private String audio;
-    private String pronounce;
-    private List<String> type = new ArrayList<String>();
-    private List<String> definition = new ArrayList<String>();
-    private List<String> example = new ArrayList<String>();
-    private List<List<String>> synonyms = new ArrayList<List<String>>();
+  private String sourceWord;
+  private String targetWord;
+  private String audio;
+  private String pronounce;
+  private List<String> type = new ArrayList<String>();
+  private List<String> definition = new ArrayList<String>();
+  private List<String> example = new ArrayList<String>();
+  private List<List<String>> synonyms = new ArrayList<List<String>>();
 
-    /**
-     * Constructor 1.
-     * @param sourceWord source word
-     * @param targetWord target word
-     */
+  /**
+   * Constructor 1.
+   * 
+   * @param sourceWord source word
+   * @param targetWord target word
+   */
 
-    public Word(String sourceWord, String targetWord) {
-        this.sourceWord = sourceWord.trim().toLowerCase();
-        this.targetWord = targetWord.trim().toLowerCase();
-    }
+  public Word(String sourceWord, String targetWord) {
+    this.sourceWord = sourceWord.trim().toLowerCase();
+    this.targetWord = targetWord.trim().toLowerCase();
+  }
 
-    /**
-     * Constructor 2.
-     */
+  /**
+   * Constructor 2.
+   */
 
-    public Word() {
-        this.sourceWord = "null";
-        this.targetWord = "null";
-    }
-    
-    /**
-     * Get source word.
-     * @return source word
-     */
+  public Word() {
+    this.sourceWord = "null";
+    this.targetWord = "null";
+  }
 
-    public String getSourceWord() {
-        return sourceWord;
-    }
+  /**
+   * Get source word.
+   * 
+   * @return source word
+   */
 
-    /**
-     * Set source word.
-     * @param sourceWord source word
-     */
+  public String getSourceWord() {
+    return sourceWord;
+  }
 
-    public void setSourceWord(String sourceWord) {
-        this.sourceWord = sourceWord;
-    }
+  /**
+   * Set source word.
+   * 
+   * @param sourceWord source word
+   */
 
-    /**
-     * Get target word.
-     * @return target word
-     */
+  public void setSourceWord(String sourceWord) {
+    this.sourceWord = sourceWord;
+  }
 
-    public String getTargetWord() { 
-        return targetWord; 
-    }
+  /**
+   * Get target word.
+   * 
+   * @return target word
+   */
 
-    /**
-     * Set target word.
-     * @param targetWord target word
-     */
+  public String getTargetWord() {
+    return targetWord;
+  }
 
-    public void setTargetWord(String targetWord) {
-        this.targetWord = targetWord;
-    }
+  /**
+   * Set target word.
+   * 
+   * @param targetWord target word
+   */
 
-    /**
-     * Get audio URL.
-     * @return audio URL
-     */
+  public void setTargetWord(String targetWord) {
+    this.targetWord = targetWord;
+  }
 
-    public String getAudio() {
-        return audio;
-    }
+  /**
+   * Get audio URL.
+   * 
+   * @return audio URL
+   */
 
-    /**
-     * Set audio URL.
-     * @param audio audio URL
-     */
+  public String getAudio() {
+    return audio;
+  }
 
-    public void setAudio(String audio) {
-        this.audio = audio;
-    }
+  /**
+   * Set audio URL.
+   * 
+   * @param audio audio URL
+   */
 
-    /**
-     * Get pronounce.
-     * @return pronounce
-     */
+  public void setAudio(String audio) {
+    this.audio = audio;
+  }
 
-    public String getPronounce() {
-        return pronounce;
-    }
+  /**
+   * Get pronounce.
+   * 
+   * @return pronounce
+   */
 
-    /**
-     * Set pronounce.
-     * @param pronounce pronounce
-     */
+  public String getPronounce() {
+    return pronounce;
+  }
 
-    public void setPronounce(String pronounce) {
-        this.pronounce = pronounce;
-    }
+  /**
+   * Set pronounce.
+   * 
+   * @param pronounce pronounce
+   */
 
-    /**
-     * Get type.
-     * @return type
-     */
+  public void setPronounce(String pronounce) {
+    this.pronounce = pronounce;
+  }
 
-    public List<String> getType() {
-        return type;
-    }
+  /**
+   * Get type.
+   * 
+   * @return type
+   */
 
-    /**
-     * Set type.
-     * @param type type
-     */
+  public List<String> getType() {
+    return type;
+  }
 
-    public void setType(List<String> type) {
-        this.type = type;
-    }
+  /**
+   * Set type.
+   * 
+   * @param type type
+   */
 
-    /**
-     * Get definition.
-     * @return definition
-     */
+  public void setType(List<String> type) {
+    this.type = type;
+  }
 
-    public List<String> getDefinition() {
-        return definition;
-    }
+  /**
+   * Get definition.
+   * 
+   * @return definition
+   */
 
-    /**
-     * Set definition.
-     * @param definition definition
-     */
+  public List<String> getDefinition() {
+    return definition;
+  }
 
-    public void setDefinition(List<String> definition) {
-        this.definition = definition;
-    }
+  /**
+   * Set definition.
+   * 
+   * @param definition definition
+   */
 
-    /**
-     * Get example.
-     * @return example
-     */
+  public void setDefinition(List<String> definition) {
+    this.definition = definition;
+  }
 
-    public List<String> getExample() {
-        return example;
-    }
+  /**
+   * Get example.
+   * 
+   * @return example
+   */
 
-    /**
-     * Set example.
-     * @param example example
-     */
+  public List<String> getExample() {
+    return example;
+  }
 
-    public void setExample(List<String> example) {
-        this.example = example;
-    }
+  /**
+   * Set example.
+   * 
+   * @param example example
+   */
 
-    /**
-     * Get synonyms.
-     * @return synonyms
-     */
+  public void setExample(List<String> example) {
+    this.example = example;
+  }
 
-    public List<List<String>> getSynonyms() {
-        return synonyms;
-    }
+  /**
+   * Get synonyms.
+   * 
+   * @return synonyms
+   */
 
-    /**
-     * Set synonyms.
-     * @param synonyms synonyms
-     */
+  public List<List<String>> getSynonyms() {
+    return synonyms;
+  }
 
-    public void setSynonyms(List<List<String>> synonyms) {
-        this.synonyms = synonyms;
-    }
+  /**
+   * Set synonyms.
+   * 
+   * @param synonyms synonyms
+   */
 
-    /**
-     * String representation of Word.
-     * @return string representation of Word
-     */
+  public void setSynonyms(List<List<String>> synonyms) {
+    this.synonyms = synonyms;
+  }
 
-    public String getString() {
-        String result = "";
-        try {
-            if (!this.type.equals(null)) {
-                result += "Type: " + type.get(0) + ".\n\n";
-                result += "Pronounce: /" + pronounce + "/\n\n";
-                if (!this.definition.get(0).isEmpty()) {
-                    result += "Definition: " + definition.get(0) + "\n\n";
-                }
-                if (!this.example.equals(null)) {
-                    String e = example.get(0);
-                    if (!e.equals("null")) {
-                        result += "Example: " + example.get(0) + ".\n\n";
-                    }
-                }
-                if (!this.synonyms.equals(null)) {
-                    String sysString = "";
-                    for (int i = 0; i < synonyms.get(0).size(); i++) {
-                        if (i == synonyms.get(0).size() - 1) {
-                            sysString += synonyms.get(0).get(i) + ".";
-                        } else {
-                            sysString += synonyms.get(0).get(i) + ", ";
-                        }
-                    }
-                    if (!sysString.equals("")) {
-                        result += "Synonyms: " + sysString + "\n";
-                    }
-                }
-            }
-        } catch (Exception e) {
-            result = "";
+  /**
+   * String representation of Word.
+   * 
+   * @return string representation of Word
+   */
+
+  public String getString() {
+    String result = "";
+    try {
+      if (!this.type.equals(null)) {
+        result += "Type: " + type.get(0) + ".\n\n";
+        result += "Pronounce: /" + pronounce + "/\n\n";
+        if (!this.definition.get(0).isEmpty()) {
+          result += "Definition: " + definition.get(0) + "\n\n";
         }
-        return result;
+        if (!this.example.equals(null)) {
+          String e = example.get(0);
+          if (!e.equals("null")) {
+            result += "Example: " + example.get(0) + ".\n\n";
+          }
+        }
+        if (!this.synonyms.equals(null)) {
+          String sysString = "";
+          for (int i = 0; i < synonyms.get(0).size(); i++) {
+            if (i == synonyms.get(0).size() - 1) {
+              sysString += synonyms.get(0).get(i) + ".";
+            } else {
+              sysString += synonyms.get(0).get(i) + ", ";
+            }
+          }
+          if (!sysString.equals("")) {
+            result += "Synonyms: " + sysString + "\n";
+          }
+        }
+      }
+    } catch (Exception e) {
+      result = "";
     }
+    return result;
+  }
 
 }

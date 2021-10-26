@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="AboutPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" onDragDetected="#AboutPaneClick" prefHeight="300.0" prefWidth="500.0" styleClass="sidebar" stylesheets="@../css/hyde.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="translator.gui.controllers.AboutController">
+   <children>
+      <Pane layoutX="10.0" layoutY="10.0" prefHeight="280.0" prefWidth="480.0" styleClass="input-text">
+         <children>
+            <GridPane layoutX="110.0" layoutY="112.0" prefHeight="91.0" prefWidth="260.0">
+              <columnConstraints>
+                <ColumnConstraints halignment="LEFT" hgrow="SOMETIMES" maxWidth="125.20001220703125" minWidth="10.0" prefWidth="109.20001220703125" />
+                <ColumnConstraints halignment="RIGHT" hgrow="SOMETIMES" maxWidth="158.0" minWidth="10.0" prefWidth="150.79998779296875" />
+              </columnConstraints>
+              <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+              </rowConstraints>
+               <children>
+                  <Label text="Version:" textFill="#bce4f9">
+                     <font>
+                        <Font name="Segoe UI" size="14.0" />
+                     </font>
+                  </Label>
+                  <Label text="1.0" textFill="#bce4f9" GridPane.columnIndex="1">
+                     <font>
+                        <Font name="Segoe UI" size="14.0" />
+                     </font>
+                  </Label>
+                  <Label text="Author:" textFill="#bce4f9" GridPane.rowIndex="1">
+                     <font>
+                        <Font name="Segoe UI" size="14.0" />
+                     </font>
+                  </Label>
+                  <Label prefHeight="18.0" prefWidth="111.0" text="hoangndst, naslth" textAlignment="CENTER" textFill="#bce4f9" GridPane.columnIndex="1" GridPane.halignment="RIGHT" GridPane.hgrow="SOMETIMES" GridPane.rowIndex="1">
+                     <font>
+                        <Font name="Segoe UI" size="14.0" />
+                     </font>
+                  </Label>
+               </children>
+            </GridPane>
+            <Hyperlink fx:id="reportBug" layoutX="204.0" layoutY="213.0" text="Report Bug">
+               <font>
+                  <Font name="Segoe UI Bold" size="12.0" />
+               </font>
+            </Hyperlink>
+         </children>
+      </Pane>
+      <ImageView fitHeight="71.0" fitWidth="56.0" layoutX="222.0" layoutY="31.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../assert/icon.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="213.0" layoutY="96.0" text="JDictionary" textFill="#bce4f9">
+         <font>
+            <Font name="Segoe UI Bold" size="14.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
