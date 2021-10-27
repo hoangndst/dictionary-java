@@ -4,6 +4,8 @@ import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXComboBox;
 import com.jfoenix.controls.JFXListView;
 import com.jfoenix.controls.JFXTextArea;
+
+import java.io.File;
 import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
@@ -171,8 +173,9 @@ public class DashboardController implements Initializable{
     @FXML
     void showBookMark(ActionEvent event) {
         try {
-            FXMLLoader loader = new FXMLLoader(getClass().getResource("../../../fxml/Bookmark.fxml"));	
-		    Parent root1 = loader.load();	
+            // FXMLLoader loader = new FXMLLoader(new File("C:/Users/hoang/Desktop/code/dictionary-java/src/main/resources/fxml/Bookmark.fxml").toURI().toURL());	
+		    FXMLLoader loader = new FXMLLoader(getClass().getResource("../../../fxml/Bookmark.fxml"));
+            Parent root1 = loader.load();	
             Stage stage = new Stage();
             Scene scene = new Scene(root1);
             stage.setScene(scene);
@@ -234,8 +237,9 @@ public class DashboardController implements Initializable{
     @FXML
     void about(ActionEvent event) {
         try {
-            FXMLLoader loader = new FXMLLoader(getClass().getResource("../../../fxml/About.fxml"));	
-		    Parent root1 = loader.load();	
+            // FXMLLoader loader = new FXMLLoader(new File("C:/Users/hoang/Desktop/code/dictionary-java/src/main/resources/fxml/About.fxml").toURI().toURL());	
+		    FXMLLoader loader = new FXMLLoader(getClass().getResource("../../../fxml/About.fxml"));
+            Parent root1 = loader.load();	
             Stage stage = new Stage();
             Scene scene = new Scene(root1);
             stage.setScene(scene);

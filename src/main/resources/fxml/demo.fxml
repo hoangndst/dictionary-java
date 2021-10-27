@@ -150,7 +150,7 @@
                   </JFXTextArea>
                   <JFXTextArea fx:id="longOutputTextArea" editable="false" focusColor="#405aa800" layoutX="15.0" layoutY="14.0" prefHeight="328.0" prefWidth="347.0" styleClass="trans" unFocusColor="#ffffff00">
                      <font>
-                        <Font size="14.0" />
+                        <Font name="Segoe UI" size="18.0" />
                      </font>
                   </JFXTextArea>
                </children>
