@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/hoangndst/dictionary-java#readme">
-    <img src="src\main\resources\assert\icon.png" alt="Logo" width="80" height="80">
+    <img src="src/main/resources/assert/icon.png" alt="icon" width="80" height="80">
   </a>
 
   <h3 align="center"><strong>Dictionary</strong></h3>
