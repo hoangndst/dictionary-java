@@ -1,37 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@hoangndst 
-hoangndst
-/
-dictionary-java
-Private
-1
-0
-0
-Code
-Issues
-Pull requests
-1
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-dictionary-java/src/main/java/translator/gui/controllers/DashboardController.java /
-@naslth
-naslth fix typo
-Latest commit 5bab94e 18 hours ago
- History
- 2 contributors
-@hoangndst@naslth
-336 lines (284 sloc)  8.33 KB
-   
 package translator.gui.controllers;
 
 import java.io.IOException;
@@ -368,16 +334,3 @@ public class DashboardController implements Initializable {
   }
 
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
