@@ -1,4 +1,3 @@
-
 package translator.gui.controllers;
 
 import java.io.IOException;
