@@ -25,6 +25,7 @@ import javafx.stage.Stage;
 import translator.Models.Database;
 import translator.Models.Word;
 import translator.api.Translate;
+import java.io.File;
 
 public class DashboardController implements Initializable {
 
@@ -172,8 +173,9 @@ public class DashboardController implements Initializable {
   @FXML
   void showBookMark(ActionEvent event) {
     try {
-      FXMLLoader loader = new FXMLLoader(getClass().getResource("../../../fxml/Bookmark.fxml"));
-      Parent root1 = loader.load();
+	  //   FXMLLoader loader = new FXMLLoader(new File("C:/Users/hoang/Desktop/code/dictionary-java/src/main/resources/fxml/Bookmark.fxml").toURI().toURL());
+	  FXMLLoader loader = new FXMLLoader(getClass().getResource("../../../fxml/Bookmark.fxml"));
+	  Parent root1 = loader.load();
       Stage stage = new Stage();
       Scene scene = new Scene(root1);
       stage.setScene(scene);
@@ -235,6 +237,7 @@ public class DashboardController implements Initializable {
   @FXML
   void about(ActionEvent event) {
     try {
+	//   FXMLLoader loader = new FXMLLoader(new File("C:/Users/hoang/Desktop/code/dictionary-java/src/main/resources/fxml/About.fxml").toURI().toURL());
       FXMLLoader loader = new FXMLLoader(getClass().getResource("../../../fxml/About.fxml"));
       Parent root1 = loader.load();
       Stage stage = new Stage();
@@ -309,7 +312,7 @@ public class DashboardController implements Initializable {
 
   @Override
   public void initialize(URL arg0, ResourceBundle arg1) {
-    redoButton.setDisable(true);
+	redoButton.setDisable(true);
     undoButton.setDisable(true);
     bookMarkButton.setDisable(true);
     InputTextField.setOnKeyPressed(event -> {
