@@ -96,7 +96,7 @@ public class TranslateAPI {
     return jsonObject;
   }
 
-  public static void main(String[] args) {
+  public static void main(String[] args) throws UnsupportedEncodingException {
     TranslateAPI translateAPI = new TranslateAPI("hello", "en", "vi");
     JSONObject jsonObject = translateAPI.getJsonObject();
     List<String> example = new ArrayList<String>();
