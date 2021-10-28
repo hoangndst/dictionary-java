@@ -15,6 +15,8 @@ import javafx.fxml.FXMLLoader;
 import javafx.fxml.Initializable;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
+import javafx.scene.control.Alert;
+import javafx.scene.control.Alert.AlertType;
 import javafx.scene.input.Clipboard;
 import javafx.scene.input.ClipboardContent;
 import javafx.scene.input.KeyCode;
@@ -164,8 +166,21 @@ public class DashboardController implements Initializable {
       database.createTable(this.word.getSourceWord(), this.word.getTargetWord(),
           this.word.getString(), this.word.getAudio(), selectTargetBox.getValue());
       database.close();
+      Alert alert = new Alert(AlertType.INFORMATION);
+      alert.setTitle("MESSAGE");
+      alert.setHeaderText(null);
+      alert.setContentText("The word has been added to the bookmark");
+      ((Stage) alert.getDialogPane().getScene().getWindow()).getIcons()
+          .add(new javafx.scene.image.Image("file:src/main/resources/assert/mess.png"));
+      alert.showAndWait();
     } else {
-      System.err.println("Please enter a single word");
+      Alert alert = new Alert(AlertType.ERROR);
+      alert.setTitle("ERROR");
+      alert.setHeaderText(null);
+      alert.setContentText("Please enter a single word");
+      ((Stage) alert.getDialogPane().getScene().getWindow()).getIcons()
+          .add(new javafx.scene.image.Image("file:src/main/resources/assert/error.png"));
+      alert.showAndWait();
     }
   }
 
