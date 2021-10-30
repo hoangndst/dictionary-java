@@ -123,7 +123,7 @@ public class DashboardController implements Initializable {
 	@FXML
 	private JFXButton undoButton;
 
-  @FXML
+	@FXML
 	void audio(ActionEvent event) {
 		String URL = "https:" + this.word.getAudio();
 		Media sound = new Media(URL);
@@ -233,18 +233,18 @@ public class DashboardController implements Initializable {
 	@FXML
 	void undo(ActionEvent event) {
 		if (history.size() > 0) {
-		future.push(this.word);
-		this.word = history.pop();
-		update(true);
+			future.push(this.word);
+			this.word = history.pop();
+			update(true);
 		}
 	}
 
 	@FXML
 	void redo(ActionEvent event) {
 		if (future.size() > 0) {
-		history.push(this.word);
-		this.word = future.pop();
-		update(true);
+			history.push(this.word);
+			this.word = future.pop();
+			update(true);
 		}
 	}
 
@@ -271,8 +271,8 @@ public class DashboardController implements Initializable {
 
 	void Trans() {
 		if (!word.getSourceWord().equals("null")) {
-		future.clear();
-		history.push(this.word);
+			future.clear();
+			history.push(this.word);
 		}
 		String source = InputTextField.getText().trim();
 		Translate trans = new Translate(source, "", targetLang);
@@ -285,41 +285,41 @@ public class DashboardController implements Initializable {
 		OutputTextArea.clear();
 		longOutputTextArea.clear();
 		if (flag) {
-		InputTextField.setText(this.word.getSourceWord());
+			InputTextField.setText(this.word.getSourceWord());
 		}
 		int words = this.word.getSourceWord().split("\\s+").length;
 		if (words == 1) {
-		longOutputTextArea.setDisable(true);
-		OutputTextArea.setText(this.word.getTargetWord());
-		stringTextArea.setText(this.word.getString());
+			longOutputTextArea.setDisable(true);
+			OutputTextArea.setText(this.word.getTargetWord());
+			stringTextArea.setText(this.word.getString());
 		if (!this.word.getAudio().equals("none")) {
 			audioButton.setDisable(false);
 		} else {
 			audioButton.setDisable(true);
 		}
 		} else {
-		audioButton.setDisable(true);
-		longOutputTextArea.setDisable(false);
-		longOutputTextArea.setText(this.word.getTargetWord());
+			audioButton.setDisable(true);
+			longOutputTextArea.setDisable(false);
+			longOutputTextArea.setText(this.word.getTargetWord());
 		}
 
 		if (history.size() > 0) {
-		undoButton.setDisable(false);
+			undoButton.setDisable(false);
 		} else {
-		undoButton.setDisable(true);
+			undoButton.setDisable(true);
 		}
 
 		if (future.size() > 0) {
-		redoButton.setDisable(false);
+			redoButton.setDisable(false);
 		} else {
-		redoButton.setDisable(true);
+			redoButton.setDisable(true);
 		}
 		String target = this.word.getTargetWord();
 		target = target.replaceAll("\\s+", "");
 		if (!target.equals("") && !target.equals("null")) {
-		bookMarkButton.setDisable(false);
+			bookMarkButton.setDisable(false);
 		} else {
-		bookMarkButton.setDisable(true);
+			bookMarkButton.setDisable(true);
 		}
 	}
 
