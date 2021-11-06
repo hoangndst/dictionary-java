@@ -61,6 +61,11 @@ One word can have multiple bookmark with different language.
 
 ![bm](demo/bookmark.png)
 
+### Edit Word
+Edit word, pronunciation, definition, synonym, example, ... 
+
+![GUI Demo](demo/edit.png)
+
 ## Translate API 
 Results obtained after calling Translate API
 
@@ -117,10 +122,15 @@ Results obtained after calling Translate API
   CREATE TABLE "bookmark" (
 	"time"	TEXT,
 	"source"	TEXT,
-	"target"	TEXT, 
-    "info"	TEXT, 
-    "audio"	TEXT, 
-    "targetLang"	TEXT)
+	"target"	TEXT,
+	"audio" TEXT,
+	"pronounce"	TEXT,
+	"type"	TEXT,
+	"definition"	TEXT,
+	"example"	TEXT,
+	"synonyms"	TEXT,
+	"targetLang"	TEXT
+  );
   ```
   
   ![db](demo/sql.png)
