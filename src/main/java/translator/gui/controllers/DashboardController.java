@@ -162,27 +162,36 @@ public class DashboardController implements Initializable {
 	@FXML
 	void bookMark(ActionEvent event) {
 		int words = this.word.getSourceWord().split("\\s+").length;
+		Database database = new Database();
 		if (words == 1) {
-			Database database = new Database();
-			database.createTable(this.word.getSourceWord(), this.word.getTargetWord(),
-				this.word.getString(), this.word.getAudio(), selectTargetBox.getValue());
-			database.close();
-			Alert alert = new Alert(AlertType.INFORMATION);
-			alert.setTitle("MESSAGE");
-			alert.setHeaderText(null);
-			alert.setContentText("The word has been added to the bookmark");
-			((Stage) alert.getDialogPane().getScene().getWindow()).getIcons()
-				.add(new javafx.scene.image.Image("file:src/main/resources/assert/mess.png"));
-			alert.showAndWait();
+			if (database.checkData(word.getSourceWord(), word.getTargetWord())) {
+				Alert alert = new Alert(AlertType.ERROR);
+				alert.setTitle("Error");
+				alert.setHeaderText("Word already exists");
+				alert.setContentText("Please try again");
+				alert.showAndWait();
+			} else {
+				database.createTable(this.word.getSourceWord(), this.word.getTargetWord(), this.word.getAudio(),
+				this.word.getPronounce(), this.word.getType(), this.word.getDefinition(), this.word.getExample(),
+				this.word.getSynonyms(), selectTargetBox.getValue());
+				Alert alert = new Alert(AlertType.INFORMATION);
+				alert.setTitle("Message");
+				alert.setHeaderText(null);
+				alert.setContentText("The word has been added to the bookmark");
+					((Stage) alert.getDialogPane().getScene().getWindow()).getIcons()
+					.add(new javafx.scene.image.Image("file:src/main/resources/assert/mess.png"));
+				alert.showAndWait();
+			}
 		} else {
 			Alert alert = new Alert(AlertType.ERROR);
 			alert.setTitle("ERROR");
 			alert.setHeaderText(null);
 			alert.setContentText("Please enter a single word");
 			((Stage) alert.getDialogPane().getScene().getWindow()).getIcons()
-				.add(new javafx.scene.image.Image("file:src/main/resources/assert/error.png"));
+			.add(new javafx.scene.image.Image("file:src/main/resources/assert/error.png"));
 			alert.showAndWait();
 		}
+		database.close();
 	}
 
 	@FXML
@@ -329,13 +338,13 @@ public class DashboardController implements Initializable {
 		undoButton.setDisable(true);
 		bookMarkButton.setDisable(true);
 		InputTextField.setOnKeyPressed(event -> {
-		if (event.isShiftDown()) {
-			if (event.getCode().equals(KeyCode.ENTER)) {
-			Trans();
-			update(false);
-			event.consume();
+			if (event.isShiftDown()) {
+				if (event.getCode().equals(KeyCode.ENTER)) {
+					Trans();
+					update(false);
+					event.consume();
+				}
 			}
-		}
 		});
 		word = new Word();
 		audioButton.setDisable(true);

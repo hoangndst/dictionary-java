@@ -1,5 +1,6 @@
 package translator.gui.controllers;
 
+import java.io.IOException;
 import java.util.ArrayList;
 
 import com.jfoenix.controls.JFXButton;
@@ -9,26 +10,36 @@ import com.jfoenix.controls.JFXTextArea;
 import javafx.collections.FXCollections;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
+import javafx.scene.Scene;
 import javafx.scene.control.Label;
 import javafx.scene.control.ListCell;
+import javafx.scene.control.TextField;
 import javafx.scene.input.Clipboard;
 import javafx.scene.input.ClipboardContent;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.media.Media;
 import javafx.scene.media.MediaPlayer;
+import javafx.stage.Stage;
 import translator.Models.Database;
-import translator.Models.WordFromDB;
+import translator.Models.Word;
 
 public class BookmarkController {
 
-    private WordFromDB sourceText;
+    private Word sourceText;
+    private ArrayList<Word> bookmarkList;
 
-    public void setSourceText(WordFromDB sourceText) {
-        this.sourceText = sourceText;
+    public void setSourceText(Word word) {
+        this.sourceText = word;
     }
 
-    public WordFromDB getSourceText() {
+    public Word getSourceText() {
         return sourceText;
+    }
+
+    public void setBookmarkList(ArrayList<Word> bookmarkList) {
+        this.bookmarkList = bookmarkList;
     }
 
     @FXML
@@ -50,10 +61,32 @@ public class BookmarkController {
     private JFXButton removeButton;
 
     @FXML
+    private JFXButton editButton;
+
+    @FXML
     private JFXTextArea stringTextArea;
 
     @FXML
-    private JFXListView<WordFromDB> textListViewBox;
+    private TextField searchTextArea;
+
+    @FXML
+    private JFXListView<Word> textListViewBox;
+
+    @FXML
+    void searchText(ActionEvent event) {
+        String searchText = searchTextArea.getText();
+        if (searchText.equals("") || searchText.isEmpty()) {
+            textListViewBox.setItems(FXCollections.observableArrayList(bookmarkList));
+        } else {
+            ArrayList<Word> searchList = new ArrayList<>();
+            for (Word word : bookmarkList) {
+                if (word.getSourceWord().contains(searchText)) {
+                    searchList.add(word);
+                }
+            }
+            textListViewBox.setItems(FXCollections.observableArrayList(searchList));
+        }
+    }
 
     @FXML
     void audio(ActionEvent event) {
@@ -97,7 +130,7 @@ public class BookmarkController {
         Database database = new Database();
         if (textListViewBox.getSelectionModel().getSelectedItem() != null) {
             try {
-                database.deleteTable(sourceText.getTime(), sourceText.getSourceWord());
+                database.deleteTable(sourceText.getSourceWord(), sourceText.getTargetWord());
                 textListViewBox.getItems().remove(textListViewBox.getSelectionModel().getSelectedItem());
             } catch (Exception e) {
                 e.printStackTrace();
@@ -112,13 +145,41 @@ public class BookmarkController {
     }
 
     @FXML
+    void edit(ActionEvent event) {
+        try {
+			FXMLLoader loader = new FXMLLoader(getClass().getResource("../../../fxml/EditWord.fxml"));
+			Parent root1 = loader.load();
+
+            EditController editController = loader.getController();
+            editController.setSelectedWord(textListViewBox.getSelectionModel().getSelectedItem());
+
+			Stage stage = new Stage();
+			Scene scene = new Scene(root1);
+			stage.setScene(scene);
+			stage.setTitle("Edit");
+			stage.setResizable(false);
+			stage.getIcons().add(new javafx.scene.image.Image("file:src/main/resources/assert/icon.png"));
+			stage.show();
+			editButton.setDisable(true);
+			stage.setOnCloseRequest((WindowEvent) -> {
+				editButton.setDisable(false);
+                OutputTextArea.setText(textListViewBox.getSelectionModel().getSelectedItem().getTargetWord());
+                stringTextArea.setText(textListViewBox.getSelectionModel().getSelectedItem().getString());
+			});
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+    }
+
+    @FXML
     void initialize() {
         Database database = new Database();
-        ArrayList<WordFromDB> list = database.getSourceList();
+        ArrayList<Word> list = database.getSourceList();
+        setBookmarkList(list);
         textListViewBox.setItems(FXCollections.observableArrayList(list));
-        textListViewBox.setCellFactory(param -> new ListCell<WordFromDB>() {
+        textListViewBox.setCellFactory(param -> new ListCell<Word>() {
             @Override
-            protected void updateItem(WordFromDB item, boolean empty) {
+            protected void updateItem(Word item, boolean empty) {
                 super.updateItem(item, empty);
                 if (item == null || empty) {
                     setText(null);
@@ -129,12 +190,20 @@ public class BookmarkController {
         });
         
         audioButton.setDisable(true);
+        editButton.setDisable(true);
         textListViewBox.getSelectionModel().selectedItemProperty().addListener((observable, oldValue, newValue) -> {
             setSourceText(textListViewBox.getSelectionModel().getSelectedItem());
             audioButton.setDisable(false);
-            OutputTextArea.setText(newValue.getTargetWord());
-            stringTextArea.setText(newValue.getInfo());
-            sourceLangLabel.setText(newValue.getTargetLang());
+            editButton.setDisable(false);
+            if (newValue != null) {
+                OutputTextArea.setText(newValue.getTargetWord());
+                stringTextArea.setText(newValue.getString());
+                sourceLangLabel.setText(newValue.getTargetLang());
+            } else {
+                OutputTextArea.clear();
+                stringTextArea.clear();
+                sourceLangLabel.setText("Language");
+            }
         });
         database.close();
     }

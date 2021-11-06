@@ -4,14 +4,17 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Word {
+
+    private String time;
     private String sourceWord;
     private String targetWord;
     private String audio;
     private String pronounce;
-    private List<String> type = new ArrayList<String>();
-    private List<String> definition = new ArrayList<String>();
-    private List<String> example = new ArrayList<String>();
-    private List<List<String>> synonyms = new ArrayList<List<String>>();
+    private String type;
+    private String definition;
+    private String example;
+    private String synonyms;
+    private String targetLang;
 
     /**
      * Constructor 1.
@@ -30,13 +33,65 @@ public class Word {
      */
 
     public Word() {
-        this.sourceWord = "null";
-        this.targetWord = "null";
+        this.sourceWord = "";
+        this.targetWord = "";
+    }   
+
+    /**
+     * Constructor 3.
+     * 
+     * @param sourceWord source word
+     * @param targetWord target word
+     * @param audio audio
+     * @param pronounce pronounce
+     * @param type type
+     * @param definition definition
+     * @param example example
+     * @param synonyms synonyms
+     */
+
+    public Word(String time, String sourceWord, String targetWord, String audio, String pronounce, String type, String definition, String example, String synonyms, String targetLang) {
+        this.time = time;
+        this.sourceWord = sourceWord.trim().toLowerCase();
+        this.targetWord = targetWord.trim().toLowerCase();
+        this.audio = audio;
+        this.pronounce = pronounce;
+        this.type = type;
+        this.definition = definition;
+        this.example = example;
+        this.synonyms = synonyms;
+        this.targetLang = targetLang;
+    }
+
+
+    /**
+     * Getter for target language.
+     * @return target language
+     */
+    public String getTargetLang() {
+        return targetLang;
     }
 
     /**
-     * Get source word.
-     * 
+     * Getter for time.
+     * @return time
+     */
+
+    public String getTime() {
+        return time;
+    }
+
+    /**
+     * Setter for time.
+     * @param time time
+     */
+
+    public void setTime(String time) {
+        this.time = time;
+    }
+
+    /**
+     * Get source word. 
      * @return source word
      */
 
@@ -120,7 +175,7 @@ public class Word {
      * @return type
      */
 
-    public List<String> getType() {
+    public String getType() {
         return type;
     }
 
@@ -130,7 +185,7 @@ public class Word {
      * @param type type
      */
 
-    public void setType(List<String> type) {
+    public void setType(String type) {
         this.type = type;
     }
 
@@ -140,7 +195,7 @@ public class Word {
      * @return definition
      */
 
-    public List<String> getDefinition() {
+    public String getDefinition() {
         return definition;
     }
 
@@ -150,7 +205,7 @@ public class Word {
      * @param definition definition
      */
 
-    public void setDefinition(List<String> definition) {
+    public void setDefinition(String definition) {
         this.definition = definition;
     }
 
@@ -160,7 +215,7 @@ public class Word {
      * @return example
      */
 
-    public List<String> getExample() {
+    public String getExample() {
         return example;
     }
 
@@ -170,7 +225,7 @@ public class Word {
      * @param example example
      */
 
-    public void setExample(List<String> example) {
+    public void setExample(String example) {
         this.example = example;
     }
 
@@ -180,7 +235,7 @@ public class Word {
      * @return synonyms
      */
 
-    public List<List<String>> getSynonyms() {
+    public String getSynonyms() {
         return synonyms;
     }
 
@@ -190,7 +245,7 @@ public class Word {
      * @param synonyms synonyms
      */
 
-    public void setSynonyms(List<List<String>> synonyms) {
+    public void setSynonyms(String synonyms) {
         this.synonyms = synonyms;
     }
 
@@ -203,32 +258,19 @@ public class Word {
     public String getString() {
         String result = "";
         try {
-        if (!this.type.equals(null)) {
-            result += "Type: " + type.get(0) + ".\n\n";
-            result += "Pronounce: /" + pronounce + "/\n\n";
-            if (!this.definition.get(0).isEmpty()) {
-                result += "Definition: " + definition.get(0) + "\n\n";
-            }
-            if (!this.example.equals(null)) {
-                String e = example.get(0);
-                if (!e.equals("null")) {
-                    result += "Example: " + example.get(0) + ".\n\n";
+            if (!this.getSourceWord().equals("")) {
+                result += "Type: " + this.type + ".\n\n";
+                result += "Pronounce: /" + this.pronounce + "/\n\n";
+                if (!this.definition.equals("")) {
+                    result += "Definition: " + this.definition + "\n\n";
+                }
+                if (!this.example.equals("") || !this.example.equals("null")) {
+                    result += "Example: " + this.example + "\n\n";
+                }
+                if (!this.synonyms.equals("")) {
+                    result += "Synonyms: " + this.synonyms + "\n\n";
                 }
             }
-            if (!this.synonyms.equals(null)) {
-            String sysString = "";
-                for (int i = 0; i < synonyms.get(0).size(); i++) {
-                    if (i == synonyms.get(0).size() - 1) {
-                        sysString += synonyms.get(0).get(i) + ".";
-                    } else {
-                        sysString += synonyms.get(0).get(i) + ", ";
-                    }
-                }
-                if (!sysString.equals("")) {
-                    result += "Synonyms: " + sysString + "\n";
-                }
-            }
-        }
         } catch (Exception e) {
             result = "";
         }

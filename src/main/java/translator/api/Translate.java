@@ -48,63 +48,58 @@ public class Translate {
     try {
       word.setPronounce(jsonObject.get("pronounce").toString());
     } catch (Exception e) {
-      word.setPronounce("none");
+      word.setPronounce("");
     }
     try {
       JSONArray typeArray = jsonObject.getJSONArray("type");
-      List<String> type = new ArrayList<String>();
       if (typeArray.length() > 0) {
-        for (int i = 0; i < typeArray.length(); i++) {
-          type.add(typeArray.get(i).toString());
-        }
+        word.setType(typeArray.get(0).toString());
+      } else {
+        word.setType("");
       }
-      word.setType(type);
     } catch (Exception e) {
-      word.setType(null);
+      word.setType("");
     }
     try {
-
-      List<String> definition = new ArrayList<String>();
       JSONArray definitionArray = jsonObject.getJSONArray("definition");
       if (definitionArray.length() > 0) {
-        for (int i = 0; i < definitionArray.length(); i++) {
-          definition.add(definitionArray.get(i).toString());
-        }
+        word.setDefinition(definitionArray.get(0).toString());
+      } else {
+        word.setDefinition("");
       }
-      word.setDefinition(definition);
     } catch (Exception e) {
-      word.setDefinition(null);
+      word.setDefinition("");
     }
 
     try {
-      List<String> example = new ArrayList<String>();
       JSONArray exampleArray = jsonObject.getJSONArray("example");
       if (exampleArray.length() > 0) {
-        for (int i = 0; i < exampleArray.length(); i++) {
-          example.add(exampleArray.get(i).toString());
-        }
+        word.setExample(exampleArray.get(0).toString());
+      } else {
+        word.setExample("");
       }
-      word.setExample(example);
     } catch (Exception e) {
-      word.setExample(null);
+      word.setExample("");
     }
 
     try {
-      List<List<String>> synonyms = new ArrayList<List<String>>();
       JSONArray synonymsArray = jsonObject.getJSONArray("synonyms");
       if (synonymsArray.length() > 0) {
-        for (int i = 0; i < synonymsArray.length(); i++) {
-          JSONArray synonymsArray2 = synonymsArray.getJSONArray(i);
-          List<String> synonymsList = new ArrayList<String>();
-          for (int j = 0; j < synonymsArray2.length(); j++) {
-            synonymsList.add(synonymsArray2.get(j).toString());
+        JSONArray synonyms = synonymsArray.getJSONArray(0);
+        String sysStr = "";
+        for (int i = 0; i < synonyms.length(); i++) {
+          if (i == synonyms.length() - 1) {
+            sysStr += synonyms.get(i).toString() + ".";
+          } else {
+            sysStr += synonyms.get(i).toString() + ", ";
           }
-          synonyms.add(synonymsList);
         }
+        word.setSynonyms(sysStr);
+      } else {
+        word.setSynonyms("");
       }
-      word.setSynonyms(synonyms);
     } catch (Exception e) {
-      word.setSynonyms(null);
+      word.setSynonyms("");
     }
   }
 
@@ -118,7 +113,7 @@ public class Translate {
   }
 
   public static void main(String[] args) {
-    Translate word = new Translate("play football", "", "vi");
+    Translate word = new Translate("play", "", "vi");
     word.translateWord();
     Word word1 = word.getWord();
     System.out.println(word1.getSourceWord());

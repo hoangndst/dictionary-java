@@ -91,4 +91,18 @@ public class WordFromDB extends Word {
         this.targetLang = targetLang;
     }
 
+
+    // public void setInfo(String type, String pronounce, String definition, String example) {
+    //     String result = "";
+    //     if (!type.equals("")) {
+    //         result += "Type: " + type + ".\n\n";
+    //     }
+    //     if (!pronounce.equals("")) {
+    //         result += "Pronounce: /" + pronounce + "/\n\n";
+    //     }
+    //     if (!definition.equals("")) {
+    //         result += "Definition: " + definition + "\n\n";
+    //     }
+
+    // }
 }
