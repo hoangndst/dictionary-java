@@ -12,7 +12,7 @@ import java.sql.SQLException;
 
 public class Database {    
 
-    private String url = "jdbc:sqlite:src\\main\\resources\\data\\bookmark.sqlite";
+    private String url;
     private Connection conn;
     private Statement stmt;
     private ResultSet rs;
@@ -23,11 +23,31 @@ public class Database {
 
     public Database() {
         try {
+            this.url = "jdbc:sqlite:src\\main\\resources\\data\\Words.sqlite";
             conn = DriverManager.getConnection(url);
             stmt = conn.createStatement();
         } catch (SQLException e) {
             System.out.println(e.getMessage());
         }
+    }
+
+    /**
+     * Constructor 2.
+     *
+     * @param url
+     */
+    public Database(String url) {
+        this.url = url;
+        try {
+            conn = DriverManager.getConnection(url);
+            stmt = conn.createStatement();
+        } catch (SQLException e) {
+            System.out.println(e.getMessage());
+        }
+    }
+
+    public void setUrl(String url) {
+        this.url = url;
     }
 
     /**
@@ -241,6 +261,30 @@ public class Database {
             System.out.println(e.getMessage());
         }
 
+    }
+
+    /**
+     * Add word to bookmark.
+     * @param word
+     */
+
+    public void addWord(Word word) {
+        try {
+            PreparedStatement pstmt = conn.prepareStatement("INSERT INTO bookmark (time, source, target, audio, pronounce, type, definition, example, synonyms, targetLang) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)");
+            pstmt.setString(1, getTime());
+            pstmt.setString(2, word.getSourceWord());
+            pstmt.setString(3, word.getTargetWord());
+            pstmt.setString(4, word.getAudio());
+            pstmt.setString(5, word.getPronounce());
+            pstmt.setString(6, word.getType());
+            pstmt.setString(7, word.getDefinition());
+            pstmt.setString(8, word.getExample());
+            pstmt.setString(9, word.getSynonyms());
+            pstmt.setString(10, word.getTargetLang());
+            pstmt.execute();
+        } catch (SQLException e) {
+            System.out.println(e.getMessage());
+        }
     }
 
     public static void main(String[] args) throws SQLException {

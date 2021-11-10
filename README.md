@@ -134,6 +134,8 @@ Results obtained after calling Translate API
   ```
   
   ![db](demo/sql.png)
+### Quality offline data was imported from our own API.
+  ![db](demo/db.png)
 
 
 ## Libraries

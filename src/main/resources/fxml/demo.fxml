@@ -4,6 +4,7 @@
 <?import com.jfoenix.controls.JFXComboBox?>
 <?import com.jfoenix.controls.JFXListView?>
 <?import com.jfoenix.controls.JFXTextArea?>
+<?import javafx.scene.control.TextField?>
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
@@ -65,6 +66,7 @@
                         </ImageView>
                      </graphic>
                   </JFXButton>
+                  <JFXButton fx:id="changeModeButton" ellipsisString="" graphicTextGap="0.0" layoutX="125.0" layoutY="5.0" onAction="#changeMode" prefHeight="34.0" prefWidth="76.0" ripplerFill="#bce4f9" styleClass="button-default" text="Online" />
                </children>
             </Pane>
          </children>
@@ -92,6 +94,20 @@
                            </image>
                         </ImageView>
                      </graphic>
+                  </JFXButton>
+                  <JFXButton fx:id="editButton" ellipsisString="" graphicTextGap="0.0" layoutX="272.0" layoutY="6.0" onAction="#edit" prefHeight="34.0" prefWidth="35.0" ripplerFill="#bce4f9" styleClass="button-default" visible="false">
+                     <graphic>
+                        <ImageView fitHeight="18.0" fitWidth="18.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../assert/edit.png" />
+                           </image>
+                        </ImageView>
+                     </graphic>
+                  </JFXButton>
+                  <JFXButton fx:id="removeButton" ellipsisString="" graphicTextGap="0.0" layoutX="66.0" layoutY="6.0" onAction="#remove" prefHeight="34.0" prefWidth="88.0" ripplerFill="#bce4f9" styleClass="button-default" text="Remove" visible="false">
+                     <font>
+                        <Font name="Segoe UI Bold" size="14.0" />
+                     </font>
                   </JFXButton>
                </children>
             </AnchorPane>
@@ -124,20 +140,31 @@
             </AnchorPane>
             <AnchorPane layoutX="21.0" layoutY="11.0" prefHeight="349.0" prefWidth="370.0">
                <children>
-                  <VBox prefHeight="346.0" prefWidth="370.0">
+                  <VBox fx:id="onlineVbox" prefHeight="346.0" prefWidth="370.0">
                      <children>
                         <JFXTextArea fx:id="InputTextField" focusColor="#405aa800" prefHeight="203.0" prefWidth="370.0" styleClass="input-text" unFocusColor="#4d4d4d00">
                            <font>
                               <Font name="Segoe UI Bold" size="14.0" />
                            </font>
                         </JFXTextArea>
-                        <JFXListView fx:id="textListViewBox" onEditStart="#textListView" prefHeight="310.0" prefWidth="365.0" styleClass="sidebar" stylesheets="@../css/hyde.css" />
+                        <JFXListView prefHeight="310.0" prefWidth="365.0" styleClass="sidebar" stylesheets="@../css/hyde.css" />
+                     </children>
+                  </VBox>
+                  <VBox fx:id="offlineVbox" prefHeight="354.0" prefWidth="366.0" visible="false">
+                     <children>
+                        <TextField fx:id="searchTextArea" onAction="#searchText" prefHeight="47.0" prefWidth="366.0" promptText="Search" styleClass="input-text" />
+                        <JFXListView fx:id="textListViewBoxOffline" onEditStart="#textListViewOffline" prefHeight="357.0" prefWidth="370.0" styleClass="list-cell" stylesheets="@../css/hyde.css" />
                      </children>
                   </VBox>
                </children>
             </AnchorPane>
             <AnchorPane layoutX="407.0" layoutY="11.0" prefHeight="358.0" prefWidth="369.0" styleClass="output-text" stylesheets="@../css/hyde.css">
                <children>
+                  <JFXTextArea fx:id="longOutputTextArea" editable="false" focusColor="#405aa800" layoutX="15.0" layoutY="14.0" prefHeight="328.0" prefWidth="347.0" styleClass="trans" unFocusColor="#ffffff00">
+                     <font>
+                        <Font name="Segoe UI" size="18.0" />
+                     </font>
+                  </JFXTextArea>
                   <JFXTextArea fx:id="stringTextArea" editable="false" focusColor="#405aa800" layoutX="27.0" layoutY="66.0" prefHeight="286.0" prefWidth="338.0" styleClass="output-text" stylesheets="@../css/hyde.css" unFocusColor="#4d4d4d00">
                      <font>
                         <Font name="Segoe UI" size="14.0" />
@@ -146,11 +173,6 @@
                   <JFXTextArea fx:id="OutputTextArea" editable="false" focusColor="#405aa800" layoutX="14.0" layoutY="14.0" onDragDetected="#outputText" prefHeight="36.0" prefWidth="354.0" styleClass="output-text" stylesheets="@../css/hyde.css" unFocusColor="#4d4d4d00" wrapText="true">
                      <font>
                         <Font name="Segoe UI Bold" size="20.0" />
-                     </font>
-                  </JFXTextArea>
-                  <JFXTextArea fx:id="longOutputTextArea" editable="false" focusColor="#405aa800" layoutX="15.0" layoutY="14.0" prefHeight="328.0" prefWidth="347.0" styleClass="trans" unFocusColor="#ffffff00">
-                     <font>
-                        <Font name="Segoe UI" size="18.0" />
                      </font>
                   </JFXTextArea>
                </children>

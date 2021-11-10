@@ -2,6 +2,7 @@ package translator.gui.controllers;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
 
 import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXListView;
@@ -13,6 +14,7 @@ import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
+import javafx.scene.control.Alert;
 import javafx.scene.control.Label;
 import javafx.scene.control.ListCell;
 import javafx.scene.control.TextField;
@@ -74,13 +76,13 @@ public class BookmarkController {
 
     @FXML
     void searchText(ActionEvent event) {
-        String searchText = searchTextArea.getText();
+        String searchText = searchTextArea.getText().replaceAll("\\s+", "").toLowerCase();
         if (searchText.equals("") || searchText.isEmpty()) {
             textListViewBox.setItems(FXCollections.observableArrayList(bookmarkList));
         } else {
             ArrayList<Word> searchList = new ArrayList<>();
             for (Word word : bookmarkList) {
-                if (word.getSourceWord().contains(searchText)) {
+                if (word.getSourceWord().startsWith(searchText)) {
                     searchList.add(word);
                 }
             }
@@ -127,16 +129,27 @@ public class BookmarkController {
 
     @FXML
     void remove(ActionEvent event) {
-        Database database = new Database();
         if (textListViewBox.getSelectionModel().getSelectedItem() != null) {
             try {
-                database.deleteTable(sourceText.getSourceWord(), sourceText.getTargetWord());
-                textListViewBox.getItems().remove(textListViewBox.getSelectionModel().getSelectedItem());
+                Alert alert = new Alert(Alert.AlertType.CONFIRMATION);
+                alert.setTitle("Confirmation");
+                alert.setHeaderText("Confirm Delete " + sourceText.getSourceWord() + "!");
+                alert.setContentText("Are you sure you want to delete this bookmark?");
+                ((Stage) alert.getDialogPane().getScene().getWindow()).getIcons()
+                .add(new javafx.scene.image.Image("file:src/main/resources/assert/icon.png"));
+                alert.showAndWait();
+                if (alert.getResult() == javafx.scene.control.ButtonType.OK) {
+                    Database database = new Database("jdbc:sqlite:src\\main\\resources\\data\\bookmark.sqlite");
+                    database.deleteTable(sourceText.getSourceWord(), sourceText.getTargetWord());
+                    textListViewBox.getItems().remove(textListViewBox.getSelectionModel().getSelectedItem());
+                    database.close();
+                } else {
+                    alert.close();
+                }
             } catch (Exception e) {
                 e.printStackTrace();
             }
         }
-        database.close();
     }
 
     @FXML
@@ -152,7 +165,7 @@ public class BookmarkController {
 
             EditController editController = loader.getController();
             editController.setSelectedWord(textListViewBox.getSelectionModel().getSelectedItem());
-
+            editController.setIsBookmark(true);
 			Stage stage = new Stage();
 			Scene scene = new Scene(root1);
 			stage.setScene(scene);
@@ -173,8 +186,9 @@ public class BookmarkController {
 
     @FXML
     void initialize() {
-        Database database = new Database();
+        Database database = new Database("jdbc:sqlite:src\\main\\resources\\data\\bookmark.sqlite");
         ArrayList<Word> list = database.getSourceList();
+        Collections.sort(list , (o1, o2) -> o1.getSourceWord().compareTo(o2.getSourceWord()));
         setBookmarkList(list);
         textListViewBox.setItems(FXCollections.observableArrayList(list));
         textListViewBox.setCellFactory(param -> new ListCell<Word>() {
@@ -196,6 +210,7 @@ public class BookmarkController {
             audioButton.setDisable(false);
             editButton.setDisable(false);
             if (newValue != null) {
+                searchTextArea.setText(newValue.getSourceWord());
                 OutputTextArea.setText(newValue.getTargetWord());
                 stringTextArea.setText(newValue.getString());
                 sourceLangLabel.setText(newValue.getTargetLang());

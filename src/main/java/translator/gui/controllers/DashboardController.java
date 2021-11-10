@@ -3,6 +3,8 @@ package translator.gui.controllers;
 import java.io.File;
 import java.io.IOException;
 import java.net.URL;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.ResourceBundle;
 import java.util.Stack;
@@ -10,6 +12,10 @@ import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXComboBox;
 import com.jfoenix.controls.JFXListView;
 import com.jfoenix.controls.JFXTextArea;
+
+import javafx.collections.FXCollections;
+import javafx.collections.ObservableList;
+import javafx.collections.transformation.SortedList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
@@ -17,11 +23,14 @@ import javafx.fxml.Initializable;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Alert;
+import javafx.scene.control.ListCell;
+import javafx.scene.control.TextField;
 import javafx.scene.control.Alert.AlertType;
 import javafx.scene.input.Clipboard;
 import javafx.scene.input.ClipboardContent;
 import javafx.scene.input.KeyCode;
 import javafx.scene.input.MouseEvent;
+import javafx.scene.layout.VBox;
 import javafx.scene.media.Media;
 import javafx.scene.media.MediaPlayer;
 import javafx.stage.Stage;
@@ -37,6 +46,7 @@ public class DashboardController implements Initializable {
 	
 	private Stack<Word> history = new Stack<>();
 	private Stack<Word> future = new Stack<>();
+	private ArrayList<Word> wordsList = new ArrayList<>();
 
   	private final HashMap<String, String> languages = new HashMap<String, String>() {
     	{
@@ -61,6 +71,10 @@ public class DashboardController implements Initializable {
   	public void setWord(Word word) {
     	this.word = word;
   	}
+	
+	public void setWordsList(ArrayList<Word> wordsList) {
+		this.wordsList = wordsList;
+	}
 
 	@FXML
 	private ResourceBundle resources;
@@ -109,6 +123,12 @@ public class DashboardController implements Initializable {
 	private JFXButton showBMButton;
 
 	@FXML
+    private JFXButton editButton;
+
+	@FXML
+    private JFXButton removeButton;
+
+	@FXML
 	private JFXComboBox<String> selectSourceBox;
 
 	@FXML
@@ -118,10 +138,109 @@ public class DashboardController implements Initializable {
 	private JFXButton swapButton;
 
 	@FXML
-	private JFXListView<?> textListViewBox;
+    private JFXListView<Word> textListViewBoxOffline;
 
 	@FXML
 	private JFXButton undoButton;
+
+
+	@FXML
+    private VBox offlineVbox;
+
+    @FXML
+    private VBox onlineVbox;
+
+	@FXML
+    private JFXButton changeModeButton;
+
+	@FXML
+    private TextField searchTextArea;
+
+	@FXML
+    void changeMode(ActionEvent event) {
+		if (offlineVbox.isVisible()) {
+			offlineVbox.setVisible(false);
+			onlineVbox.setVisible(true);
+			translateButton.setDisable(false);
+			OutputTextArea.clear();
+            stringTextArea.clear();
+			audioButton.setDisable(true);
+			editButton.setVisible(false);
+			removeButton.setVisible(false);
+			// OutputTextArea.setEditable(false);
+			// InputTextField.setEditable(false);
+			changeModeButton.setText("Online");
+		} else {
+			offlineVbox.setVisible(true);
+			onlineVbox.setVisible(false);
+			translateButton.setDisable(true);
+			// OutputTextArea.setEditable(true);
+			// stringTextArea.setEditable(true);
+			editButton.setVisible(true);
+			editButton.setDisable(true);
+			removeButton.setVisible(true);
+			removeButton.setDisable(true);
+			changeModeButton.setText("Offline");
+			Database database = new Database();
+			ArrayList<Word> list = database.getSourceList();
+			Collections.sort(list , (o1, o2) -> o1.getSourceWord().compareTo(o2.getSourceWord()));
+			setWordsList(list);
+			textListViewBoxOffline.setItems(FXCollections.observableArrayList(list));
+			database.close();
+		}
+    }
+
+	@FXML
+    void edit(ActionEvent event) {
+		try {
+			FXMLLoader loader = new FXMLLoader(getClass().getResource("../../../fxml/EditWord.fxml"));
+			Parent root1 = loader.load();
+
+            EditController editController = loader.getController();
+            editController.setSelectedWord(this.word);
+			editController.setIsBookmark(false);
+			Stage stage = new Stage();
+			Scene scene = new Scene(root1);
+			stage.setScene(scene);
+			stage.setTitle("Edit");
+			stage.setResizable(false);
+			stage.getIcons().add(new javafx.scene.image.Image("file:src/main/resources/assert/icon.png"));
+			stage.show();
+			editButton.setDisable(true);
+			stage.setOnCloseRequest((WindowEvent) -> {
+				editButton.setDisable(false);
+                OutputTextArea.setText(this.word.getTargetWord());
+                stringTextArea.setText(this.word.getString());
+			});
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+    }
+
+	@FXML
+    void remove(ActionEvent event) {
+		if (!this.word.equals(null)) {
+			try {
+				Alert alert = new Alert(Alert.AlertType.CONFIRMATION);
+                alert.setTitle("Confirmation");
+                alert.setHeaderText("Confirm Delete " + this.word.getSourceWord() + "!");
+                alert.setContentText("Are you sure you want to delete this word?");
+                ((Stage) alert.getDialogPane().getScene().getWindow()).getIcons()
+				.add(new javafx.scene.image.Image("file:src/main/resources/assert/icon.png"));
+                alert.showAndWait();
+				if (alert.getResult() == javafx.scene.control.ButtonType.OK) {
+					Database database = new Database();
+					database.deleteTable(this.word.getSourceWord(), this.word.getTargetWord());
+					textListViewBoxOffline.getItems().remove(textListViewBoxOffline.getSelectionModel().getSelectedItem());
+					database.close();
+				} else {
+					alert.close();
+				}
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }
 
 	@FXML
 	void audio(ActionEvent event) {
@@ -150,6 +269,12 @@ public class DashboardController implements Initializable {
 
 	@FXML
 	void translate(ActionEvent event) {
+		if (onlineVbox.isDisable()) {
+			return;
+		}
+		if (InputTextField.getText().isEmpty()) {
+			return;
+		}
 		Trans();
 		update(false);
 	}
@@ -162,7 +287,7 @@ public class DashboardController implements Initializable {
 	@FXML
 	void bookMark(ActionEvent event) {
 		int words = this.word.getSourceWord().split("\\s+").length;
-		Database database = new Database();
+		Database database = new Database("jdbc:sqlite:src\\main\\resources\\data\\bookmark.sqlite");
 		if (words == 1) {
 			if (database.checkData(word.getSourceWord(), word.getTargetWord())) {
 				Alert alert = new Alert(AlertType.ERROR);
@@ -179,7 +304,7 @@ public class DashboardController implements Initializable {
 				alert.setHeaderText(null);
 				alert.setContentText("The word has been added to the bookmark");
 					((Stage) alert.getDialogPane().getScene().getWindow()).getIcons()
-					.add(new javafx.scene.image.Image("file:src/main/resources/assert/mess.png"));
+					.add(new javafx.scene.image.Image("file:src/main/resources/assert/icon.png"));
 				alert.showAndWait();
 			}
 		} else {
@@ -188,7 +313,7 @@ public class DashboardController implements Initializable {
 			alert.setHeaderText(null);
 			alert.setContentText("Please enter a single word");
 			((Stage) alert.getDialogPane().getScene().getWindow()).getIcons()
-			.add(new javafx.scene.image.Image("file:src/main/resources/assert/error.png"));
+			.add(new javafx.scene.image.Image("file:src/main/resources/assert/icon.png"));
 			alert.showAndWait();
 		}
 		database.close();
@@ -235,9 +360,25 @@ public class DashboardController implements Initializable {
 	}
 
 	@FXML
-	void textListView(ActionEvent event) {
+    void textListViewOffline(ActionEvent event) {
 
-	}
+    }
+
+	@FXML
+    void searchText(ActionEvent event) {
+		String searchText = searchTextArea.getText().replaceAll("\\s+", "").toLowerCase();
+        if (searchText.equals("") || searchText.isEmpty()) {
+            textListViewBoxOffline.setItems(FXCollections.observableArrayList(wordsList));
+        } else {
+            ArrayList<Word> searchList = new ArrayList<>();
+            for (Word word : wordsList) {
+                if (word.getSourceWord().startsWith(searchText)) {
+                    searchList.add(word);
+                }
+            }
+            textListViewBoxOffline.setItems(FXCollections.observableArrayList(searchList));
+        }
+    }
 
 	@FXML
 	void undo(ActionEvent event) {
@@ -354,6 +495,37 @@ public class DashboardController implements Initializable {
 		selectTargetBox.setValue("Vietnamese");
 		sourceLang = languages.get(selectSourceBox.getValue());
 		targetLang = languages.get(selectTargetBox.getValue());
+
+		textListViewBoxOffline.setCellFactory(param -> new ListCell<Word>() {
+            @Override
+            protected void updateItem(Word item, boolean empty) {
+                super.updateItem(item, empty);
+                if (item == null || empty) {
+                    setText(null);
+                } else {
+                    setText(item.getSourceWord());
+                }
+            }
+        });
+
+		textListViewBoxOffline.getSelectionModel().selectedItemProperty().addListener((observable, oldValue, newValue) -> {
+            setWord(textListViewBoxOffline.getSelectionModel().getSelectedItem());
+            if (newValue != null) {
+				audioButton.setDisable(false);
+				bookMarkButton.setDisable(false);
+				editButton.setDisable(false);
+				removeButton.setDisable(false);
+				setWord(newValue);
+				searchTextArea.setText(newValue.getSourceWord());
+                OutputTextArea.setText(newValue.getTargetWord());
+                stringTextArea.setText(newValue.getString());
+                selectTargetBox.setValue(newValue.getTargetLang());
+            } else {
+                OutputTextArea.clear();
+                stringTextArea.clear();
+                selectTargetBox.setValue("Vietnamese");
+            }
+        });
 
 	}
 

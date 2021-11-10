@@ -85,12 +85,12 @@
                   <Font name="Segoe UI" size="14.0" />
                </font>
             </Label>
-            <Label alignment="CENTER" contentDisplay="CENTER" layoutX="407.0" layoutY="255.0" prefHeight="30.0" prefWidth="90.0" styleClass="button-default" text="Example" textAlignment="CENTER">
+            <Label alignment="CENTER" contentDisplay="CENTER" layoutX="407.0" layoutY="244.0" prefHeight="30.0" prefWidth="90.0" styleClass="button-default" text="Example" textAlignment="CENTER">
                <font>
                   <Font name="Segoe UI" size="14.0" />
                </font>
             </Label>
-            <Label alignment="CENTER" contentDisplay="CENTER" layoutX="21.0" layoutY="258.0" prefHeight="30.0" prefWidth="90.0" styleClass="button-default" text="Synonyms" textAlignment="CENTER">
+            <Label alignment="CENTER" contentDisplay="CENTER" layoutX="21.0" layoutY="247.0" prefHeight="30.0" prefWidth="90.0" styleClass="button-default" text="Synonyms" textAlignment="CENTER">
                <font>
                   <Font name="Segoe UI" size="14.0" />
                </font>
@@ -105,12 +105,12 @@
                   <Font name="Segoe UI" size="14.0" />
                </font>
             </JFXTextArea>
-            <JFXTextArea fx:id="exTex" focusColor="#405aa800" layoutX="512.0" layoutY="254.0" prefHeight="106.0" prefWidth="246.0" styleClass="input-text" unFocusColor="#ffffff00">
+            <JFXTextArea fx:id="exTex" focusColor="#405aa800" layoutX="512.0" layoutY="243.0" prefHeight="121.0" prefWidth="246.0" styleClass="input-text" unFocusColor="#ffffff00">
                <font>
                   <Font name="Segoe UI" size="14.0" />
                </font>
             </JFXTextArea>
-            <JFXTextArea fx:id="SynText" focusColor="#405aa800" layoutX="126.0" layoutY="258.0" prefHeight="98.0" prefWidth="246.0" styleClass="input-text" unFocusColor="#ffffff00">
+            <JFXTextArea fx:id="SynText" focusColor="#405aa800" layoutX="126.0" layoutY="247.0" prefHeight="119.0" prefWidth="246.0" styleClass="input-text" unFocusColor="#ffffff00">
                <font>
                   <Font name="Segoe UI" size="14.0" />
                </font>

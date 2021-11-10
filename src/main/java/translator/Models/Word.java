@@ -259,15 +259,19 @@ public class Word {
         String result = "";
         try {
             if (!this.getSourceWord().equals("")) {
-                result += "Type: " + this.type + ".\n\n";
-                result += "Pronounce: /" + this.pronounce + "/\n\n";
-                if (!this.definition.equals("")) {
+                if (!this.type.equals("") && !this.type.equals(null)) {
+                    result += "Type: " + this.type + ".\n\n";
+                } 
+                if (!this.pronounce.equals("") && !this.pronounce.equals(null)) {
+                    result += "Pronounce: /" + this.pronounce + "/\n\n";
+                }
+                if (!this.definition.equals("") && !this.definition.equals(null)) {
                     result += "Definition: " + this.definition + "\n\n";
                 }
-                if (!this.example.equals("") || !this.example.equals("null")) {
+                if (!this.example.equals("") && !this.example.equals(null)) {
                     result += "Example: " + this.example + "\n\n";
                 }
-                if (!this.synonyms.equals("")) {
+                if (!this.synonyms.equals("") && !this.synonyms.equals(null)) {
                     result += "Synonyms: " + this.synonyms + "\n\n";
                 }
             }

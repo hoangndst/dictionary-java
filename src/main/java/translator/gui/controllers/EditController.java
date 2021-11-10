@@ -20,7 +20,12 @@ import translator.Models.Word;
 public class EditController {
 
     private Word selectedWord;
-    
+    private boolean isBookmark = true;
+
+    public void setIsBookmark(boolean isBookmark) {
+        this.isBookmark = isBookmark;
+    }
+
     @FXML
     private ResourceBundle resources;
 
@@ -72,16 +77,29 @@ public class EditController {
         this.selectedWord.setSynonyms(this.SynText.getText());
         this.selectedWord.setDefinition(this.defTex.getText());
         try {
-            Database db = new Database();
-            db.updateWord(this.selectedWord);
-            db.close();
-            Alert alert = new Alert(AlertType.INFORMATION);
-			alert.setTitle("Message");
-			alert.setHeaderText(null);
-			alert.setContentText("The word has been updated to the bookmark");
-			    ((Stage) alert.getDialogPane().getScene().getWindow()).getIcons()
-				.add(new javafx.scene.image.Image("file:src/main/resources/assert/mess.png"));
-			alert.showAndWait();
+            if (isBookmark) {
+                Database db = new Database("jdbc:sqlite:src\\main\\resources\\data\\bookmark.sqlite");
+                db.updateWord(this.selectedWord);
+                db.close();
+                Alert alert = new Alert(AlertType.INFORMATION);
+                alert.setTitle("Message");
+                alert.setHeaderText(null);
+                alert.setContentText("The word has been updated to the bookmark");
+                    ((Stage) alert.getDialogPane().getScene().getWindow()).getIcons()
+                    .add(new javafx.scene.image.Image("file:src/main/resources/assert/mess.png"));
+                alert.showAndWait();
+            } else {
+                Database db = new Database();
+                db.updateWord(this.selectedWord);
+                db.close();
+                Alert alert = new Alert(AlertType.INFORMATION);
+                alert.setTitle("Message");
+                alert.setHeaderText(null);
+                alert.setContentText("The word has been updated to the dictionary");
+                    ((Stage) alert.getDialogPane().getScene().getWindow()).getIcons()
+                    .add(new javafx.scene.image.Image("file:src/main/resources/assert/mess.png"));
+                alert.showAndWait();
+            }
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
