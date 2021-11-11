@@ -117,6 +117,21 @@ public class Database {
     }
 
     /**
+     * Delete bookmark by time.
+     * @param time time of bookmark
+     */
+
+    public void deleteTable(String time) {
+        try {
+            PreparedStatement pstmt = conn.prepareStatement("DELETE FROM bookmark WHERE time = ?");
+            pstmt.setString(1, time);
+            pstmt.execute();
+        } catch (SQLException e) {
+            System.out.println(e.getMessage());
+        }
+    }
+
+    /**
      * Get all bookmarks.
      * @return ArrayList of bookmarks
      */

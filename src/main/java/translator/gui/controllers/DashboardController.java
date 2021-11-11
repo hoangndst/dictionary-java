@@ -230,7 +230,7 @@ public class DashboardController implements Initializable {
                 alert.showAndWait();
 				if (alert.getResult() == javafx.scene.control.ButtonType.OK) {
 					Database database = new Database();
-					database.deleteTable(this.word.getSourceWord(), this.word.getTargetWord());
+					database.deleteTable(this.word.getTime());
 					textListViewBoxOffline.getItems().remove(textListViewBoxOffline.getSelectionModel().getSelectedItem());
 					database.close();
 				} else {

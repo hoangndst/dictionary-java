@@ -97,7 +97,10 @@
             </AnchorPane>
             <VBox layoutX="23.0" layoutY="14.0" prefHeight="354.0" prefWidth="366.0">
                <children>
-                  <TextField fx:id="searchTextArea" onAction="#searchText" prefHeight="47.0" prefWidth="366.0" styleClass="input-text" />
+                  <TextField fx:id="searchTextArea" onAction="#searchText" prefHeight="47.0" prefWidth="366.0" promptText="Search" styleClass="input-text">
+                     <font>
+                        <Font name="Segoe UI Bold" size="14.0" />
+                     </font></TextField>
                   <JFXListView fx:id="textListViewBox" onEditStart="#textListView" prefHeight="357.0" prefWidth="370.0" styleClass="list-cell" stylesheets="@../css/hyde.css" />
                </children>
             </VBox>
