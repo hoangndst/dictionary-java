@@ -230,6 +230,7 @@ public class DashboardController implements Initializable {
 				if (alert.getResult() == javafx.scene.control.ButtonType.OK) {
 					Database database = new Database();
 					database.deleteTable(this.word.getTime());
+					wordsList.remove(this.word);
 					textListViewBoxOffline.getItems().remove(textListViewBoxOffline.getSelectionModel().getSelectedItem());
 					database.close();
 				} else {
@@ -288,7 +289,7 @@ public class DashboardController implements Initializable {
 		int words = this.word.getSourceWord().split("\\s+").length;
 		Database database = new Database("jdbc:sqlite:src\\main\\resources\\data\\bookmark.sqlite");
 		if (words == 1) {
-			if (database.checkData(word.getSourceWord(), word.getTargetWord())) {
+			if (database.checkData(word.getSourceWord(), selectTargetBox.getValue())) {
 				Alert alert = new Alert(AlertType.ERROR);
 				alert.setTitle("Error");
 				alert.setHeaderText("Word already exists");

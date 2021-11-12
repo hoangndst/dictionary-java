@@ -233,11 +233,10 @@ public class Database {
      * @return true if bookmark exists
      */
 
-    public boolean checkData(String source, String target) {
+    public boolean checkData(String source, String targetLang) {
         source = source.replace("\\s+", "").toLowerCase();
-        target = target.replace("\\s+", "").toLowerCase();
         try {
-            rs = stmt.executeQuery("SELECT * FROM bookmark WHERE source = '" + source + "' AND target = '" + target + "'");
+            rs = stmt.executeQuery("SELECT * FROM bookmark WHERE source = '" + source + "' AND targetLang = '" + targetLang + "'");
             if (rs.next()) {
                 return true;
             }

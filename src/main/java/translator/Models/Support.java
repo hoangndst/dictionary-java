@@ -20,24 +20,4 @@ public class Support {
             e.printStackTrace();
         }
     }
-
-
-    public static ArrayList<Word> BinarySearch(ArrayList<Word> words, String word) {
-        ArrayList<Word> result = new ArrayList<>();
-        int left = 0;
-        int right = words.size() - 1;
-        int mid = 0;
-        while (left <= right) {
-            mid = (left + right) / 2;
-            if (words.get(mid).getSourceWord().startsWith(word)) {
-                result.add(words.get(mid));
-                left = mid + 1;
-            } else if (words.get(mid).getSourceWord().compareTo(word) < 0) {
-                right = mid - 1;
-            } else {
-                left = mid + 1;
-            }
-        }
-        return result;
-    }
 }
