@@ -183,7 +183,6 @@ public class DashboardController implements Initializable {
 			changeModeButton.setText("Offline");
 			Database database = new Database();
 			ArrayList<Word> list = database.getSourceList();
-			Collections.sort(list , (o1, o2) -> o1.getSourceWord().compareTo(o2.getSourceWord()));
 			setWordsList(list);
 			textListViewBoxOffline.setItems(FXCollections.observableArrayList(list));
 			database.close();

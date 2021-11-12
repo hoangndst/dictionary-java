@@ -188,7 +188,6 @@ public class BookmarkController {
     void initialize() {
         Database database = new Database("jdbc:sqlite:src\\main\\resources\\data\\bookmark.sqlite");
         ArrayList<Word> list = database.getSourceList();
-        Collections.sort(list , (o1, o2) -> o1.getSourceWord().compareTo(o2.getSourceWord()));
         setBookmarkList(list);
         textListViewBox.setItems(FXCollections.observableArrayList(list));
         textListViewBox.setCellFactory(param -> new ListCell<Word>() {

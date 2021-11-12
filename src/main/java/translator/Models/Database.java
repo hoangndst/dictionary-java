@@ -3,6 +3,7 @@ package translator.Models;
 import java.sql.Statement;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.sql.Connection;
 import java.util.Date;
 import java.sql.DriverManager;
@@ -154,6 +155,7 @@ public class Database {
                 Word word = new Word(time, source, target, audio, pronounce, type, definition, example, synonyms, targetLang);
                 sourceList.add(0, word);
             }
+            Collections.sort(sourceList, (o1, o2) -> o1.getSourceWord().compareTo(o2.getSourceWord()));
         } catch (SQLException e) {
             System.out.println(e.getMessage());
         }

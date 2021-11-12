@@ -6,7 +6,7 @@ import javafx.fxml.FXML;
 import javafx.scene.control.Hyperlink;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.AnchorPane;
-import translator.Models.Link;
+import translator.Models.Support;
 
 public class AboutController {
 
@@ -30,7 +30,7 @@ public class AboutController {
     @FXML
     void initialize() {
         reportBug.setOnAction(event -> {
-            Link.Open("https://github.com/hoangndst/dictionary-java/issues");
+            Support.OpenLink("https://github.com/hoangndst/dictionary-java/issues");
         });
         assert AboutPane != null : "fx:id=\"AboutPane\" was not injected: check your FXML file 'About.fxml'.";
         assert reportBug != null : "fx:id=\"reportBug\" was not injected: check your FXML file 'About.fxml'.";
