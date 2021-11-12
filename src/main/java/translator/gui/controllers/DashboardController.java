@@ -438,17 +438,21 @@ public class DashboardController implements Initializable {
 		}
 		int words = this.word.getSourceWord().split("\\s+").length;
 		if (words == 1) {
-			longOutputTextArea.setDisable(true);
+			longOutputTextArea.setVisible(false);
+			OutputTextArea.setVisible(true);
+			stringTextArea.setVisible(true);
 			OutputTextArea.setText(this.word.getTargetWord());
 			stringTextArea.setText(this.word.getString());
-		if (!this.word.getAudio().equals("none")) {
-			audioButton.setDisable(false);
+			if (!this.word.getAudio().equals("none")) {
+				audioButton.setDisable(false);
+			} else {
+				audioButton.setDisable(true);
+			}
 		} else {
 			audioButton.setDisable(true);
-		}
-		} else {
-			audioButton.setDisable(true);
-			longOutputTextArea.setDisable(false);
+			OutputTextArea.setVisible(false);
+			stringTextArea.setVisible(false);
+			longOutputTextArea.setVisible(true);
 			longOutputTextArea.setText(this.word.getTargetWord());
 		}
 

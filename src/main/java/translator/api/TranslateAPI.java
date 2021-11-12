@@ -46,7 +46,7 @@ public class TranslateAPI {
 
   private String makeURL() throws UnsupportedEncodingException {
     String url =
-        "https://script.google.com/macros/s/AKfycbztBWHJe5CYCbxaRG9eCcNHMF7-jpbp2kQYw4Rnwa5TPinsovj489tFrA3V3BtiNoeh6A/exec"
+        "https://script.google.com/macros/s/AKfycbz_XszfZNwwc3GsvDOXe8nPrT9dZ4MyZCy5ujcly6Ighr8rmTyMOD0jsYjRUTSllz4WMw/exec"
             + "?q=" + URLEncoder.encode(sourceWord, "UTF-8") + "&target=" + targetLang + "&source="
             + sourceLang;
     return url;

@@ -76,6 +76,10 @@ public class BookmarkController {
 
     @FXML
     void searchText(ActionEvent event) {
+        Database db = new Database("jdbc:sqlite:src\\main\\resources\\data\\bookmark.sqlite");
+        ArrayList<Word> list = db.getSourceList();
+        textListViewBox.setItems(FXCollections.observableArrayList(list));
+        db.close();
         String searchText = searchTextArea.getText().replaceAll("\\s+", "").toLowerCase();
         if (searchText.equals("") || searchText.isEmpty()) {
             textListViewBox.setItems(FXCollections.observableArrayList(bookmarkList));
@@ -140,7 +144,8 @@ public class BookmarkController {
                 alert.showAndWait();
                 if (alert.getResult() == javafx.scene.control.ButtonType.OK) {
                     Database database = new Database("jdbc:sqlite:src\\main\\resources\\data\\bookmark.sqlite");
-                    database.deleteTable(sourceText.getSourceWord(), sourceText.getTargetWord());
+                    database.deleteTable(sourceText.getTime());
+                    bookmarkList.remove(textListViewBox.getSelectionModel().getSelectedItem());
                     textListViewBox.getItems().remove(textListViewBox.getSelectionModel().getSelectedItem());
                     database.close();
                 } else {
