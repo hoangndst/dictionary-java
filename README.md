@@ -142,7 +142,5 @@ Results obtained after calling Translate API
 - [JavaFX](https://openjfx.io/)
 - [JFoenix](http://www.jfoenix.com/)
 
-### Contributor: [@hoangndst](https://github.com/hoangndst), [@naslth](https://github.com/naslth).
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
